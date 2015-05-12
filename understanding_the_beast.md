@@ -20,7 +20,7 @@ To add more juice to the mix, with today’s web,  they’ve got even more radic
 
 At this point of the chapter, If you are a developer and I did not pass your bullshiting test, you are already getting another book.  
 
-If you are not a developer, please recognise their colossal effort in building this muscle mass in the brain. Developers can step over pain, stress and hold a considerable amount of logic at same time. 
+If you are not a developer, please recognise their effort in building this muscle mass in the brain. Developers can step over pain, stress and hold a considerable amount of logic at same time. 
 
 Did I mention they eat opposite ideas for breakfast ? 
 
