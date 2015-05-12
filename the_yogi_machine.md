@@ -61,9 +61,3 @@ Absolutely.
 
 As we will see, it goes beyond just breathing without moving. It will require balance, consciousness and a developer’s mindset. 
 
-
-
-### trash
-Now let’s go back to the our initial picture.  Our Yogi is obviously breathing. He is also at rest and balanced. If his muscles are not eating up the Oxygen, to where else is going all the Oxygen ?
-
-The brain, as we will discuss later, has many ways to consume energy. A meditative mind has a low foot print on consuming Oxygen. 
