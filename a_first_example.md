@@ -1,9 +1,5 @@
 # A first Example
 
-These last 25 years showed me that developers have yogi and artist capabilities to a surprising levels. Let me suggest further that we can refine these capabilities to a new higher level if explored under different lens. 
-
-A real example ? 
-
 Let’s get something simple such as my personal guidelines for writing this particular book. I decided to commit myself to the following rules while in front of my computer :
 
 1. 
@@ -21,7 +17,7 @@ Lets check one by one:
 
 ... to focus on my breath before touching the keyboard seemed easy but respecting this rule at all times required a Confucius determination. My main goal here was to connect with my body before “Total Thought Immersion”. Why is this relevant ? How Total Thought Immersion works ? Can I call breath.init() before any action ??
 
-… to notice that “I am having doubts about my writings”, then noticed, then stop and refocus on the breath was probably the trickiest of the rules. My main goal here was to remind me about the root of everything: consciousness.  Why is so important to understand consciousness from your own experience ?  Do I need to instantiate consciousness or is it a global variable ?
+… to notice that “I am having doubts about my writings”, then stop and refocus on the breath was probably the trickiest of the rules. My main goal here was to remind me about the root of everything: consciousness.  Why is so important to understand consciousness from your own experience ?  Do I need to instantiate consciousness or is it a global variable ?
 
 These questions and others are the inspiration for this book. As many Developers, myself included, we abuse our bodies daily. 
 
