@@ -23,6 +23,6 @@ Lets check one by one:
 
 … to notice that “I am having doubts about my writings”, then noticed, then stop and refocus on the breath was probably the trickiest of the rules. My main goal here was to remind me about the root of everything: consciousness.  Why is so important to understand consciousness from your own experience ?  Do I need to instantiate consciousness or is it a global variable ?
 
-These questions and others are the inspiration for this book. As many Developers, myself included, we abuse our bodies daily. 
+These questions and others are usual to Developers, they want to know how things work. The problem is that, as Developers (myself included), we abuse our bodies often. 
 
-It is about time to a discussion about personal sustainability. 
+It is about time we tackle personal sustainability with a Developer mind. 
