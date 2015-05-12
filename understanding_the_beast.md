@@ -14,9 +14,9 @@ Like kids, they get along with each other quickly, they just need to speak the s
 
 They have bugs to fix, called “debugging”. To debug is often hell. It requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in armageddon. 
 
-I’ve worked as a developer, project manager and project director for a long time. I can assure you something else: they have an incredible sense of detecting bullshit, if being told. 
-
 To add more juice to the mix, with today’s web,  they’ve got even more radical. If they do not  see the beauty of a concept in 5 examples or a 3 minutes video, oh boy, your technology or framework will be trashed. They will not hesitate a second to spend energy elsewhere. 
+
+I’ve worked as a developer, project manager and project director for a long time. I can assure you something else: they have an incredible sense of detecting bullshit, if being told. 
 
 At this point of the chapter, If you are a developer and I did not pass your bullshiting test, you are already getting another book.  
 
