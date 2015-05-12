@@ -1,6 +1,6 @@
 # Introduction
 
-##### This book is about personal sustainability.  
+##### This book is about self sustainability.  
 
 I joyfully dedicate my professional life to music and software development.
 
