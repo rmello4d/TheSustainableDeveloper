@@ -1,6 +1,6 @@
 # Understanding the Beast
 
-#### Developers are tough.
+##### Developers are tough.
 
 They can sit 12 hours in front of a computer. 
 
