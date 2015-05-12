@@ -1,5 +1,4 @@
 # Summary
 
-* [Introduction](introduction.md)
-* [A first Example](a_first_example.md)
+* Part 1 - The Developer's path
 
