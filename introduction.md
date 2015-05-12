@@ -16,9 +16,9 @@ As you will see in the book, the Sustainable Developer is not a guru-ninja-maste
 
 Sorry. 
  
-The Sustainable Developer mainly understands how personal energy is consumed and how he can benefit from it. That alone, can transform your personal life.    
+The Sustainable Developer primarily understands how personal energy is consumed and how he can benefit from it. That alone, may transform your personal life.    
 
-From a positive side, these last 25 years showed me that developers have yogi and artist capabilities to a surprising levels. Let me suggest further that these capabilities can be refined to a new high level if explored under different lens. 
+These last 25 years showed me that developers have yogi and artist capabilities to a surprising levels. Let me suggest further that these capabilities can be refined to a new high level if explored under different lens. 
 
 A real example ? 
 
