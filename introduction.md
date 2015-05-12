@@ -2,9 +2,13 @@
 
 ##### This book is about personal sustainability.  
 
-I joyfully dedicated my professional life to music and software development. After 15 years of intense work, I had problems related to body exhaustion. These problems were partially neglected and they soon became permanent injury.  
+I joyfully dedicated my professional life to music and software development.
 
-By that time, someone recommend Meditation and Yoga. My first class was in 1999 and Yoga and Meditation became important to me. I dove deeper and deeper. To my surprise, I was not just getting better at Yoga and Meditation,  I was getting better as a Developer and as a Musician. Since 1999, 'coincidentally' the Music and Software Development careers also took off.  
+After 15 years of intense work, I had problems related to body exhaustion. These problems were partially neglected and they soon became permanent injury.
+
+By that time, someone recommend Meditation and Yoga. My first class was in 1999 and Yoga and Meditation became important to me. 
+
+To my surprise, I was not just getting better at Yoga and Meditation, I was getting better as a Developer and as a Musician. Since 1999, 'coincidentally' the Music and Software Development careers took off. 
 
 This book tells my failures and successes as a Software developer, Musician and Yoga teacher.   
 
@@ -16,7 +20,7 @@ As you will see, the Sustainable Developer is not a guru-ninja-master of all thi
 
 Sorry. 
  
-The Sustainable Developer understands how to consume personal energy. He can enjoy this knowledge by getting more energy and focus on daily tasks and work. That alone, may transform your personal life.    
+The Sustainable Developer understands how to use personal energy. He can enjoy this knowledge by manipulating his energy and focus on daily tasks and work. That alone, may transform your personal life.    
 
 Will there be any coding examples ? Yes.  Although I will try my best to invite non-coders to understand our world. Do not expect coding techniques in this book.
 
