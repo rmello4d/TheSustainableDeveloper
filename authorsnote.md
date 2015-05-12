@@ -14,7 +14,7 @@ This book tells my failures and successes as a Software developer, Musician and 
 
 They are personal but hopefully will help you as well. 
 
-Just to be clear, this book does not offer any magical solution to become a super developer. Rather, this book points a direction. It tackles a neglected side of software development: personal sustainability. 
+Just to be clear, this book does not offer any magical solution to become a super developer. Rather, this book points to a direction. It tackles a neglected side of software development: self sustainability. 
 
 As you will see, the Sustainable Developer is not a guru-ninja-master of all things in the universe. 
 
