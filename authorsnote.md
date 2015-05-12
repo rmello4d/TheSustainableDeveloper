@@ -6,7 +6,7 @@ I joyfully dedicate my professional life to music and software development.
 
 After 15 years of intense work, I've developed pain and body exhaustion caused by tendinitis and dupuytrens. These problems were partially neglected and they soon became permanent injury.
 
-By that time, someone recommend Meditation and Yoga. My first class was in 1999 and Yoga and Meditation became part of my life style. 
+By that time, someone recommended Meditation and Yoga. My first class was in 1999 and Yoga and Meditation became part of my life style. 
 
 To my surprise, I was not just getting better at Yoga and Meditation. It also impact my life as a Developer and as a Musician. 'Coincidentally' the Music and Software Development careers took off. 
 
