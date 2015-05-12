@@ -8,7 +8,7 @@ After 15 years of intense work, I've developed pain and body exhaustion caused b
 
 By that time, someone recommended Meditation and Yoga. My first class was in 1999 and Yoga and Meditation became part of my life style. 
 
-To my surprise, I was not just getting better at Yoga and Meditation. It also impact my life as a Developer and as a Musician. 'Coincidentally' the Music and Software Development careers took off. 
+To my surprise, I was not just getting better at Yoga and Meditation. It also impacted my life as a Developer and as a Musician. 'Coincidentally' the Music and Software Development careers took off. 
 
 This book tells my failures and successes as a Software developer, Musician and Yoga teacher.   
 
