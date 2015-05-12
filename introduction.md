@@ -16,7 +16,7 @@ As you will see, the Sustainable Developer is not a guru-ninja-master of all thi
 
 Sorry. 
  
-Rather, The Sustainable Developer primarily understands how personal energy is consumed and how he can benefit from it. That alone, may transform your personal life.    
+The Sustainable Developer primarily understands how personal energy is consumed and how he can benefit from it. That alone, may transform your personal life.    
 
 
 Oh, will there be any coding examples ? Yes.  Although having coding examples, I will try my best to invite non-coders to understand our world, so do not expect coding techniques in this book.
