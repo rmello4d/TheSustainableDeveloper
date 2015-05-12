@@ -3,7 +3,6 @@
 *developer dɪˈvɛləpə(r)*
 *
 
-**noun**
 ```
 a person or thing that develops something.
 "a property developer"```
