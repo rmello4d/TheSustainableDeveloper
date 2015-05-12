@@ -2,7 +2,7 @@
 
 ##### This book is about self sustainability.  
 
-I joyfully dedicate my professional life to music and software development.
+I happily dedicate my professional life to music and software development.
 
 After 15 years of intense work, I've developed pain and body exhaustion caused by tendinitis and dupuytrens. These problems were partially neglected and they soon became permanent injury.
 
