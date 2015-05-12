@@ -12,7 +12,7 @@ Yes, they dress casually. Being simple saves time. Grooming is rarely a priority
 
 Like kids, they get along with each other quickly, they just need to speak the same mother language : Do you know JavaScript ? Shit yes. (Smile) Let's talk !  
 
-They have bugs to fix, called “debugging”. Debug is often hell. It requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in armageddon. 
+They have bugs to fix, called “debugging”. To debug is often hell. It requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in armageddon. 
 
 I’ve worked as a developer, project manager and project director for a long time. I can assure you something else: they have an incredible sense of detecting bullshit, if being told. 
 
