@@ -1,4 +1,4 @@
-# A first Example
+# First Challenge
 
 Let’s get something simple such as my personal guidelines for writing this particular book. I decided to commit myself to the following rules while in front of my computer :
 
