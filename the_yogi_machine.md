@@ -34,9 +34,9 @@ A relaxed mind solves the second piece of our puzzle : the brain is another big 
 
 Is it really possible to relax our mind and consume less oxygen ? Yes. We do that everyday at sleep. 
 
-What happens when we sleep? We rest. How do we rest ? By not moving much and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep and our mental activity is none. 
+What happens when we sleep? We rest. How do we rest ? By not moving much and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep. 
 
-This is interesting, at sleep, the brain and the muscles are not consuming as much oxygen. Where is all that unused breathing oxygen going ? 
+This brings an interesting question. If at sleep, the brain and the muscles are not consuming as much oxygen, to  where is all that unused breathing oxygen going ? 
 
 Everywhere else. Organs, tissues, cells...
 
