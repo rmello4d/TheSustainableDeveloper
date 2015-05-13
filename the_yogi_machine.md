@@ -42,7 +42,7 @@ Everywhere else. Organs, tissues, cells...
 
 After sleeping for 8 hours we feel recharged.
 
-Now lets go back and imagine the Yogi. His posture is balanced. His muscles are relaxed to the minimal effort. His brain is going layer by layer to a deep state of meditation or relaxation. Since he is not asleep, he may decide to breathe a notch up and get a bit more oxygen and energy. 
+Now lets go back and imagine the Yogi. His posture is balanced. His muscles are relaxed to the minimal effort. His brain is going layer by layer to a deep state of meditation or relaxation. To go even further, consciously he decides to breathe a notch up and get even more oxygen and energy. 
 
 After awhile, he turns into those radiant beams of light. 
 
