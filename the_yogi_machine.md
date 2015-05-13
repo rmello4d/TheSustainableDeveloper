@@ -16,11 +16,11 @@ He is balanced and relaxed.
 
 By not moving and by being at rest, a Yogi solves the first piece of our puzzle: muscles are big consumers of energy and oxygen in the body. 
 
-Our muscles play a big role in all the energy we consume while awake. 
+Our muscles play a big role in all the energy we consume while awake. They use oxygen coming from our breathing to create energy. 
 
-They use oxygen to create energy. As result, muscle activity impacts our breathing. We all experience this when we try to sprint, we will naturally increase our breathing frequency. We have to "catch our breath".  
+We all know instinticvely this relationship between muscle activity and breathing. If we try to sprint we will naturally increase our breathing frequency. We have to "catch our breath".  
 
-Here a wild guess based on our evolutionary history. Imagine you have a Lion chasing you. All you want is: please make my muscles a primary receiver of the breathing oxygen! 
+Here a wild guess why muscles consume a lot of oxygen. Imagine you have a Lion chasing you. All you ask for is: please get all energy possible to my muscles !
 
 In fact, our muscles devour oxygen when active: to move, stand, run, swimn, etc. But it goes further, since we became bipedal a myriad of muscles is used to just keep up with gravity! 
 
