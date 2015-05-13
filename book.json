@@ -1,4 +1,8 @@
 {
     "plugins": [],
-    "pluginsConfig": {}
+    "pluginsConfig": {},
+    "structure": {
+        "readme": "authorsnote.md"
+    }
+
 }
