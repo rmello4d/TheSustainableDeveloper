@@ -23,7 +23,7 @@ repeat
 
 As you probably noticed with tears, by now, John is dead. We told the computer to increase the speed in every repeat. John will start at 0 and increase his speed until he is a Ferrari, then a rocket, then...kaboom.
 
-Since we are in a perpetual loop, the speed will keep growing higher and higher. 
+Since we are in a perpetual loop created by the repeat instruction, the speed will keep growing higher and higher. 
 
 To get more real, we will go back and 'fix' the instructions to avoid this problem. Let's give 10 km/h as a speed limit for John: 
 
