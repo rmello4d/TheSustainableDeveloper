@@ -11,20 +11,19 @@ They go layer after layer building a considerable chain of logical paths in thei
 Yes, they dress casually. Being simple saves time. Grooming is rarely a priority. 
 
 Like kids, they get along with each other quickly, they just need to speak the same mother language : Do you know JavaScript ? Shit yes. (Smile) Let's talk !  
-
 They have bugs to fix, called “debugging”. To debug is often hell. It requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in armageddon. 
 
-To add more juice to the mix, with today’s web,  they’ve got even more radical. If they do not  see the beauty of a concept in 5 examples or a 3 minutes video, oh boy, your technology or framework will be trashed. They will not hesitate a second to spend energy elsewhere. 
+To add more juice to the mix, with today’s web,  they’ve got even more radical. If they don't see the beauty of a concept in 5 examples or a 3 minutes video, oh boy, your technology or framework will be trashed. They will not hesitate a second to spend energy elsewhere. 
 
 I’ve worked as a developer, project manager and project director for a long time. I can assure you something else: they have an incredible sense of detecting bullshit, if being told. 
 
 At this point of the chapter, If you are a developer and I did not pass your bullshiting test, you are already getting another book.  
 
-If you are not a developer, please recognise their effort in building this muscle mass in the brain. Developers can step over pain, stress and hold a considerable amount of logic at same time. 
+Developers build muscle mass in the brain for logical processing. They can step over pain, stress and hold a considerable amount of information at same time. 
 
 Did I mention they eat opposite ideas for breakfast ? 
 
-They are beasts, often with a geek sweetness and fragile face. 
+They are mental beasts, often with a geek sweetness and fragile face. 
 
 Watch out. 
 
