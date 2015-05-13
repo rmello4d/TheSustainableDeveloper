@@ -21,4 +21,6 @@ Lets check one by one:
 
 These questions and others are the inspiration for this book. As many Developers, myself included, we abuse our bodies daily. 
 
-It is about time to a discussion about personal sustainability. 
+It is time for us to talk and discuss about self sustainability.
+
+Let it be. 
