@@ -6,7 +6,7 @@ The goal is to understand the idea of coding and how we create a set of instruct
 
 First, developers need to know a computer language. Something like English or French ? Yes but not quiet. 
 
-Computer languages are minimal. Think about 50 reserved words for example, which is the real case of a language called JAVA. 
+Computer languages are minimal. Think about a language with only 50 reserved words for example, which is the real case of a language called JAVA. 
 
 Lets say we want the computer to simulate a 'running' person (John).  The problem is, the computer vocabulary does not have 'run' as a word. 
 
