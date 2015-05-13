@@ -4,7 +4,7 @@ This chapter is for non-coders, so feel free to step to the next chapter if you 
 
 The goal is to understand the idea of coding and how we create a set of instructions to tell a story.   
 
-First, developers need to know a computer language. Do I mean something like English or French ? Yes but not quiet. 
+First, developers need to know a computer language. Meaning, something like English or French ? Yes but not quiet. 
 
 Computer languages are minimal. Think about 50 reserved words for example, which is the real case of a language called JAVA. 
 
@@ -19,9 +19,9 @@ step,
 increase speed,
 repeat           
 ```
-*ps. repeat is a magical word in the computer vocabulary. Once the computer see the word repeat, it will go back to the first step and run the pile of instructions again. Notice that, running the pile again means that we will end on another reapeat, creating a perpetual loop. *
+*ps. repeat is a 'magical' word in the computer vocabulary. Once the computer see the word repeat, it will go back to the first step and run the pile of instructions again. Notice that, running the pile again means that we will end on another reapeat, creating a perpetual loop. *
 
-As you probably noticed with tears, by now, John is dead. We told the computer to increase the speed in every repeat. John will start at 0 and increase his speed until he is a Ferrari, then a rocket, then...
+As you probably noticed with tears, by now, John is dead. We told the computer to increase the speed in every repeat. John will start at 0 and increase his speed until he is a Ferrari, then a rocket, then...kaboom.
 
 Since we are in a perpetual loop, the speed will keep growing higher and higher. 
 
@@ -33,7 +33,9 @@ if speed is less than 10 km/h, then increase speed
 repeat 
 ```
 
-Wait a minute. What is that long instruction ? Computers have a great ability to compute and to be logical. Computer Languages exploit that by supplying us with a series of special words: 'if', 'then', 'else', 'equal', 'less than', 'repeat' and etc. Knowing these words is almost mandatory to code. 
+Wait a minute. What is that long instruction ? Computers have a great ability to compute and to be logical. Computer Languages exploit that by supplying us with a series of special words: 
+-'if', 'then', 'else', 'equal', 'less than', 'repeat' and etc. 
+Knowing these words is almost mandatory to code. 
 
 Our new 'if' instruction is telling the computer to test if the speed is less than 10km/h. If so, then increase the speed.   
 
