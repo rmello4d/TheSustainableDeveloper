@@ -24,7 +24,7 @@ Here a wild guess why muscles consume a lot of oxygen. Imagine you have a Lion c
 
 In fact, our muscles devour oxygen when active: to move, stand, run, swimn, etc. But it goes further, since we became bipedal a myriad of muscles is used to just keep up with gravity! 
 
-Keeping in mind this important correlation of muscles, breath and Energy consumption. 
+Keeping in mind this important correlation of muscles, breath and energy consumption. 
 
 **In lotus position a Yogi meditates.** 
 
