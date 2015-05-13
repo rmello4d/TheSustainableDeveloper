@@ -18,7 +18,7 @@ By not moving and by being at rest, a Yogi solves the first piece of our puzzle:
 
 Our muscles play a big role in all the energy we consume while awake. 
 
-They use oxygen to create energy. As result, muscles activity impacts our breathing. We all experience this when we try to sprint, we will naturally increase our breathing frequency. We have to "catch our breath".  
+They use oxygen to create energy. As result, muscle activity impacts our breathing. We all experience this when we try to sprint, we will naturally increase our breathing frequency. We have to "catch our breath".  
 
 Here a wild guess based on our evolutionary history. Imagine you have a Lion chasing you. All you want is: please make my muscles a primary receiver of the breathing oxygen! 
 
