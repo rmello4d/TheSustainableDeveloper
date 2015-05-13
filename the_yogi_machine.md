@@ -32,7 +32,7 @@ Allow me to simplify the word meditation as the relaxing of your mind. We will g
 
 A relaxed mind solves the second piece of our puzzle : the brain is another big consumer of energy and oxygen in the body. 
 
-Is it really possible to relax our mind ? Yes. We do that everyday at sleep. 
+Is it really possible to relax our mind and consume less oxygen ? Yes. We do that everyday at sleep. 
 
 What happens when we sleep? We rest. How do we rest ? By not moving much and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep and our mental activity is none. 
 
@@ -40,7 +40,7 @@ This is interesting, at sleep, the brain and the muscles are not consuming as mu
 
 Everywhere else. Organs, tissues, cells...
 
-After sleeping for 8 hours we feel recharged. 
+After sleeping for 8 hours we feel recharged.
 
 Now lets go back and imagine the Yogi. His posture is balanced. His muscles are relaxed to the minimal effort. His brain is going layer by layer to a deep state of meditation or relaxation. Since he is not asleep, he may decide to breathe a notch up and get a bit more oxygen and energy. 
 
