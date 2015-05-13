@@ -24,7 +24,7 @@ Will there be any coding examples ? Yes.  Although I will try my best to invite 
 
 These last 25 years showed me that developers have yogi and artist capabilities to a surprising levels. Let me suggest further that we can refine these capabilities to a new higher level if explored under different lens. 
 
-Last but not least, let me kindly suggest,  please share your opinion about anything you believe wrong in this book.  As for the parts you agree, be my guest to spread and enlarge this conversation even further. 
+Last but not least, let me kindly suggest,  please share your opinion about anything you believe wrong or right in this book. Help me to spread and enlarge this conversation even further. 
 
 Enjoy it !
 
