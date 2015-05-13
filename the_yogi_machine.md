@@ -28,7 +28,7 @@ Keeping in mind this important correlation of muscles, breath and Energy consump
 
 **In lotus position a Yogi meditates.** 
 
-Allow me to simplify the word meditation as the relaxing of your mind. We will get deeper into how that happens, but for now, please bare with me. 
+Allow me to simplify the word meditation as the relaxing of your mind. We will go deeper into how that happens, but for now, please bare with me. 
 
 A relaxed mind solves the second piece of our puzzle : the brain is another big consumer of energy and oxygen in the body. 
 
