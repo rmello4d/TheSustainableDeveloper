@@ -7,5 +7,5 @@
    * [Understanding the Beast](understanding_the_beast.md)
    * [The Yogi Machine](the_yogi_machine.md)
 * [Part 2 - The Sustainable Developer]
-* Learn how to code
+* [Learn how to code](learn_how_to_code.md)
 
