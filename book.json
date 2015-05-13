@@ -3,9 +3,5 @@
     "pluginsConfig": {},
     "structure": {
         "readme": "authorsnote.md"
-    },
-     "styles": {
-        "website": "website.css"
     }
-
 }
