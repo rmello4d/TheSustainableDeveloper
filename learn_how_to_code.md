@@ -69,7 +69,7 @@ The last and important detail. There are infinite ways to tell a story. The art 
 
 > Curiosities :
 
-Every computer language is different, like the English and French comparison. Having said that, a program written in one language could be hard to understand, if the developer does not know that language. 
+Every computer language is different, like the English and French comparison. Having said that, a program written in one language could be hard to understand if the developer does not know that language. 
 
 Every computer language has a set of reserved words. Some have 50 others have 400 keywords. The number of words does not mean power, both languages are able to tell a story. 
 
