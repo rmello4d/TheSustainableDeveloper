@@ -50,7 +50,7 @@ Can we fix again and for Godsake keep John alive ? Let's say John will run for 2
 
 ```
 step,
-increase speed only if speed is less than 10 km/h 
+if speed is less than 10 km/h, then increase speed 
 repeat until time is equal 20 mins. 
 stop
 ```
