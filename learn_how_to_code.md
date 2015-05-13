@@ -8,7 +8,7 @@ First, developers need to know a computer language. Would English or French be s
 
 Computer languages are minimal. Think about a language with only 50 reserved words for example, which is the real case of a language called JAVA. 
 
-Lets say we want the computer to simulate a 'running' person (John).  The problem is, the computer vocabulary does not have 'run' as a word. 
+Now, lets say we want the computer to simulate a person 'running' (John).  The problem is, the computer vocabulary does not have 'run' as a word. 
 
 How Developers put John to run ? 
 
