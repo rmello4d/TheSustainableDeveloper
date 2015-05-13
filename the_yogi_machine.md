@@ -20,9 +20,9 @@ Our muscles play a big role in all the energy we consume while awake.
 
 They use oxygen to create energy. As result, muscles activity impacts our breathing. We all experience this when we try to sprint, we will naturally increase our breathing frequency. We have to "catch our breath".  
 
-Here a wild guess based on our evolutionary history. Imagine you have a Lion chasing you. All you were thinking is: please make my muscles a primary receiver of the breathing oxygen. 
+Here a wild guess based on our evolutionary history. Imagine you have a Lion chasing you. All you want is: please make my muscles a primary receiver of the breathing oxygen! 
 
-In fact, our muscles devour Oxygen when active: to move, stand, run, swimn, etc. But it goes further, since we became bipedal a myriad of muscles is used to just keep up with gravity! 
+In fact, our muscles devour oxygen when active: to move, stand, run, swimn, etc. But it goes further, since we became bipedal a myriad of muscles is used to just keep up with gravity! 
 
 Keeping in mind this important correlation of muscles, breath and Energy consumption. 
 
