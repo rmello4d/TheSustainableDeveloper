@@ -10,7 +10,7 @@ They go layer after layer building a considerable chain of logical paths in thei
 
 Yes, they dress casually. Being simple saves time. Grooming is rarely a priority. 
 
-Like kids, they get along with each other quickly. All they need is to speak the same mother language : Do you know JavaScript ? Shit yes. (Smile) Let's talk !  
+Like kids, they get along with each other quickly. All they need is to speak the same mother tongue: Do you know JavaScript ? Shit yes. (Smile) Let's talk !  
 
 They have bugs to fix, called “debugging”. To debug is often hell. It requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in armageddon. 
 
