@@ -1,7 +1,5 @@
 {
     "plugins": [],
     "pluginsConfig": {},
-    "structure": {
-        "readme": "authorsnote.md"
-    }
+
 }
