@@ -8,11 +8,11 @@ First, developers need to know a computer language. Something like English or Fr
 
 Computer languages are minimal. Think about 50 reserved words for example, which is the real case of a language called JAVA. 
 
-Lets say we want the computer to simulate a person 'running' (John).  The problem is, the computer vocabulary does not have 'run' as a word. 
+Lets say we want the computer to simulate a 'running' person (John).  The problem is, the computer vocabulary does not have 'run' as a word. 
 
 How Developers put John to run ? 
 
-Lets assume that 'step' and 'speed' are words available in our computer's language. Great! We get these 2 words and tell the computer the following instructions : 
+Lets assume that 'step' and 'speed' are words available in our computer's language. We get these 2 words and tell the computer the following instructions : 
 
 ```
 step,
