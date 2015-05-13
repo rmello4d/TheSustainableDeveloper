@@ -43,7 +43,7 @@ Our new 'if' instruction is telling the computer to test if the speed is less th
 
 That will allow John to start at 0 and increase his speed until 10 km/h.  No more speed increases for John after that. 
 
-Is John getting out of this alive ? Not quiet yet. We solve one problem, now he will not be a Ferrari and Kaboom. He is now running at 10 km/h, which is a good running speed. 
+Is John getting out of this alive ? Not quiet yet. We solve one problem, now he will not be a Ferrari. He is now running at 10 km/h, which is a good running speed. 
 
 The problem now is the repeat instruction. It will make John run forever. He is like Pheidippides. Sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in battle. Kaboom. 
 
