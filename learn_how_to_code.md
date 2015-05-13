@@ -19,7 +19,7 @@ step,
 increase speed,
 repeat           
 ```
-*ps. repeat is a 'magical' word in the computer vocabulary. Once the computer see the word repeat, it will go back to the first step and run the pile of instructions again. Notice that, running the pile again means that we will end on another reapeat, creating a perpetual loop. *
+*ps. repeat is a 'magical' word in the computer vocabulary. Once the computer see the word repeat, it will go back to the first step and run the batch of instructions again. Notice that, running the batch again means that we will end on another reapeat, creating a perpetual loop. *
 
 As you probably noticed with tears, by now, John is dead. We told the computer to increase the speed in every repeat. John will start at 0 and increase his speed until he is a Ferrari, then a rocket, then...kaboom!
 
