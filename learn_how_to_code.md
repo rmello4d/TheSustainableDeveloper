@@ -34,18 +34,20 @@ repeat
 ```
 
 Wait a minute. What is that long instruction ? Computers have a great ability to compute and to be logical. Computer Languages exploit that by supplying us with a series of special words: 
--'if', 'then', 'else', 'equal', 'less than', 'repeat' and etc. 
-Knowing these words is almost mandatory to code. 
+
+'if', 'then', 'else', 'equal', 'less than', 'repeat' and etc. 
+
+Knowing these words is almost mandatory to code.
 
 Our new 'if' instruction is telling the computer to test if the speed is less than 10km/h. If so, then increase the speed.   
 
 That will allow John to start at 0 and increase his speed until 10 km/h.  No more speed increases for John after that. 
 
-Is John getting out of this alive ? Not quiet yet. We solve one problem, now he will not be a Ferrari. He is running at 10 km/h but the repeat instruction will make John run forever.  
+Is John getting out of this alive ? Not quiet yet. We solve one problem, now he will not be a Ferrari and Kaboom. He is now running at 10 km/h, which is a good running speed. 
 
-John is still a dead man like Pheidippides, sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in battle.
+The problem now is the repeat instruction. It will make John run forever. He is like Pheidippides. Sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in battle. Kaboom. 
 
-Can we fix again and for godsake keep John alive ? Let's say John will run for 20 mins ? 
+Can we fix again and for Godsake keep John alive ? Let's say John will run for 20 mins ? 
 
 ```
 step,
@@ -54,11 +56,13 @@ repeat until time is equal 20 mins.
 stop
 ```
 
-Now, John is smiling at you while he passes running by! He started at 0, increased his speed until 10 km/h (running speed!), then after 20 mins he will stop. 
+Now, John is smiling at you while he passes running by! 
 
-This small alegory shows the basic principle of software development. We need a language, a story and a computer. 
+He started at 0, increased his speed until 10 km/h (running speed!), then after 20 mins he will stop. 
 
-Then, we may kill some Johns along the way to proof our story with basic instructions.  After some tries, we eventually get it right.  
+This small alegory shows the basic principle of software development. We need to tell a story to a computer using a short language and a few 'magical' words.  
+
+We may kill some Johns along the way to proof our story. After some tries, we hopefully get it right.  
 
 The last and important detail. There are infinite ways to tell a story. The art of storytelling could turn a program into a poem,  a novel or a greek tragedy. Every Developer is different. 
 
@@ -66,11 +70,11 @@ The last and important detail. There are infinite ways to tell a story. The art 
 
 > Curiosities :
 
-Every computer language is different. In that sense, they are like the English and French comparison. Some program written in the JavaScript language will barely be understood by a COBOL language Developer.  
+Every computer language is different, like the English and French comparison. Said that, a program written in one language could be hard to understand from another language developer.  
 
-Every computer language has a set of reserved words, or its vocabulary. Some have 50, others have 400 keywords. The number of words do not imply power in the same way you can tell French is not more powerful than English. They all tells a story. 
+Every computer language has a set of reserved words. Some have 50 others have 400 keywords. The number of words do not mean power, they all tell a story. 
 
-Is there any similar computer languages like Portuguese and Spanish ? Yes, languages like Perl and PHP are similar, you almost can jump from one to the other. 
+Is there similar computer languages like Portuguese and Spanish ? Yes, languages like Perl and PHP are similar, you can jump from one to the other and quiet understand what they are saying. 
 
 
 
