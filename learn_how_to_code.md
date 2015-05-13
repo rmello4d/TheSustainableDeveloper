@@ -21,7 +21,7 @@ repeat
 ```
 *ps. repeat is a 'magical' word in the computer vocabulary. Once the computer see the word repeat, it will go back to the first step and run the pile of instructions again. Notice that, running the pile again means that we will end on another reapeat, creating a perpetual loop. *
 
-As you probably noticed with tears, by now, John is dead. We told the computer to increase the speed in every repeat. John will start at 0 and increase his speed until he is a Ferrari, then a rocket, then...kaboom.
+As you probably noticed with tears, by now, John is dead. We told the computer to increase the speed in every repeat. John will start at 0 and increase his speed until he is a Ferrari, then a rocket, then...kaboom!
 
 Since we are in a perpetual loop created by the repeat instruction, the speed will keep growing higher and higher. 
 
@@ -45,8 +45,7 @@ That will allow John to start at 0 and increase his speed until 10 km/h.  No mor
 
 Is John getting out of this alive ? Not quiet yet. We solve one problem, now he will not be a Ferrari. He is now running at 10 km/h, which is a good running speed. 
 
-The problem now is the repeat instruction. It will make John run forever. He is like Pheidippides. Sent from the battlefield of Marathon to Athens to announce that the Persians had been defeated in battle. Kaboom. 
-
+The problem now is that John will run forever. He is like Pheidippides in the Marathon Batle. Pheidippidis run from the battlefield of Marathon to Athens to announce that the Persians had been defeated. Then, kaboom! 
 Can we fix again and for Godsake keep John alive ? Let's say John will run for 20 mins ? 
 
 ```
@@ -58,7 +57,7 @@ stop
 
 Now, John is smiling at you while he passes running by! 
 
-He started at 0, increased his speed until 10 km/h (running speed!), then after 20 mins he will stop. 
+He started at 0 by stepping and increasing his speed progressively until 10 km/h. After 20 mins running he will stop. 
 
 This small alegory shows the basic principle of software development. We need to tell a story to a computer using a short language and a few 'magical' words.  
 
