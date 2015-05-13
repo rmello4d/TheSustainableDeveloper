@@ -14,15 +14,15 @@ Lets have a closer look at our Yogi image:
 
 He is balanced and relaxed. 
 
-By not moving and by being at rest, a Yogi solves the first piece of our puzzle: muscles are the biggest consumers of energy in the body. 
+By not moving and by being at rest, a Yogi solves the first piece of our puzzle: muscles are big consumers of energy and oxygen in the body. 
 
 Our muscles play a big role in all the energy we consume while awake. 
 
-They use Oxygen to create energy. As result, breathing is a key part of muscle activity. We all experience this when we try to sprint, we will naturally increase our breathing frequency. 
+They use oxygen to create energy. As result, muscles activity impacts our breathing. We all experience this when we try to sprint, we will naturally increase our breathing frequency. We have to "catch our breath".  
 
-In fact, muscles devour Oxygen when active: to move, stand, run, swimn, etc.
+Here a wild guess based on our evolutionary history. Imagine you have a Lion chasing you. All you were thinking is: please make my muscles a primary receiver of the breathing oxygen. 
 
-Actually, since we became bipedal, a myriad of muscles is used to just keep up with gravity! 
+In fact, our muscles devour Oxygen when active: to move, stand, run, swimn, etc. But it goes further, since we became bipedal a myriad of muscles is used to just keep up with gravity! 
 
 Keeping in mind this important correlation of muscles, breath and Energy consumption. 
 
@@ -30,24 +30,19 @@ Keeping in mind this important correlation of muscles, breath and Energy consump
 
 Allow me to simplify the word meditation as the relaxing of your mind. We will get deeper into how that happens, but for now, please bare with me. 
 
-A relaxed mind solves the second piece of our puzzle : the brain is the second biggest consumer of energy in the body. 
+A relaxed mind solves the second piece of our puzzle : the brain is another big consumer of energy and oxygen in the body. 
 
-Now let’s go back to our image: the Yogi is at rest, meditating and still breathing. Since the brain and the muscles are not consuming much, where is all that unused Oxygen going ?
+Is it really possible to relax our mind ? Yes. We do that everyday at sleep. 
 
-Before answering this question, is there any other time where:
-we stay relaxed, we do not move much and our brain goes beyond thought to a dreamy meditative state? 
+What happens when we sleep? We rest. How do we rest ? By not moving much and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep and our mental activity is none. 
 
-Sleep. 
+This is interesting, at sleep, the brain and the muscles are not consuming as much oxygen. Where is all that unused breathing oxygen going ? 
 
-What happens when we sleep? We rest. How do we rest ? By not moving much and by taking our mind to a dreamy state. Sleeping is a big restful moment for our body, no doubt. 
+Everywhere else. Organs, tissues, cells...
 
-After breathing for 8 hours in a relaxed state, we feel recharged. 
+After sleeping for 8 hours we feel recharged. 
 
-Now lets answer the question, where is all the oxygen going if the 2 biggest consumers of Energy (muscles and mind) are relaxed ? 
-
-Everywhere else. Organs, tissues, cells…
-
-Imagine the Yogi. His posture is balanced. His muscles are relaxed to the minimal effort. His brain is going layer by layer to a deep state of meditation or relaxation. Since he is not asleep, he may decide to breathe a notch up and get a bit more Oxygen. 
+Now lets go back and imagine the Yogi. His posture is balanced. His muscles are relaxed to the minimal effort. His brain is going layer by layer to a deep state of meditation or relaxation. Since he is not asleep, he may decide to breathe a notch up and get a bit more oxygen and energy. 
 
 After awhile, he turns into those radiant beams of light. 
 
@@ -60,4 +55,16 @@ If you really want to be a Yogi, probably yes. Though, this is not our case. Can
 Absolutely. 
 
 As we will see, it goes beyond just breathing without moving. It will require balance, consciousness and a developer’s mindset. 
+
+*
+
+*Cerebral O2 metabolism and cerebral blood flow in humans during deep and rapid-eye-movement sleep.
+Madsen PL1, Schmidt JF, Wildschiødtz G, Friberg L, Holm S, Vorstrup S, Lassen NA.*
+
+*Cerebral oxygen metabolism and cerebral blood flow in man during light sleep (stage 2).
+Madsen PL1, Schmidt JF, Holm S, Vorstrup S, Lassen NA, Wildschiødtz G.*
+
+*Cerebral blood flow changes associated with fluctuations
+in alpha and theta rhythm during sleep onset in humans.
+Futoshi Kotajima1,2, Guy E. Meadows1, Mary J. Morrell1 and Douglas R. Corfield1,3*
 
