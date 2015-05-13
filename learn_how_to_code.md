@@ -4,7 +4,7 @@ This chapter is for non-coders, so feel free to step to the next chapter if you 
 
 The goal is to understand the idea of coding and how we create a set of instructions to tell a story.   
 
-First, developers need to know a computer language. Something like English or French ? Yes but not quiet. 
+First, developers need to know a computer language. Anything like English or French ? Yes but not quiet. 
 
 Computer languages are minimal. Think about a language with only 50 reserved words for example, which is the real case of a language called JAVA. 
 
