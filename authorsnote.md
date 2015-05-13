@@ -1,7 +1,5 @@
 # Note by the Author
 
-##### This book is about self sustainability.  
-
 I happily dedicate my professional life to music and software development.
 
 After 15 years of intense work, I've developed pain and body exhaustion caused by tendonitis and dupuytrens. These problems were partially neglected and they soon became permanent injury.
