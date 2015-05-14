@@ -12,7 +12,7 @@ Just to be sure, the Sustainable Developer is not a guru-ninja-master of all thi
 
 Sorry. 
  
-Rather, The Sustainable Developer understands how to use and manipulate its own personal energy. His body and mind gets clear.  He can enjoy this knowledge by increasing his focus on daily tasks and at work. He makes the act of coding something truly special.  
+Rather, The Sustainable Developer understands how to use and manipulate its own personal energy. His body and mind get clear.  He can enjoy this knowledge by increasing his focus on daily tasks and at work. He makes the act of coding something truly special.  
 
 That alone, may transform your personal and professional life.    
 
