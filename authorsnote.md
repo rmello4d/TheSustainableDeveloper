@@ -1,6 +1,6 @@
 # About the Author
 
-I happily dedicate my professional life to music and software development.
+I happily dedicate my professional life to software development and music.
 
 After 15 years of intense work, I've developed pain and body exhaustion caused by tendonitis and dupuytrens. These problems were partially neglected and they soon became permanent injury.
 
@@ -14,7 +14,7 @@ They are personal but hopefully will help you as well.
 
 Will there be any coding examples ? Yes.  Although I will try my best to invite non-coders to understand our world. Do not expect coding techniques in this book.
 
-Last but not least, let me kindly suggest,  please share your opinion about anything you believe wrong or right in this book. Help me to spread and enlarge this conversation even further. 
+Last but not least, please share your opinion about anything you believe wrong or right in this book. Help me spread and enlarge this conversation even further. 
 
 Enjoy it !
 
