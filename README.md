@@ -8,7 +8,7 @@ As you will see, the Sustainable Developer is not a guru-ninja-master of all thi
 
 Sorry. 
  
-Rather, The Sustainable Developer understands how to use and manipulate personal energy. He can enjoy this knowledge by increasing his focus on daily tasks and at work. 
+Rather, The Sustainable Developer understands how to use and manipulate its own personal energy. He can enjoy this knowledge by increasing his focus on daily tasks and at work. 
 
 That alone, may transform your personal life.    
 
