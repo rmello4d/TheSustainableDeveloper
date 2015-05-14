@@ -12,7 +12,7 @@ This book tells my failures and successes as a Software developer, Musician and 
 
 They are personal but hopefully will help you as well. 
 
-Will there be any coding examples ? Yes.  Although I will try my best to invite non-coders to understand our world. Do not expect coding techniques in this book.
+Will there be any coding examples ? Yes.  Although I will try my best to invite non-coders to understand our world. 
 
 Last but not least, please share your opinion about anything you believe wrong or right in this book. Help me to spread and enlarge this conversation even further. 
 
