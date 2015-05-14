@@ -14,7 +14,7 @@ They are personal but hopefully will help you as well.
 
 Will there be any coding examples ? Yes.  Although I will try my best to invite non-coders to understand our world. 
 
-Last but not least, please share your opinion about anything you believe wrong or right in this book. Help me to spread and enlarge this conversation even further. 
+Last but not least, please share your opinion about anything you believe right or wrong in this book. One way or the other, you are helping me to spread and enlarge this conversation even further. 
 
 Enjoy it !
 
