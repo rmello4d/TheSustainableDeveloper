@@ -16,7 +16,9 @@ Lets assume that 'step' and 'speed' are words available in our computer's langua
 
 ```
 step,
+
 increase speed,
+
 repeat           
 ```
 *ps. repeat is a 'magical' word in the computer vocabulary. Once the computer see the word repeat, it will go back to the first step and run the batch of instructions again. Notice that, running the batch again means that we will end on another reapeat, creating a perpetual loop. *
@@ -29,7 +31,10 @@ To get more real, we will go back and 'fix' the instructions to avoid this probl
 
 ```
 step,
-if speed is less than 10 km/h, then increase speed  
+
+if speed is less than 10 km/h, 
+then increase speed  
+
 repeat 
 ```
 
@@ -50,8 +55,13 @@ Can we fix again and for Godsake keep John alive ? Let's say John will run for 2
 
 ```
 step,
-if speed is less than 10 km/h, then increase speed 
-repeat until time is equal 20 mins. 
+
+if speed is less than 10 km/h, 
+then increase speed 
+
+repeat until 
+time is equal 20 mins. 
+
 stop
 ```
 
