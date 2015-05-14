@@ -1,4 +1,4 @@
-# Note by the Author
+# About the Author
 
 I happily dedicate my professional life to music and software development.
 
@@ -12,23 +12,7 @@ This book tells my failures and successes as a Software developer, Musician and 
 
 They are personal but hopefully will help you as well. 
 
-Just to be clear, this book does not offer any magical solution to become a super developer. Rather, this book points to a direction. It tackles a neglected side of software development: self sustainability. 
 
-As you will see, the Sustainable Developer is not a guru-ninja-master of all things in the universe. 
-
-Sorry. 
- 
-The Sustainable Developer understands how to use his personal energy. He can enjoy this knowledge by increasing his focus on daily tasks and at work. That alone, may transform your personal life.    
-
-Will there be any coding examples ? Yes.  Although I will try my best to invite non-coders to understand our world. Do not expect coding techniques in this book.
-
-These last 25 years showed me that developers have yogi and artist capabilities to a surprising levels. Let me suggest further that we can refine these capabilities to a new higher level if explored under different lens. 
-
-Last but not least, let me kindly suggest,  please share your opinion about anything you believe wrong or right in this book. Help me to spread and enlarge this conversation even further. 
-
-Enjoy it !
-
-Guru-ninja-master of all things in the universe.
 
 
  
