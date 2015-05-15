@@ -8,7 +8,7 @@ Self-Sustainability.
 
 We (developers) know how often we abuse ourselves in front of a computer. 
 
-Is it possible to be establish a sustainable coding practice ? Yes. 
+Is it possible to establish a sustainable coding practice ? Yes. 
 
 Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. There is an untapped value in the crossing of these worlds: developers and yogis have lots in common. 
 
