@@ -1,8 +1,8 @@
 # For non-coders
 
-This chapter is for you,  wife or husband, friend, father or mother, lover of a developer. 
+This chapter is for you,  wife or husband or friend or father or mother or lover of a developer. 
 
-The goal is to understand the idea of coding and how a developer's mind develop its traits.
+The goal is to understand the idea of coding and how a developer's mind forms its traits.
 
 First, they need to know a computer language. Would English or French be similar languages? Not really. 
 
