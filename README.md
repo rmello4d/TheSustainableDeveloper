@@ -12,7 +12,7 @@ Probably no other culture has dedicated more time in understanding the body and 
 
 Is this book about Yoga poses ? No. Is this book showing how I can twirl my body in all directions ? No. 
 
-This book is about putting the developer as the starting point, then  exploring the techniques in Meditation and Yoga. 
+This book is about putting the developer as the starting point, then  exploring the techniques in Meditation and Yoga from his perspective. 
 
 These last 25 years showed me that developers have Yogic capabilities to surprising levels. To suggest further, we can refine these capabilities to a higher level, if looked under different lens.
 
@@ -20,7 +20,7 @@ Just to be clear, the Sustainable Developer is not a guru-ninja-master of all th
 
 Sorry. 
  
-Rather, The Sustainable Developer understands how to better use and manipulate its own personal energy. His body and mind get clear. Then, he can enjoy this knowledge by increasing his focus on daily tasks and at work. 
+Rather, The Sustainable Developer understands how to better use his own personal energy. His body and mind get clear. Then, he can enjoy this knowledge by increasing his focus on daily tasks and at work. 
 
 The Sustainable Developer is making the act of coding special to his body and mind. 
 
