@@ -1,6 +1,6 @@
 # The Sustainable Developer
 
-The act of coding demands a considerable effort both mentally and physically. As a result, we (developers) often abuse ourselves while in front of the computer. 
+The act of coding demands a considerable mental and physical effort.  As a result, we (developers) often abuse ourselves while in front of the computer. 
 
 This book explores techniques in Meditation and Yoga in order to tackle a neglected side of software development: 
 
