@@ -6,13 +6,13 @@ This book tackles a neglected side of software development:
 
 Self-Sustainability. 
 
-Is it possible to establish a sustainable coding practice ? Yes. Is it possible to finish a 6h coding session with more energy than at the beginning ? Absolutely.  
+Is it possible to establish a sustainable coding practice ? Yes. Is it possible to engage in a 6h coding session and leave with more energy than at the beginning ? Absolutely.  
 
-Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. As we will see in the book, there is an untapped value in the crossings of these two worlds: developers and yogis have lots in common. 
+Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. As we will see in the book, there is an untapped value in the crossings of these two worlds: developers and yogis. They have lots in common. 
 
 Is this book about Yoga poses ? No. Is this book showing how I can twirl my body in all directions ? No. 
 
-This book takes a different route exploring techniques in Meditation and Yoga. We put the developer as our starting point.  
+This book is about putting the developer as the starting point, then  exploring the techniques in Meditation and Yoga. 
 
 These last 25 years showed me that developers have Yogic capabilities to surprising levels. To suggest further, we can refine these capabilities to a higher level, if looked under different lens.
 
