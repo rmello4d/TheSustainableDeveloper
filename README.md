@@ -6,7 +6,7 @@ Self-Sustainability.
 
 The act of coding demands a considerable effort,  both physical and mental. No other culture has dedicated more time in understanding the body and mind as have the Yogis. There is an untapped value to be discovered in the crossing of these worlds: developers and yogis have lots in common. 
 
-In fact, these last 25 years showed me that developers have Yogic capabilities to a surprising levels. To suggest further, these capabilities can be refined to a higher level if looked under different lens. 
+In fact, these last 25 years showed me that developers have Yogic capabilities to a surprising level. To suggest further, these capabilities can be refined to a higher level if looked under different lens. 
 
 Just to be sure, the Sustainable Developer is not a guru-ninja-master of all things in the universe. 
 
