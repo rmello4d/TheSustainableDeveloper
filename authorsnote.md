@@ -6,7 +6,7 @@ Both activities demanded long hours of intense work. After 10 years, I've develo
 
 In 1999, a friend recommended Meditation and Yoga. I tried my first class while living in Colorado, US. Since then, Yoga and Meditation became part of my life style.  
 
-To my surprise I was not just learning about Yoga and Meditation, these practices were impacting my life as a Developer and Musician.  'Coincidentally' my Music and Software Development careers took off. 
+To my surprise I was not just learning about Yoga and Meditation, these practices were impacting my life as a Developer and Musician.  'Coincidentally' my Music and Software Development careers took off.
 
 This book is the result of my failures and successes as a Software developer, Musician and Yoga teacher.    
 
