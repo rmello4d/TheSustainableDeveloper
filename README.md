@@ -4,7 +4,7 @@ This book explores techniques in Meditation and Yoga in order to tackle a neglec
 
 Self-Sustainability. 
 
-The act of coding demands a considerable effort,  both physical and mental. No other culture has dedicated more time in understanding the body and mind as the Hindus. There is an untapped value to be discovered in the crossing of these worlds. Developers and Yogis have lots in common. 
+The act of coding demands a considerable effort,  both physical and mental. No other culture has dedicated more time in understanding the body and mind as have the Hindus. There is an untapped value to be discovered in the crossing of these worlds. Developers and Yogis have lots in common. 
 
 These last 25 years showed me that developers have Yogic capabilities to a surprising levels. To suggest further, these capabilities can be refined to a higher level if looked under different lens. 
 
