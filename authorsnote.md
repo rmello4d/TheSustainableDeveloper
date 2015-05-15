@@ -4,15 +4,13 @@ I've started my professional life as a software developer in 1989. In parallel, 
 
 Both activities demanded long hours of intense work. After 10 years, I've developed pain and body exhaustion caused by tendonitis, herniated disks and dupuytrens. These problems were partially neglected and some became permanent injury.
 
-In 1999, a friend recommended Meditation and Yoga. I tried my first class while living in Colorado, US. Since then, Yoga and Meditation became part of my life style.  
+In 1999, a friend recommended Meditation and Yoga. I tried my first class while living in Colorado, US. Since then, Yoga and Meditation became part of my life style. I tried many flavors of Yoga as a student and since 2010 I teach Yin Yoga in France. 
 
 To my surprise I was not just learning about Yoga and Meditation, these practices were impacting my life as a Developer and Musician.  'Coincidentally' my Music and Software Development careers took off.
 
 This book is the result of my failures and successes as a Software developer, Musician and Yoga teacher.    
 
 They are personal experiences and researches that hopefully will help you as well. 
-
-If you want to know more about some of my works in music, please visit www.mellodia.com for more details. 
 
 Enjoy the book !
 
