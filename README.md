@@ -6,7 +6,9 @@ This book explores techniques in Meditation and Yoga in order to tackle a neglec
 
 Self-Sustainability. 
 
-Probably, no other culture has dedicated more time in understanding the body and mind as have the Yogis. There is an untapped value in the crossing of these worlds: developers and yogis have lots in common. 
+We developers all know how often we abuse ourselves in front of a computer. 
+
+In the other hand, probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. There is an untapped value in the crossing of these worlds: developers and yogis have lots in common. 
 
 In fact, these last 25 years showed me that developers have Yogic capabilities to surprising levels. To suggest further, these capabilities can be refined to a higher level if looked under different lens. 
 
