@@ -1,12 +1,12 @@
 # About the Author
 
-I happily dedicate my professional life to software development and music.
+I  my professional life to software development and music.
 
 After 15 years of intense work, I've developed pain and body exhaustion caused by tendonitis and dupuytrens. These problems were partially neglected and they soon became permanent injury.
 
 By that time, a friend recommended Meditation and Yoga. I tried my first class  in 1999. Since then, Yoga and Meditation became part of my life style. 
 
-To my surprise, along the years, I was not just getting better at Yoga and Meditation. These practices also impacted my life as a Developer and as a Musician. 'Coincidentally' the Music and Software Development careers took off. 
+To my surprise, along the years, I was not just learning about Yoga and Meditation. These practices also impacted my life as a Developer and as a Musician. 'Coincidentally' the Music and Software Development careers took off. 
 
 This book tells my failures and successes as a Software developer, Musician and Yoga teacher.   
 
