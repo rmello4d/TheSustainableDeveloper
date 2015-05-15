@@ -12,10 +12,6 @@ This book tells my failures and successes as a Software developer, Musician and 
 
 They are personal but hopefully will help you as well. 
 
-This book is primarily meant for coders, but I also invite non-coders to understand our world. Will there be any coding examples ? Yes, but do not expect to see code techniques.  
-
-Last but not least, please share your opinion about anything you believe right or wrong in this book. One way or the other, you are helping me to spread and enlarge this conversation even further. 
-
 Enjoy it !
 
 
