@@ -1,6 +1,6 @@
 # For non-coders
 
-This chapter is for you,  wife, friend, father, lover of a developer. 
+This chapter is for you,  wife or husband, friend, father or mother, lover of a developer. 
 
 The goal is to understand the idea of coding and how a developer's mind develop its traits.
 
