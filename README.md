@@ -6,7 +6,9 @@ This book explores techniques in Meditation and Yoga in order to tackle a neglec
 
 Self-Sustainability. 
 
-We (developers) know how often we abuse ourselves in front of a computer. Is it possible to be establish a sustainable practice ? Yes. 
+We (developers) know how often we abuse ourselves in front of a computer. 
+
+Is it possible to be establish a sustainable coding practice ? Yes. 
 
 Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. There is an untapped value in the crossing of these worlds: developers and yogis have lots in common. 
 
