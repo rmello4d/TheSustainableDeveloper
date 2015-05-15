@@ -1,8 +1,6 @@
 # The Sustainable Developer
 
-The act of coding demands a considerable effort, both physical and mental. 
-
-We (developers) often abuse ourselves while in front of a computer. 
+The act of coding demands a considerable mental and physical effort. As a result, we (developers) often abuse ourselves while coding. 
 
 This book explores techniques in Meditation and Yoga in order to tackle a neglected side of software development: 
 
@@ -10,9 +8,9 @@ Self-Sustainability.
 
 Is it possible to establish a sustainable coding practice ? Yes. 
 
-Why to have Yoga as a reference? Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. As we will see in the book, there is an untapped value in the crossing of these two worlds: developers and yogis have lots in common. 
+Why Yoga? Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. As we will see in the book, there is an untapped value in the crossing of these two worlds: developers and yogis have lots in common. 
 
-Is this book about Yoga poses ? Is it going to show how I can twirl my body in all directions ? NO. 
+Is this book about Yoga poses ? No. Is this book showing how I can twirl my body in all directions ? No. 
 
 This book takes a different route. We put the developer as our starting point. These last 25 years showed me that developers have Yogic capabilities to surprising levels. To suggest further, these capabilities can be refined to a higher level if looked under different lens.
 
@@ -22,7 +20,7 @@ Sorry.
  
 Rather, The Sustainable Developer understands how to use and manipulate its own personal energy. His body and mind get clear. Then, he can enjoy this knowledge by increasing his focus on daily tasks and at work. 
 
-The Sustainable Developer is making the act of coding special to his body, mind and time spent in this blue planet.  
+The Sustainable Developer is making the act of coding special to his body and mind. 
 
 That alone, may transform your personal and professional life.    
 
