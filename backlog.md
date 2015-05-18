@@ -1,52 +1,6 @@
 Balance makes gravity easier.
 
-Imagine doing the same, if 20 mins of your day could bring your personal battery to a fast recharge, or even better, to establish a few routines that will bring you 
-
-After 20 mins nd your body will be beaming. 
-Is it easy to get a good posture, a meditative state and consciously breathe 
-
-
-
-
-Something else is getting all that oxygen not spent on moving and thinking.
-
-Organs. 
-
-
-
-much of the oxygen inhaled while breathing nourished your organs and you wake up recharged. 
-
-
-
-
-
-Organs. 
-
-The Yogi breathing is nourishing his organs. 
-
 Organs are more related to your health than your muscles or your thoughts. If you nourish your organs you will get a boost in your health. In fact, you do that everyday when you sleep.
-
-A Yogi will get the regular wake up energy and instead of consuming it, it will take even higher. 
-
-
-
- 
-
-
-
-
-
-  
-
- 
-
-
-
-We will talk in depth about how the mind works in the next chapters, but for now, lets say meditation will relax your brain activities. 
-
-
-
-Nature probably did that because if you have a lion chasing you, all your energy should be spent by muscular activity.
 
 
 
