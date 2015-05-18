@@ -20,9 +20,7 @@ I’ve worked as a developer, project manager and project director for a long ti
 
 At this point of the chapter, If you are a developer and I did not pass your bullshiting test, you are already getting another book.  
 
-Developers build muscle mass in the brain for logical processing. They can step over pain, stress and hold a considerable amount of information at same time. 
-
-Did I mention they eat opposite ideas for breakfast ? 
+Developers build muscle mass in the brain for logical processing. They can step over pain, stress and hold a considerable amount of information at same time. They eat opposite ideas for breakfast.  
 
 They are mental beasts, often with a geek sweetness and fragile face. 
 
