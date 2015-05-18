@@ -42,11 +42,11 @@ Everywhere else. Organs, tissues, cells...
 
 After sleeping for 8 hours we feel recharged.
 
-Lets go back and imagine the Yogi. His posture is balanced. His muscles are relaxed to the minimal effort. His brain is going layer by layer to a deep state of meditation or relaxation. To go even further, consciously he decides to breathe a notch up and get even more oxygen and energy. 
+Lets go back and imagine the Yogi. His posture is balanced. His muscles are relaxed. His brain is going layer by layer to a deep state of meditation. He also decides to breathe a notch up and get even more oxygen and energy.  The Yogi is nourishing his organs, cells, tissues while awake.
 
 After awhile, he turns into those radiant beams of light. 
 
-Yogis raise their own energy to an optimal state and by a sustainable practice, keep it there. The Yogi is nourishing his organs, cells, tissues while awake. 
+Yogis raise their own energy to an optimal state and by a sustainable practice, keep it there.  
 
 Do we need to go in a cave for 20 years to learn that ? 
 
