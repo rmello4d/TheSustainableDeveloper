@@ -56,7 +56,9 @@ Absolutely.
 
 As we will see, it goes beyond just breathing without moving. It will require balance, consciousness and a developer’s mindset. 
 
-*
+***
+
+***References***
 
 *Cerebral O2 metabolism and cerebral blood flow in humans during deep and rapid-eye-movement sleep.
 Madsen PL1, Schmidt JF, Wildschiødtz G, Friberg L, Holm S, Vorstrup S, Lassen NA.*
