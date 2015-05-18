@@ -22,7 +22,7 @@ We all know instinticvely this relationship between muscle activity and breathin
 
 Here a wild guess why muscles consume a lot of oxygen. Imagine you have a Lion chasing you. Your body will be screaming 'please get all energy possible to my muscles !'
 
-In fact, our muscles devour oxygen when active: to move, stand, run, swimn, etc. Muscles are an intricated system, since we became bipedal a myriad of muscles is used to just keep up with gravity! 
+In fact, our muscles devour oxygen when active: to move, stand, run, swimn, etc. Muscles are an intricate system, since we became bipedal a myriad of muscles is used to just keep up with gravity! 
 
 From the moment we wake up to the moment we fall asleep, muscles are active and eating great part of the oxygen you breathe. Keeping in mind this important correlation of muscles, breath and energy consumption. 
 
@@ -36,7 +36,7 @@ Is it possible to relax our mind and consume less oxygen ? Yes. We do that every
 
 What happens when we sleep? We rest. How do we rest ? By not moving much and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep. 
 
-This brings an interesting question. When at sleep the brain and the muscles are not consuming as much oxygen, to where is all that unused breathing oxygen going ? 
+This brings an interesting question, if at sleep the brain and the muscles are not consuming as much oxygen, to where is all that unused breathing oxygen going ? 
 
 Everywhere else. Organs, tissues, cells...
 
