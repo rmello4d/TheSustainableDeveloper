@@ -73,11 +73,15 @@ He started at 0 by stepping and increasing his speed progressively until 10 km/h
 
 After 20 mins running he will stop. 
 
-The important message here is the process. Developers will tell a story (running) with simple actions (step, speed) and logical flow (repeat, if, until). Because of that, they have to hold both the big picture and the details in their thoughts.   
+The important message here is the process. Developers will tell a story (running) with simple actions (step, speed) and logical flow (repeat, if, until). They hold the big picture and the details in their thoughts, they divide and conquer.   
 
 We may kill some Johns along the way to proof our story. After some tries, we hopefully get it right.  
 
-The last and important detail. There are infinite ways to tell a story. The art of storytelling could turn a program into a poem,  a novel or a greek tragedy. Every husband and developer is different. 
+The last and important detail: there are infinite ways to tell a story. 
+
+This art of storytelling could turn a program into a poem,  a novel or a greek tragedy. 
+
+Every husband, wife and developer are different. 
 
 
 
