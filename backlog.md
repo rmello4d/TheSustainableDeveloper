@@ -1,7 +1,10 @@
 Balance makes gravity easier.
 
 Organs are more related to your health than your muscles or your thoughts. If you nourish your organs you will get a boost in your health. In fact, you do that everyday when you sleep.
+
 ***
+If you walk to the major cities of US, Canada and Europe you will confirm that Yoga is now popular, fashion, it has hundreds of postures and tons of studios.
+
 Does our imaginary Yogi practice Yoga ? Yes, but probably not today’s Yoga.
 
 Yoga is now popular, fashioned, it has hundreds of postures, tons of studios. Today’s Yoga is mainly about exercising muscles. 
