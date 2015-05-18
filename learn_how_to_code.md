@@ -8,11 +8,11 @@ First, they need to know a computer language. Would English or French be similar
 
 Computer languages are minimal. Think about a language with only 50 reserved words for example. This is the real case of a popular language in the programming world. 
 
-Now, lets say we want the computer to simulate a person 'running' (John).  The problem is, as you already guessed, 'run' does not exist in such small computer's vocabulary.
+Lets say we want the computer to simulate a person 'running' (John).  The problem is, as you already guessed, 'run' does not exist in such small computer's vocabulary.
 
-How our beloved husband and developer put John to run ? 
+How our beloved developer put John to run ? 
 
-Lets assume that 'step' and 'speed' are words available in our computer's language. Our dear father and developer get these 2 words and tell the computer the following instructions : 
+Lets assume that 'step' and 'speed' are words available in our computer's language. Our dear developer get these 2 words and tell the computer the following instructions : 
 
 ```
 step,
@@ -40,7 +40,7 @@ repeat
 
 Wait a minute. What is that long instruction ? 
 
-Computers have a great ability to compute and to be logical. Computer Languages exploit that by supplying developers with a series of special words: 
+Computers have a great ability to compute and to be logical. Computer Languages exploit that by supplying developers with a series of words in their vocabulary: 
 
 'if', 'then', 'else', 'equal', 'less than', 'repeat' and etc. 
 
@@ -50,9 +50,9 @@ Our new 'if' instruction is telling the computer to test if the speed is less th
 
 That will allow John to start at 0 and increase his speed until 10 km/h.  No more speed increases for John after that. 
 
-Is John getting out of this alive ? Not quiet yet. We solve one problem, now he will not be a Ferrari. He is now running at 10 km/h, which is a good running speed. 
+Is John getting out of this alive ? Not quiet yet. We solve one problem, now he is not a Ferrari. He is now running at 10 km/h, which is a good speed. 
 
-The problem now is that John will run forever. He is like Pheidippides in the Marathon Batle. Pheidippidis run from the battlefield of Marathon to Athens to announce that the Persians had been defeated. Then, kaboom! 
+The problem is that John will run forever. He is like Pheidippides in the Marathon Batle. Pheidippidis run from the battlefield of Marathon to Athens to announce that the Persians had been defeated. Then, kaboom! 
 Can our lover and developer fix it again and for Godsake keep John alive ? Let's say John will run for 20 mins ? 
 
 ```
@@ -67,13 +67,13 @@ time is equal 20 mins.
 stop
 ```
 
-Now, John is smiling at you while he passes running by! 
+John is smiling at you while he passes running by! 
 
 He started at 0 by stepping and increasing his speed progressively until 10 km/h. He is running ! 
 
 After 20 mins running he will stop. 
 
-The important message here is the process. The alegory shows a basic principle of software development. We need to tell a story to a computer using a short language.  
+The important message here is the process. Developers will tell a story (running) with simple actions (step, speed) and logical flow (repeat, if, until). Because of that, they have to hold both the big picture and the details in their thoughts.   
 
 We may kill some Johns along the way to proof our story. After some tries, we hopefully get it right.  
 
