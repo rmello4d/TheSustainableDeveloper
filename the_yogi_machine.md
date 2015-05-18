@@ -20,11 +20,11 @@ Our muscles play a big role in all the energy we consume while awake. They use o
 
 We all know instinticvely this relationship between muscle activity and breathing. If we try to sprint we will naturally increase our breathing frequency. We have to "catch our breath".  
 
-Here a wild guess why muscles consume a lot of oxygen. Imagine you have a Lion chasing you. All you ask for is: please get all energy possible to my muscles !
+Here a wild guess why muscles consume a lot of oxygen. Imagine you have a Lion chasing you. Your body will be screaming 'please get all energy possible to my muscles !'
 
-In fact, our muscles devour oxygen when active: to move, stand, run, swimn, etc. But it goes further, since we became bipedal a myriad of muscles is used to just keep up with gravity! 
+In fact, our muscles devour oxygen when active: to move, stand, run, swimn, etc. Muscles are an intricated system, since we became bipedal a myriad of muscles is used to just keep up with gravity! 
 
-Keeping in mind this important correlation of muscles, breath and energy consumption. 
+From the moment we wake up to the moment we fall asleep, muscles are active and eating great part of the oxygen you breathe. Keeping in mind this important correlation of muscles, breath and energy consumption. 
 
 **In lotus position a Yogi meditates.** 
 
@@ -32,17 +32,17 @@ Allow me to simplify the word meditation as the relaxing of your mind. We will g
 
 A relaxed mind solves the second piece of our puzzle : the brain is another big consumer of energy and oxygen in the body. 
 
-Is it really possible to relax our mind and consume less oxygen ? Yes. We do that everyday at sleep. 
+Is it possible to relax our mind and consume less oxygen ? Yes. We do that everyday at sleep. 
 
 What happens when we sleep? We rest. How do we rest ? By not moving much and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep. 
 
-This brings an interesting question. If at sleep, the brain and the muscles are not consuming as much oxygen, to  where is all that unused breathing oxygen going ? 
+This brings an interesting question. When at sleep the brain and the muscles are not consuming as much oxygen, to where is all that unused breathing oxygen going ? 
 
 Everywhere else. Organs, tissues, cells...
 
 After sleeping for 8 hours we feel recharged.
 
-Now lets go back and imagine the Yogi. His posture is balanced. His muscles are relaxed to the minimal effort. His brain is going layer by layer to a deep state of meditation or relaxation. To go even further, consciously he decides to breathe a notch up and get even more oxygen and energy. 
+Lets go back and imagine the Yogi. His posture is balanced. His muscles are relaxed to the minimal effort. His brain is going layer by layer to a deep state of meditation or relaxation. To go even further, consciously he decides to breathe a notch up and get even more oxygen and energy. 
 
 After awhile, he turns into those radiant beams of light. 
 
