@@ -1,23 +1,7 @@
 Balance makes gravity easier.
 
 Organs are more related to your health than your muscles or your thoughts. If you nourish your organs you will get a boost in your health. In fact, you do that everyday when you sleep.
-
-
-
-His energy is not being wasted by bad posture or excessive muscular activities or worries or frenetic thinking. 
-
-He is recharging his body while awake. 
-
-What is the secret ? 
-
-In Lotus position, a yogi does not move. 
-
-
-
-
-
-
-
+***
 Does our imaginary Yogi practice Yoga ? Yes, but probably not today’s Yoga.
 
 Yoga is now popular, fashioned, it has hundreds of postures, tons of studios. Today’s Yoga is mainly about exercising muscles. 
