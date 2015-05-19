@@ -52,11 +52,11 @@ Yogis raise their own energy to an optimal state and by a sustainable practice, 
 
 Do we need to go in a cave for 20 years to learn that ? 
 
-If your goal in life is to be Yogi, probably yes. Though, this is not our case. Can we take advantage of some of their techniques by applying them to our own benefit ? 
+If your goal in life is to be Yogi, probably yes. Though, this is not our case. Can we take advantage of some of their techniques by applying these techniques to our own benefit ? 
 
 Absolutely. 
 
-As we will see, it goes beyond just breathing without moving. It will require balance, consciousness and a developer’s mindset. 
+As we will see, it goes beyond just breathing without moving. It will need balance, consciousness and a developer’s mindset. 
 
 ***
 
