@@ -1,6 +1,7 @@
 Balance makes gravity easier.
 
-Your brain is a reality engine. 
+Your brain is a reality engine. evolution is about having kids, it is not about finding the truth. 
+
 
 Organs are more related to your health than your muscles or your thoughts. If you nourish your organs you will get a boost in your health. In fact, you do that everyday when you sleep.
 
