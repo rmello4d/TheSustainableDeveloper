@@ -7,6 +7,41 @@ In game theory, simulations with automatas that see the truth, never survive. Th
 Interface gives you adaptable behaviour. Our perceptions is like that. 
 
 
+***
+
+http://journal.frontiersin.org/article/10.3389/fpsyg.2014.00577/full
+
+Current models of visual perception typically assume that human vision estimates true properties of physical objects, properties that exist even if unperceived. However, recent studies of perceptual evolution, using evolutionary games and genetic algorithms, reveal that natural selection often drives true perceptions to extinction when they compete with perceptions tuned to fitness rather than truth: Perception guides adaptive behavior; it does not estimate a preexisting physical truth. 
+Moreover, shifting from evolutionary biology to quantum physics, there is reason to disbelieve in preexisting physical truths: Certain interpretations of quantum theory deny that dynamical properties of physical objects have definite values when unobserved. In some of these interpretations the observer is fundamental.
+These two considerations, from evolutionary biology and quantum physics, suggest that current models of object perception require fundamental reformulation. 
+
+***
+
+http://journal.frontiersin.org/article/10.3389/fpsyg.2014.00577/full
+
+First, there is no free information. For every bit of information one obtains about the external world, one must pay a price in energy, e.g., in calories expended to obtain, process and retain that information. And for every calorie expended in perception, one must go out and kill something and eat it to get that calorie. So natural selection tends to favor perceptual systems that, ceteris paribus, use fewer calories. One way to use fewer calories is to see less truth, especially truth that is not informative about fitness.
+
+Second, for every bit of information one obtains about the external world, one must pay a price in time. More information requires, in general, more time to obtain and process. But in the real world where predators are on the prowl and prey must be wary, the race is often to the swift. It is the slower gazelle that becomes lunch for the swifter cheetah. So natural selection tends to favor perceptual systems that, ceteris paribus, take less time. One way to take less time is, again, to see less truth, especially truth that is not informative about fitness.
+
+Third, in a world where organisms are adapted to niches and require homeostatic mechanisms, the fitness functions guiding their evolution are generally not monotonic functions of structures or quantities in the world. Too much salt or too little can be devastating; something in between is just right for fitness. The same goldilocks principle can hold for water, altitude, humidity, and so on. In these cases, perceptions that are tuned to fitness are ipso facto not tuned to the true structure of the world, because the two are not monotonically related; knowing the truth is not just irrelevant, it can be inimical, to fitness.
+
+Fourth, in the generic case where noise and uncertainty are endemic to the perceptual process, a strategy that estimates a true state of the world and then uses the utility associated to that state to govern its decisions must throw away valuable information about utility. It will in general be driven to extinction by a strategy that does not estimate the true state of the world, and instead uses all the information about utility (Marion, 2013).
+
+Fifth, more complex perceptual systems are more difficult to evolve. Monte Carlo simulations of genetic algorithms show that there is a combinatorial explosion in the complexity of the search required to evolve more complex perceptual systems. This combinatorial explosion itself is a selection pressure toward simpler perceptual systems.
+
+In short, natural selection does not favor perceptual systems that see the truth in whole or in part. Instead, it favors perceptions that are fast, cheap, and tailored to guide behaviors needed to survive and reproduce. Perception is not about truth, it's about having kids. Genes coding for perceptual systems that increase the probability of having kids are ipso facto the genes that are more likely to code for perceptual systems in the next generation.
+
+***
+
+Turning now to apply the interface metaphor to human perception, the idea is that natural selection has not shaped our perceptions to be insights into the true structure and causal nature of objective reality, but has instead shaped our perceptions to be a species-specific user interface, fashioned to guide the behaviors that we need to survive and reproduce. Space and time are the desktop of our perceptual interface, and three-dimensional objects are icons on that desktop.
+
+evolution has shaped us with a species-specific interface whose icons we must take seriously. If there is a cliff, don't step over. If there is a cobra, don't grab its tail. Natural selection has endowed us with perceptions that function to guide adaptive behaviors, and we ignore them at our own peril.
+
+
+
+***
+
+
 Organs are more related to your health than your muscles or your thoughts. If you nourish your organs you will get a boost in your health. In fact, you do that everyday when you sleep.
 
 ***
