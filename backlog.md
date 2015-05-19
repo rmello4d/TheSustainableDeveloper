@@ -2,6 +2,10 @@ Balance makes gravity easier.
 
 Your brain is a reality engine. evolution is about having kids, it is not about finding the truth. 
 
+In game theory, simulations with automatas that see the truth, never survive. The automatas that see the interface (a fake visual from the source) have higher chances to survive. 
+
+Interface gives you adaptable behaviour. Our perceptions is like that. 
+
 
 Organs are more related to your health than your muscles or your thoughts. If you nourish your organs you will get a boost in your health. In fact, you do that everyday when you sleep.
 
