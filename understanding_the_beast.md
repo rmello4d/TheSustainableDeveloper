@@ -1,4 +1,4 @@
-# Understanding the Beast
+# The Developer Path
 
 ##### Developers are tough.
 
