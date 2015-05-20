@@ -1,3 +1,6 @@
+
+
+
 Balance makes gravity easier.
 
 Your brain is a reality engine. evolution is about having kids, it is not about finding the truth. 
