@@ -1,18 +1,17 @@
 # The Sustainable Developer
 
-The act of coding demands a considerable mental and physical effort.  As a result, we (developers) often abuse ourselves while in front of the computer. 
-
+The act of coding demands a considerable mental and physical effort.  As a result, we developers often abuse ourselves while in front of the computer. 
 This book tackles a neglected side of software development: 
 
 Self-Sustainability. 
 
-Is it possible to establish a sustainable coding practice ? Is it possible to engage in 6hs coding sessions and leave them with more energy than at the beginning ? Absolutely.  
+Is it possible to establish a sustainable coding practice ? Is it possible to be engaged in 6hs coding sessions and leave them with more energy than at the beginning ? Absolutely.  
 
 Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. As we will see in the book, there is an untapped value in the crossings of these two worlds: developers and yogis. They have lots in common. 
 
 Is this book about Yoga poses ? No. Is this book showing how I can twirl my body in all directions ? No. 
 
-This book is about putting the developer as the starting point, then  exploring the techniques in Meditation and Yoga from his perspective. 
+This book is about putting the developer as the starting point. From there, we will explore the techniques in Meditation and Yoga that are suitable for the developer. 
 
 These last 25 years showed me that developers have Yogic capabilities to surprising levels. To suggest further, we can refine these capabilities to a higher level, if looked under different lens.
 
