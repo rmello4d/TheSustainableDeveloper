@@ -67,7 +67,7 @@ So, what is the point ?
 
 The point is your joints and your deep tissue. 
 
-We all start life completely loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we get older and older, we also get stiffer and curbed by life. It looks like a slow hunchback process undermining the idea of a homo-erectus at 90 years old. 
+We all start life completely loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. The slow hunchback process undermining the idea of a homo-erectus at 90 years old. 
 
 Ask any elderly person and they will probably tell you : the pain is on the joints, tendons and ligaments. The muscles ? They work fine. 
 
@@ -107,13 +107,6 @@ The developer may prefer a practice that recharges his body while working, that 
 
 
 
-
-
-
-
-
-
-Why this 6 thousand old image has being in our modern subconscious with a glimpse of fascination and sometimes fear ? 
 
 
 
