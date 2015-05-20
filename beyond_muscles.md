@@ -1,2 +1,2 @@
-# Beyond Musc
+# Beyond Muscles
 
