@@ -4,7 +4,14 @@ Physical activity is a popular mantra. Get Strong. Build Muscles. Stay healthy.
 
 Let me give you a shocking news. 
 
+Organs are more related to your health than your muscles. Also, as we grow older, your joints and articulations are more important than your muscles. 
 
+
+
+
+
+
+If you nourish your organs you will get a boost in your health.
 
 
 Balance makes gravity easier.
@@ -51,7 +58,6 @@ evolution has shaped us with a species-specific interface whose icons we must ta
 ***
 
 
-Organs are more related to your health than your muscles or your thoughts. If you nourish your organs you will get a boost in your health. In fact, you do that everyday when you sleep.
 
 ***
 If you walk to the major cities of US, Canada and Europe you will confirm that Yoga is now popular, fashion, it has hundreds of postures and tons of studios.
