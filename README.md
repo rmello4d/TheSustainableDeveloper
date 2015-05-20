@@ -6,7 +6,7 @@ This book tackles a neglected side of software development:
 
 Self-Sustainability. 
 
-Is it possible to establish a sustainable coding practice ? Yes. Is it possible to engage in a 6h coding session and leave with more energy than at the beginning ? Absolutely.  
+Is it possible to establish a sustainable coding practice ? Is it possible to engage in 6hs coding sessions and leave them with more energy than at the beginning ? Absolutely.  
 
 Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. As we will see in the book, there is an untapped value in the crossings of these two worlds: developers and yogis. They have lots in common. 
 
