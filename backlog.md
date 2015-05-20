@@ -6,6 +6,10 @@ Let me give you a shocking news.
 
 Organs are more related to your health than your muscles. Also, as we grow older, your joints and articulations are more important than your muscles. 
 
+Ask any elderly person and they will probably tell you : the pain is on the joints, tendons and ligaments. The muscles ? They work fine. 
+
+
+We all start life completely loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. The slow hunchback process undermining the idea of a homo-erectus at 90 years old. 
 
 
 
