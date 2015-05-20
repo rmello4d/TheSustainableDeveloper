@@ -2,11 +2,15 @@
 
 Physical activity is a popular mantra. Get Strong. Build Muscles. Stay healthy. 
 
+We value muscle activity through many sports and physical activities : Yoga, Soccer, Basketball, Softball, Golf, Pilates ... 
+
+These are 
+
 Let me give you a shocking news. 
 
-Organs are more related to your health than your muscles. Also, as we grow older, your joints and ligaments are more important than your muscles. 
+Organs are more related to your health than your muscles. Also, as we grow older, your joints and ligaments are more related to your health than your muscles. 
 
-Ask any elder person and they will probably tell you : the pain is on the joints, tendons and ligaments. The muscles ? They work fine. 
+Ask any elder person and they will probably tell you: the pain is on the joints, tendons and ligaments. The muscles ? They work fine. 
 
 We all start life well loosen. A baby can touch its heels on the back of its skull if needed.  Slow and progressive, we build some body tension dealing with the aspects of life. As we grow older and older, we also get stiffer and curbed. 
 
