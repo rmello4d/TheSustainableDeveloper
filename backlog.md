@@ -6,25 +6,37 @@ Get Strong. Build Muscles. Stay healthy.
 
 These messages are great and we have raised the level of consciousness over the years about this subject. 
 
-Now is time for us to evolve and bring this a little further.
+Now is time to evolve and bring these mantra a little further.
 
-Lets reach our joints, ligaments and our deep tissue. 
+To go further, we have to reach our joints, ligaments and our deep tissue. 
 
-Just to clarify, we use our joints and ligaments while doing physical activities. The question is, how much are you using them ? 
+Just to clarify, we use our joints and ligaments while exercising.  
 
-Evolution made us to keep joints motion between a certain security range, otherwise we would be an easy pray. Having a joint problem would be deadly. Who is securitizing this range ?  Muscles. 
+The question here is, how much are we using them ? 
 
+Evolution made us to keep joints and ligaments's motion between a certain security range. The reason for that is probably survival. Having a joint or ligament problem could have a devastating impact in our movement. We would be a much easier pray. 
 
+Who is the guardian keeping our joints and ligaments in a secure range?  Muscles.
 
+Muscles will protect, secure and make sure your joints and ligaments do not bend or strecht over a certain range. You are right,  they carry luggage as well.  
+
+The mechanics is very logical and makes sense right? Why should we bring our joints or ligaments even further? 
 
 We all start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. 
 
+Ask any elderly person and they will probably confirm: the pain is on the joints, tendons and ligaments. The muscles ? They work fine. 
+
+It is time for a new, safe and efficient way to open our articulations beyond the muscles. 
+
+It is proven that if you put your joints and ligaments to open beyond the muscles you will get your body healthier. Blood flow is essential to its maintanability. 
+
 *Homo erectus* at 90 years old ? Tough to be. 
 
-Ask any elderly person and they will probably tell you : the pain is on the joints, tendons and ligaments. The muscles ? They work fine. 
+
+Is there a way to reach our joints and ligaments and open them,  without risk, for blood flow reach? 
 
 
-but evolution made your body protect your joints and ligaments with your muscles. 
+
 
 
 
