@@ -1,6 +1,24 @@
 ###The Muscle Myth
 
-Physical activity is a popular mantra. Get Strong. Build Muscles. Stay healthy. 
+Physical activity is a popular mantra. 
+
+Get Strong. Build Muscles. Stay healthy. 
+
+Is that message bad. No. 
+
+That is a great message and we have raise the level of consciousness around being active. 
+
+Now is time to evolve and bring this thought a little further. 
+
+The next level is related to your joints, ligaments and your deep tissue. 
+
+We all start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. Homo-erectus at 90 years old ? Tough to be. 
+
+The slow hunchback process undermining the idea of a homo-erectus at 90 years old. 
+
+Ask any elderly person and they will probably tell you : the pain is on the joints, tendons and ligaments. The muscles ? They work fine. 
+
+
 
 We value muscle activity through many sports and physical activities : Yoga, Soccer, Basketball, Softball, Golf, Pilates ... 
 
