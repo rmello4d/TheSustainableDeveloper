@@ -1,22 +1,36 @@
-###The Muscle Myth
+###Beyond Muscles
 
 Physical activity is a popular mantra. 
 
 Get Strong. Build Muscles. Stay healthy. 
 
-Is that message bad. No. 
+These messages are great and we have raised the level of consciousness over the years about this subject. 
 
-That is a great message and we have raise the level of consciousness around being active. 
+Now is time for us to evolve and bring this a little further.
 
-Now is time to evolve and bring this thought a little further. 
+Lets reach our joints, ligaments and our deep tissue. 
 
-The next level is related to your joints, ligaments and your deep tissue. 
+Just to clarify, we use our joints and ligaments while doing physical activities. The question is, how much are you using them ? 
 
-We all start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. Homo-erectus at 90 years old ? Tough to be. 
+Evolution made us to keep joints motion between a certain security range, otherwise we would be an easy pray. Having a joint problem would be deadly. Who is securitizing this range ?  Muscles. 
 
-The slow hunchback process undermining the idea of a homo-erectus at 90 years old. 
+
+
+
+We all start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. 
+
+*Homo erectus* at 90 years old ? Tough to be. 
 
 Ask any elderly person and they will probably tell you : the pain is on the joints, tendons and ligaments. The muscles ? They work fine. 
+
+
+but evolution made your body protect your joints and ligaments with your muscles. 
+
+
+
+
+
+
 
 
 
