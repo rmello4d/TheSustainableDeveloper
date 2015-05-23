@@ -65,7 +65,10 @@ evolution has shaped us with a species-specific interface whose icons we must ta
 
 
 ***
+IDEAS =
+to check if you are concious is great for the developer, it does not break his effort on building logic on his mind. 
 
+Do you think ballet dancers are masters of balance ? remember the pose with the feet flat and opposite in the floor, that is one of the most challenge postures for balance. 
 
 
 ***
