@@ -44,9 +44,9 @@ Everywhere else. Organs, tissues, cells...
 
 After sleeping for 8 hours we feel recharged. Our whole body fed with oxygen and energy food. 
 
-Lets go back to our Yogi. His posture is balanced. His muscles are relaxed. His brain is going layer by layer to a deep state of meditation.  His energy is not being wasted by bad posture, excessive muscular activity, worries or frenetic thinking. The Yogi is directing his oxygen to nourish organs, cells and tissues while awake.
+Lets go back to our Yogi. His posture is balanced. His muscles are relaxed. His brain is going layer by layer to a deep state of meditation.  His energy is not being wasted by bad posture, excessive muscular activity, worries or frenetic thinking. The Yogi is oxygenating organs, cells and tissues while awake.
 
-He may decide to breathe a notch up and increase the nourishing of his body, as a fast charge battery. 
+He may decide to breathe a notch up and increase even further the recharge of his body, as a fast charge battery. 
 
 After awhile, he turns into those radiant beams of light, energy is overflowing his body. 
 
