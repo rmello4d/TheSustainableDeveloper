@@ -22,7 +22,7 @@ We all know this relationship between muscle activity and breathing. If we try t
 
 Here a wild guess why muscles consume a lot of oxygen. Imagine you have a Lion chasing you. Your body will be screaming 'please get all energy possible to my muscles !'
 
-In fact, our muscles devour oxygen when active: to move, stand, run, swim, etc. Muscles are an intricate system. From the moment we wake up to the moment we fall asleep, muscles are active and helping you up with gravity. 
+In fact, our muscles devour oxygen when active: to move, stand, run, swim, etc. Muscles are an intricate system. From the moment we wake up to the moment we fall asleep, muscles are active and helping with gravity. 
 
 Keeping in mind this important correlation of muscles, breath and energy consumption. 
 
