@@ -12,9 +12,10 @@ To go further, we have to reach our joints, ligaments and our deep tissue.
 
 Just to clarify, we use our joints, ligaments and tendons while exercising.  
 
-The question here is, how far are we using them ? 
+The important question for us is, how far are we using them ? 
+Evolution kept joints and ligaments's motion between a certain security range. The reason for that is probably survival. Having a joint or ligament problem could have a devastating impact in our movement. 
 
-Evolution kept joints and ligaments's motion between a certain security range. The reason for that is probably survival. Having a joint or ligament problem could have a devastating impact in our movement. We would be a much easier pray. 
+We would be a much easier pray. 
 
 Who is the guardian keeping joints and ligaments secure ? Muscles.
 
@@ -22,9 +23,7 @@ Muscles make sure our joints and ligaments do not bend or stretch over a certain
 
 Yes, they carry luggage as well.  
 
-The mechanics of muscles protecting our joints and ligaments is logical and makes sense right? 
-
-Since nature took care of that, why should we bring our joints or ligaments even further? Wouldn't that be dangerous?
+The idea of muscles protecting our joints and ligaments is logical and makes sense. Since nature took care of that, why should we bring our joints or ligaments even further? Wouldn't that be dangerous?
 
 We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. 
 
@@ -34,7 +33,7 @@ The muscles? They work fine.
 
 Lets also remember that modern life has some levels of comfort that, instead of positively stress our joints and ligaments, make them worse. 
 
-To make our joints and ligaments healthier is a sustainable concern, it has important future consequences. 
+The idea of keeping our joints and ligaments healthier is a sustainable concern, it has important future consequences. 
 
 Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. 
 
