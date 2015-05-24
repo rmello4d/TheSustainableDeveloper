@@ -16,23 +16,23 @@ The question here is, how far are we using them ?
 
 Evolution kept joints and ligaments's motion between a certain security range. The reason for that is probably survival. Having a joint or ligament problem could have a devastating impact in our movement. We would be a much easier pray. 
 
-Who is the guardian keeping our joints and ligaments in a secure range?  Muscles.
+Who is the guardian keeping joints and ligaments secure ? Muscles.
 
-Muscles will protect, secure and make sure your joints and ligaments do not bend or stretch over a certain limit. 
+Muscles make sure our joints and ligaments do not bend or stretch over a certain limit. Muscles are protecting them to break apart. 
 
 Yes, they carry luggage as well.  
 
 The mechanics of muscles protecting our joints and ligaments is logical and makes sense right? 
 
-Since nature took care of that, why should we bring our joints or ligaments even further? 
+Since nature took care of that, why should we bring our joints or ligaments even further? Wouldn't that be dangerous?
 
 We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. 
 
 Ask any elderly person and they will probably confirm: their age brings pain on the joints, tendons and ligaments. 
 
-The muscles ? They work fine. 
+The muscles? They work fine. 
 
-Lets also remember that modern life has some levels of comfort that, instead of positively stress our joints and ligaments, make them worse. We all know how good is a sofa our wearing shoes but they carry much less effort on the joints. To keep benefiting of them, we need a conscious effort to balance out the deficit. 
+Lets also remember that modern life has some levels of comfort that, instead of positively stress our joints and ligaments, make them worse. 
 
 To make our joints and ligaments healthier is a sustainable concern, it has important future consequences. 
 
@@ -40,9 +40,13 @@ Is there a safe way to open and bring more flow and circulation to our joints an
 
 There are techniques for that and one of the best is Yin Yoga. 
 
-Yin Yoga focus on going beyond the muscles to increase flow and circulation to our deep tissue. Along this book we will bring Yin Yoga's best postures and ideas to positively impact the developer's daily life. (*)
+Yin Yoga focus on going beyond the muscles to increase flow and circulation into our deep tissue. 
 
-Imagine yourself as a developer *Homo erectus* at 90 years old. All these working years as a health bank for our joints and ligaments. 
+As we will see later, Yin Yoga's best postures and ideas positively impact the developer's daily life. (*)
+
+Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
+
+All these years working would be taken as a health bank for our joints and ligaments. 
 
 As for now, lets keep vivid the importance of going beyond our muscles. It will pay off. 
 
