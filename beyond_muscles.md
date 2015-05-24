@@ -8,11 +8,11 @@ These messages are great and we have raised the level of consciousness over the 
 
 Now is time to evolve and bring this mantra a little further.
 
-To go further, we have to reach our joints, ligaments and our deep tissue. 
+To go further, we have to reach our joints, ligaments and our deep tissue.
 
-Just to clarify, we use our joints and ligaments while exercising.  
+Just to clarify, we use our joints, ligaments and tendons while exercising.  
 
-The question here is, how much are we using them ? 
+The question here is, how far are we using them ? 
 
 Evolution kept joints and ligaments's motion between a certain security range. The reason for that is probably survival. Having a joint or ligament problem could have a devastating impact in our movement. We would be a much easier pray. 
 
@@ -33,6 +33,8 @@ Ask any elderly person and they will probably confirm: their age brings pain on 
 The muscles ? They work fine. 
 
 To make our joints and ligaments healthier is a sustainable concern, it has important future consequences. 
+
+Lets also remember that modern life has some levels of comfort that, instead of positively stress our joints and ligaments, make them worse. We all know how good is a sofa our wearing shoes but they carry much less effort on the joints. 
 
 Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. 
 
