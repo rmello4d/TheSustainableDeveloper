@@ -38,7 +38,7 @@ Is there a safe way to open and bring more flow and circulation to our joints an
 
 There are techniques to bring healthy benefits to our joints, ligaments and tendons. One of the best is Yin Yoga. 
 
-Yin Yoga focus on the deep tissue and along the book we will bring the best postures and ideas to the developer daily life (*)
+Yin Yoga focus on the deep tissue and along the book we will bring the best postures and ideas to the developer's daily life. (*)
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. All working years as a health bank for our joints and ligaments. 
 
@@ -46,9 +46,10 @@ As for now, lets keep vivid the importance of going beyond our muscles. It will 
 
 ****
 (*)
-The Complete Guide to Yin Yoga, Bernie Clark
 
-Yin Yoga: Principles and Practice, Paul Grilley
+***The Complete Guide to Yin Yoga by Bernie Clark***
 
-Insight Yoga, Sarah Powers
+***Yin Yoga: Principles and Practice by Paul Grilley***
+
+***Insight Yoga by Sarah Powers***
 
