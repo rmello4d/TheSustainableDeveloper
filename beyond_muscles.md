@@ -27,27 +27,27 @@ The idea of muscles protecting our joints and ligaments is logical and makes sen
 
 We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. 
 
-Ask any elderly person and they will probably confirm: their age brings pain on the joints, tendons and ligaments. 
+Ask any elderly person and they will probably confirm: their  pain is on the joints, tendons and ligaments. 
 
 The muscles? They work fine. 
 
 Lets also remember that modern life has some levels of comfort that, instead of positively stress our joints and ligaments, make them worse. 
 
-The idea of keeping our joints and ligaments healthier is a sustainable concern, it has important future consequences. 
+The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important future consequences. 
 
-Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. 
+For a developer, this is even more important. The amount of physical problems related to tendonitis, dupuytrens, carpal tunnel, bulge disks, back pain and etc is real. You can develop any of these problems after some years of coding. 
 
-There are techniques for that and one of the best is Yin Yoga. 
+Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. There are techniques for that and one of the best is Yin Yoga. 
 
-Yin Yoga focus on going beyond the muscles to increase flow and circulation into our deep tissue. 
+Yin Yoga acts beyond the muscles to increase flow and circulation into our deep tissue. 
 
 As we will see later, Yin Yoga's best postures and ideas positively impact the developer's daily life. (*)
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
-All these years working would be taken as a health bank for our joints and ligaments. 
+We need to transform all these years working into a health bank for our joints and ligaments. 
 
-As for now, lets keep vivid the importance of going beyond our muscles. It will pay off. 
+As for now, keep vivid the importance of going beyond our muscles into our deep tissue. It will pay off. 
 
 ****
 (*)
