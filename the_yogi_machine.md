@@ -42,7 +42,7 @@ This brings an interesting question, if at sleep the brain and the muscles are n
 
 Everywhere else. Organs, tissues, cells...
 
-After sleeping for 8 hours we feel recharged.
+After sleeping for 8 hours we feel recharged. Our whole body fed with oxygen and energy food. 
 
 Lets go back to our Yogi. His posture is balanced. His muscles are relaxed. His brain is going layer by layer to a deep state of meditation.  His energy is not being wasted by bad posture, excessive muscular activity, worries or frenetic thinking. The Yogi is directing his oxygen to nourish organs, cells and tissues while awake.
 
