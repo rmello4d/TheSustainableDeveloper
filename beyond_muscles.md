@@ -32,15 +32,15 @@ Ask any elderly person and they will probably confirm: their age brings pain on 
 
 The muscles ? They work fine. 
 
-To make our joints and ligaments healthier is a sustainable concern, it has important future consequences. 
+Lets also remember that modern life has some levels of comfort that, instead of positively stress our joints and ligaments, make them worse. We all know how good is a sofa our wearing shoes but they carry much less effort on the joints. To keep benefiting of them, we need a conscious effort to balance out the deficit. 
 
-Lets also remember that modern life has some levels of comfort that, instead of positively stress our joints and ligaments, make them worse. We all know how good is a sofa our wearing shoes but they carry much less effort on the joints. 
+To make our joints and ligaments healthier is a sustainable concern, it has important future consequences. 
 
 Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. 
 
 There are techniques for that and one of the best is Yin Yoga. 
 
-Yin Yoga focus on going beyond the muscles to increase flow and circulation to our deep tissue. Along this book we will bring the best postures and ideas to the developer's daily life. (*)
+Yin Yoga focus on going beyond the muscles to increase flow and circulation to our deep tissue. Along this book we will bring Yin Yoga's best postures and ideas to positively impact the developer's daily life. (*)
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. All these working years as a health bank for our joints and ligaments. 
 
