@@ -22,9 +22,9 @@ We all know instinticvely this relationship between muscle activity and breathin
 
 Here a wild guess why muscles consume a lot of oxygen. Imagine you have a Lion chasing you. Your body will be screaming 'please get all energy possible to my muscles !'
 
-In fact, our muscles devour oxygen when active: to move, stand, run, swimn, etc. Muscles are an intricate system, since we became bipedal a myriad of muscles is used to just keep up with gravity! 
+In fact, our muscles devour oxygen when active: to move, stand, run, swimn, etc. Muscles are an intricate system. From the moment we wake up to the moment we fall asleep, muscles are active and helping you up with gravity. 
 
-From the moment we wake up to the moment we fall asleep, muscles are active and eating great part of the oxygen you breathe. Keeping in mind this important correlation of muscles, breath and energy consumption. 
+Keeping in mind this important correlation of muscles, breath and energy consumption. 
 
 **In lotus position a Yogi meditates.** 
 
@@ -34,7 +34,9 @@ A relaxed mind solves the second piece of our puzzle : the brain is another big 
 
 Is it possible to relax our mind and consume less oxygen ? Yes. We do that everyday at sleep. 
 
-What happens when we sleep? We rest. How do we rest ? By not moving much and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep. 
+What happens when we sleep? We rest. 
+
+How do we rest ? By not moving much and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep. 
 
 This brings an interesting question, if at sleep the brain and the muscles are not consuming as much oxygen, to where is all that unused breathing oxygen going ? 
 
@@ -42,11 +44,11 @@ Everywhere else. Organs, tissues, cells...
 
 After sleeping for 8 hours we feel recharged.
 
-Lets go back and imagine the Yogi. His posture is balanced. His muscles are relaxed. His brain is going layer by layer to a deep state of meditation.  His energy is not being wasted by bad posture, excessive muscular activity, worries or frenetic thinking. The Yogi is nourishing his organs, cells, tissues while awake.
+Lets go back to our Yogi. His posture is balanced. His muscles are relaxed. His brain is going layer by layer to a deep state of meditation.  His energy is not being wasted by bad posture, excessive muscular activity, worries or frenetic thinking. The Yogi is directing his oxygen to nourish organs, cells and tissues while awake.
 
-He decides to breathe a notch up and get even more oxygen and energy. 
+He may decide to breathe a notch up and increase the nourishing of his body, as a fast charge battery. 
 
-After awhile, he turns into those radiant beams of light. 
+After awhile, he turns into those radiant beams of light, energy is overflowing his body. 
 
 Yogis raise their own energy to an optimal state and by a sustainable practice, keep it there.  
 
