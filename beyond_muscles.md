@@ -22,9 +22,9 @@ Muscles will protect, secure and make sure your joints and ligaments do not bend
 
 Yes, they carry luggage as well.  
 
-The mechanics is logical and makes sense right? Muscles are very important for life. 
+The mechanics of muscles protecting our joints and ligaments is logical and makes sense right? 
 
-Why should we bring our joints or ligaments even further? 
+Since nature took care of that, why should we bring our joints or ligaments even further? 
 
 We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. 
 
@@ -36,11 +36,11 @@ To make our joints and ligaments healthier is a sustainable concern, it has impo
 
 Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. 
 
-There are techniques to bring healthy benefits to our joints, ligaments and tendons. One of the best is Yin Yoga. 
+There are techniques for that and one of the best is Yin Yoga. 
 
-Yin Yoga focus on the deep tissue and along the book we will bring the best postures and ideas to the developer's daily life. (*)
+Yin Yoga focus on going beyond the muscles to increase flow and circulation to our deep tissue. Along this book we will bring the best postures and ideas to the developer's daily life. (*)
 
-Imagine yourself as a developer *Homo erectus* at 90 years old. All working years as a health bank for our joints and ligaments. 
+Imagine yourself as a developer *Homo erectus* at 90 years old. All these working years as a health bank for our joints and ligaments. 
 
 As for now, lets keep vivid the importance of going beyond our muscles. It will pay off. 
 
