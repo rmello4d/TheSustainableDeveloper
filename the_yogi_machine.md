@@ -18,11 +18,11 @@ By not moving and by being at rest, a Yogi solves the first piece of our puzzle:
 
 Our muscles play a big role in all the energy we consume while awake. They use oxygen coming from our breathing to create energy. 
 
-We all know instinticvely this relationship between muscle activity and breathing. If we try to sprint we will naturally increase our breathing frequency. We have to "catch our breath".  
+We all know this relationship between muscle activity and breathing. If we try to sprint we will naturally increase our breathing frequency. We have to "catch our breath".  
 
 Here a wild guess why muscles consume a lot of oxygen. Imagine you have a Lion chasing you. Your body will be screaming 'please get all energy possible to my muscles !'
 
-In fact, our muscles devour oxygen when active: to move, stand, run, swimn, etc. Muscles are an intricate system. From the moment we wake up to the moment we fall asleep, muscles are active and helping you up with gravity. 
+In fact, our muscles devour oxygen when active: to move, stand, run, swim, etc. Muscles are an intricate system. From the moment we wake up to the moment we fall asleep, muscles are active and helping you up with gravity. 
 
 Keeping in mind this important correlation of muscles, breath and energy consumption. 
 
