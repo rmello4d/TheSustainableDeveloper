@@ -1,3 +1,15 @@
+Yin Yoga, one of the best current practices 
+
+***The Complete Guide to Yin Yoga by Bernie Clark***
+
+***Yin Yoga: Principles and Practice by Paul Grilley***
+
+***Insight Yoga by Sarah Powers***
+
+
+*****
+
+
 ###Beyond Muscles
 
 Physical activity is a popular mantra. 
