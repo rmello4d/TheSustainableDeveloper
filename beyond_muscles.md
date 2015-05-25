@@ -39,7 +39,7 @@ For a developer, this is even more important. We often have physical problems re
 
 Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. There are techniques for that and we will see them along the book, specially Yoga. 
 
-Some forms of Yoga act beyond the muscles to increase flow and circulation into our deep tissue. 
+Some forms of Yoga act beyond the muscles. They increase flow and circulation into our deep tissues. 
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
