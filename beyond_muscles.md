@@ -20,7 +20,7 @@ We would be a much easier pray.
 
 Who is the guardian keeping joints and ligaments secure ? Muscles.
 
-Muscles make sure our joints and ligaments do not bend or stretch over a certain limit. Muscles are protecting them to break apart. 
+Muscles make sure our joints and ligaments do not bend or stretch over a certain limit. Muscles are protecting them so they don't break apart. 
 
 Yes, they carry luggage as well.  
 
