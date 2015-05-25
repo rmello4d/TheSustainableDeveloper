@@ -37,24 +37,18 @@ The idea of keeping our joints and ligaments healthier is a sustainable concern.
 
 For a developer, this is even more important. We often have physical problems related to joints, tendons and ligaments: Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  You can develop any of these problems after some years of coding. 
 
-Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. There are techniques for that and one of the best is Yin Yoga. 
+Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. There are techniques for that and we will see them along the book, specially Yoga. 
 
-Yin Yoga acts beyond the muscles to increase flow and circulation into our deep tissue. 
-
-As we will see later, Yin Yoga's best postures and ideas positively impact the developer's daily life. (*)
+Some forms of Yoga act beyond the muscles to increase flow and circulation into our deep tissue. 
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
 We need to transform all these years working into a health bank for our joints and ligaments. 
 
+We will discuss the best postures and ideas to positively impact the developer's daily life in the Second Part of this book. 
+
 As for now, keep vivid the importance of going beyond our muscles into our deep tissue. It will pay off. 
 
 ****
-(*)
-
-***The Complete Guide to Yin Yoga by Bernie Clark***
-
-***Yin Yoga: Principles and Practice by Paul Grilley***
-
-***Insight Yoga by Sarah Powers***
+(*) 
 
