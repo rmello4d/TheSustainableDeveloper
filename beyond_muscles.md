@@ -12,7 +12,7 @@ To go further, we have to reach our joints, ligaments and our deep tissue.
 
 Just to clarify, we use our joints, ligaments and tendons while exercising.  
 
-The important question for us is, how far are we using them ? 
+The important question is, how far are we using them ? 
 Evolution kept joints and ligaments's motion between a certain security range. The reason for that is probably survival. Having a joint or ligament problem could have a devastating impact in our movement. 
 
 We would be a much easier pray. 
