@@ -22,8 +22,6 @@ Who is the guardian keeping joints and ligaments secure ? Muscles.
 
 Muscles make sure our joints and ligaments do not bend or stretch over a certain limit. Muscles are protecting them so they don't break apart. 
 
-Yes, muscles carry luggage as well.  
-
 The idea of muscles protecting our joints and ligaments is logical and makes sense. Since nature took care of that, why should we bring our joints or ligaments even further? Wouldn't that be dangerous? 
 
 Not if done well. 
