@@ -35,7 +35,6 @@ Ask any elderly person and they will probably confirm: their  pain is on the joi
 The muscles? They work fine. 
 
 Lets also remember that modern life has some levels of comfort that, instead of positively stress our joints and ligaments, make them worse. 
-
 The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important future consequences. 
 
 For a developer, this is even more important. The amount of physical problems related to tendonitis, dupuytrens, carpal tunnel, bulge disks, back pain and etc is real. You can develop any of these problems after some years of coding. 
