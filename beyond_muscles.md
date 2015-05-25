@@ -1,6 +1,6 @@
 # Beyond Muscles
 
-####Physical activity is a popular mantra. 
+#####Physical activity is a popular mantra. 
 
 Get Strong. Build Muscles. Stay healthy. 
 
