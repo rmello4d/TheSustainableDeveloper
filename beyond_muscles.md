@@ -36,7 +36,7 @@ Lets also remember that modern life has some levels of comfort that, instead of 
 
 The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important future consequences. 
 
-For a developer, this is even more important. The amount of physical problems related to tendonitis, dupuytrens, carpal tunnel, bulge disks, back pain and etc is real. You can develop any of these problems after some years of coding. 
+For a developer, this is even more important. We often have physical problems related to joints, tendons and ligaments: Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  You can develop any of these problems after some years of coding. 
 
 Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. There are techniques for that and one of the best is Yin Yoga. 
 
