@@ -4,8 +4,7 @@
 
 Get Strong. Build Muscles. Stay healthy. 
 
-These messages are great and we have raised the level of consciousness over the years about this subject. 
-
+These messages are useful and we have raised the level of consciousness over the years about the  subject of being active and exercising regularly. 
 Now is time to evolve and bring this mantra a little further.
 
 To go further, we have to reach our joints, ligaments and our deep tissue.
