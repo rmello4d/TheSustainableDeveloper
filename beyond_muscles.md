@@ -23,7 +23,7 @@ Among other things, muscles make sure our joints and ligaments do not bend or st
 
 The idea of muscles protecting our joints and ligaments is logical and makes sense. Since nature took care of that, why should we bring our joints or ligaments even further? Wouldn't that be dangerous? 
 
-No. If we done well, there is no risks.   
+No. If we done well, there are no risks.   
 
 We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Progressively we build some body tension by growing up. As we grow older and older, we get stiffer and curbed by life. What is getting stiffer and curbed ? Bingo. Our joints, ligaments, tendons and the deep tissue. 
 
