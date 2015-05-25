@@ -26,7 +26,7 @@ The idea of muscles protecting our joints and ligaments is logical and makes sen
 
 Not if done well. 
 
-We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. What is getting stiffer and curbed ? Our joints, ligaments, tendons and parts of the deep tissue. 
+We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. What is getting stiffer and curbed ? Our joints, ligaments, tendons and the deep tissue. 
 
 Ask any elderly person and they will probably confirm: their  pain is on the joints, tendons and ligaments. 
 
