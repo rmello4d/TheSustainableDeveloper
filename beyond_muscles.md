@@ -24,7 +24,9 @@ Muscles make sure our joints and ligaments do not bend or stretch over a certain
 
 Yes, muscles help a great deal carrying luggage as well.  
 
-The idea of muscles protecting our joints and ligaments is logical and makes sense. Since nature took care of that, why should we bring our joints or ligaments even further? Wouldn't that be dangerous? Not if done well. 
+The idea of muscles protecting our joints and ligaments is logical and makes sense. Since nature took care of that, why should we bring our joints or ligaments even further? Wouldn't that be dangerous? 
+
+Not if done well. 
 
 We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. What is getting stiffer and curbed ? Our joints, ligaments, tendons and parts of the deep tissue. 
 
