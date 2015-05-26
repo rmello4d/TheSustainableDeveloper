@@ -13,26 +13,7 @@ Yin Yoga, one of the best current practices
 ****
 
 
-We value muscle activity through many sports and physical activities : Yoga, Soccer, Basketball, Softball, Golf, Pilates ... 
-
-These are 
-
-Let me give you a shocking news. 
-
-Organs are more related to your health than your muscles. Also, as we grow older, your joints and ligaments are more related to your health than your muscles. 
-
-Ask any elder person and they will probably tell you: the pain is on the joints, tendons and ligaments. The muscles ? They work fine. 
-
-We all start life well loosen. A baby can touch its heels on the back of its skull if needed.  Slow and progressive, we build some body tension dealing with the aspects of life. As we grow older and older, we also get stiffer and curbed. 
-
-A slow hunchback process that undermines the idea of a homo-erectus at 90 years old. 
-
-
-
-
-
 If you nourish your organs you will get a boost in your health.
-
 
 Balance makes gravity easier.
 
@@ -97,21 +78,10 @@ The oldest Yoga artifact has about 6000 years old, it is the image of a person i
 
 What am I saying ? Is Yoga getting bad ? No. The point here is to note that muscles are not the goal, so if you practice any form of Yoga, football or baseball, great! These are all muscular based exercises. 
 
-If you don’t exercise at all, it is fine too. You are somehow using your muscles all day long, from standing up to walking to the corner for some coffee. Even when you sit you are using your muscles !
+*****
 
-Bottom line, from the moment you wake up to the moment you fall asleep your muscles are on mission. 
 
-So, what is the point ? 
-
-The point is your joints and your deep tissue. 
-
-We all start life completely loosen. A baby can touch its heels on the back of its skull if needed.  Slowly and surely we build some body tension by growing up. As we grow older and older, we also get stiffer and curbed by life. The slow hunchback process undermining the idea of a homo-erectus at 90 years old. 
-
-Ask any elderly person and they will probably tell you : the pain is on the joints, tendons and ligaments. The muscles ? They work fine. 
-
-Now, please take your time. 
-
-An important info has been thrown at you. Feel, analyse and judge it. Ask your grandmother if you need. Confirm this information by looking to your own experience. If you agree with the idea that muscles are just part of the equation and  getting your joints ‘juicy’ are fundamentally important from now on, you are on the verge of a transforming yourself. 
+If you agree with the idea that muscles are just part of the equation and  getting your joints ‘juicy’ are fundamentally important from now on, you are on the verge of a transforming yourself. 
 
 So, does exist a way to exercise and clean our joints, ligaments and deep tissue more effectively than muscular exercises ?  
 
