@@ -4,7 +4,8 @@
 
 Get Strong. Build Muscles. Stay healthy. 
 
-These messages are useful and we have raised the level of consciousness over the years about the  subject of being active and exercising regularly. 
+These messages are useful and we have raised the level of consciousness over the years about the  importance of being active and regular exercising. 
+
 Now is time to evolve and bring this mantra a little further.
 
 To go further, we have to reach our joints, ligaments and our deep tissue.
@@ -23,9 +24,13 @@ Among other things, muscles make sure our joints and ligaments do not bend or st
 
 The idea of muscles protecting our joints and ligaments is logical and makes sense. Since nature took care of that, why should we bring our joints or ligaments even further? Wouldn't that be dangerous? 
 
-No. If we done well, there are no risks.   
+No. There are no risks if done well.   
 
-We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  Progressively we build some body tension by growing up. As we grow older and older, we get stiffer and curbed by life. What is getting stiffer and curbed ? Bingo. Our joints, ligaments, tendons and the deep tissue. 
+We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  
+
+Progressively we build some body tension by growing up. As we grow older and older, we get stiffer and curbed by life. 
+
+What is getting stiffer and curbed ? Our joints, ligaments, tendons and the deep tissue. 
 
 Ask any elderly person and they will probably confirm: their  pain is on the joints, tendons and ligaments. 
 
@@ -35,11 +40,15 @@ Lets also remember that modern life has some levels of comfort that, instead of 
 
 The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important future consequences. 
 
-For a developer, this is even more important. We often have physical problems related to joints, tendons and ligaments: Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  You can develop any of these problems after some years of coding. 
+For a developer, this is even more important. We often have physical problems related to joints, tendons and ligaments. 
 
-Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. There are techniques for that and we will see them along the book, specially Yoga. 
+Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  We can develop any of these problems after some years of coding.  
 
-Some forms of Yoga act beyond the muscles. They increase flow and circulation into our deep tissues. 
+Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. 
+
+There are techniques for that and we will see them along the book, specially Yoga. 
+
+Some forms of Yoga act beyond the muscles. They increase flow and circulation into our deep tissues.  
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
