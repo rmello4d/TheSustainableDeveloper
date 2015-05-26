@@ -24,7 +24,7 @@ Bottom line: the brain is a vital organ and nature was smart enough to take the 
 
 Do you control your heart ? Your liver ? No, and that is a good thing. Vital organs are self regulated, independent of your control and the brain falls in that category.
 
-Your brain is not your puppet.   It is an organ too complex, powerful and designed to go beyond your consciousness.
+Your brain is not your puppet.   It is an organ too complex, powerful and designed to go beyond your control.
 
 Having said that, if we can't control it, what's all the fuss about it ?
 
