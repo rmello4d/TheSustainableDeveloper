@@ -23,6 +23,8 @@ I’ve worked as a developer, project manager and project director for a long ti
 
 At this point of the chapter, If you are a developer and I did not pass your bullshiting test, you are already getting another book.  
 
+Their apparently lazyness hides a deep love to automate everything around them. How to do things faster and with less effort is always in the back of their minds. Afterall, extra time is key on getting even geekier.   
+
 Developers build muscle mass in the brain for logical processing. They can step over pain, stress and hold a considerable amount of information at same time. They eat opposite ideas for breakfast.  
 
 They are mental beasts, often with a geek sweetness and fragile face. 
