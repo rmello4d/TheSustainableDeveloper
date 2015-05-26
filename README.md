@@ -30,3 +30,10 @@ Also, this book is primarily meant for coders but I also invite non-coders to un
 Last but not least, please share your opinion about anything you believe right or wrong in this book. One way or the other, you are helping to spread and enlarge this conversation even further. 
 
 Guru-ninja-master.
+
+
+***
+
+This book is an ongoing project. The content and the chapters may change before the final release.
+
+Follow me on twitter at [@JSapplied](https://twitter.com/JSapplied) 
