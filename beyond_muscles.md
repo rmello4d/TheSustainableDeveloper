@@ -59,5 +59,7 @@ We will discuss the best postures and ideas to positively impact the developer's
 As for now, keep vivid the importance of going beyond our muscles into our deep tissue. It will pay off. 
 
 ****
-(*) Move Your DNA: Restore Your Health Through Natural Movement,  October 15, 2014 by Katy Bowman (http://www.katysays.com/)
+(*) 
+
+*Move Your DNA: Restore Your Health Through Natural Movement,  October 15, 2014 by Katy Bowman (http://www.katysays.com/)*
 
