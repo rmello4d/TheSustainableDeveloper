@@ -80,24 +80,6 @@ What am I saying ? Is Yoga getting bad ? No. The point here is to note that musc
 
 *****
 
-
-If you agree with the idea that muscles are just part of the equation and  getting your joints ‘juicy’ are fundamentally important from now on, you are on the verge of a transforming yourself. 
-
-So, does exist a way to exercise and clean our joints, ligaments and deep tissue more effectively than muscular exercises ?  
-
-Welcome to Yin Yoga. 
-
-
-Yin Yoga 
-
-
-
-
-
-
-I hope you feel different right now. A life changing information has just been thrown at you: Grab it. Chew it. Absorb it. When you ready again, keep reading...
-
-
  
 
 
