@@ -24,3 +24,9 @@ These questions and others are the inspiration for this book. As many Developers
 It is time for us to talk and discuss about self sustainability.
 
 Let it be. 
+
+***
+
+This book is an ongoing project. The content and the chapters may change before the final release.
+
+Follow me on twitter at [@JSapplied](https://twitter.com/JSapplied) 
