@@ -36,4 +36,3 @@ This book is an ongoing project. The content and the chapters may change before 
 Follow me on twitter at [@JSapplied](https://twitter.com/JSapplied) 
 
 
-* [ControllingTheBrain](controllingthebrain.md)
