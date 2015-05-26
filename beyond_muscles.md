@@ -12,7 +12,7 @@ To go further, we have to reach our joints, ligaments and our deep tissue.
 
 Just to clarify, we use our joints, ligaments and tendons while exercising.  
 
-The important question is, how far are we using them ? 
+The important question is, how far are we using them ? Are we opening them enough, so we can clean up the toxins and the stress of life ?
 
 Evolution kept joints and ligaments's motion between a certain security range. The reason for that is survival. Having a joint or ligament problem could have a devastating impact in our movement. 
 
@@ -44,15 +44,18 @@ For a developer, this is even more important. We often have physical problems re
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  We can develop any of these problems after some years of coding.  
 
-Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. 
+Is there a safe way to open further and bring more circulation to our joints and ligaments? 
 
-There are techniques for that and we will see them along the book, specially traditional Yoga. 
+Is there a way to keep our deep tissue healthier and juicy ? 
 
-Some forms of Yoga act beyond the muscles. They increase circulation into our deep tissues.  More circulation, better joints and ligaments, better health. 
+Yes.  
 
-Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
+There are specific techniques and we will see them along the book, specially Yoga. 
 
-The Sustainable Developer transforms his working hours into a health bank for her joints and ligaments. 
+Some forms of Yoga act beyond the muscles. They increase circulation into our deep tissues. They open our joints and ligaments gently and securely. 
+
+Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. The muscles ? They work fine. 
+The Sustainable Developer transforms the working hours into a health bank for her joints and ligaments. 
 
 We will discuss the best postures and ideas to positively impact the developer's daily life in the Second Part of this book. 
 
