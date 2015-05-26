@@ -30,7 +30,7 @@ Keeping in mind this important correlation of muscles, breath and energy consump
 
 Allow me to simplify the word meditation as the relaxing of your mind. We will go deeper into how that happens, but for now, please bare with me. 
 
-A relaxed mind solves the second piece of our puzzle : the brain is another big consumer of energy and oxygen in the body. 
+A relaxed mind solves the second piece of our puzzle: the brain is another big consumer of energy and oxygen in the body. 
 
 Is it possible to relax our mind and consume less oxygen ? Yes. We do that everyday at sleep. 
 
