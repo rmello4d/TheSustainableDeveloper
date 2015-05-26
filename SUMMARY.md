@@ -7,7 +7,6 @@
    * [The Yogi Machine](the_yogi_machine.md)
    * [Beyond Muscles](beyond_muscles.md)
    * [Brain Control](controllingthebrain.md)
-   
 * [Part 2 - The Sustainable Developer]
 * [Extras]
    * [For non-coders](learn_how_to_code.md)
