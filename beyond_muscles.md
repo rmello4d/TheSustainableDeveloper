@@ -22,9 +22,9 @@ Who is the guardian keeping joints and ligaments secure ? Muscles.
 
 Among other things, muscles make sure our joints and ligaments do not bend or stretch over a certain limit. Muscles are protecting them so they don't break apart. 
 
-The idea of muscles protecting our joints and ligaments is logical and makes sense. Since nature took care of that, why should we bring our joints or ligaments even further? Wouldn't that be dangerous? 
+The idea of muscles protecting our joints and ligaments is logical and makes sense. Since nature took care of that, why should we bring our joints or ligaments even further, Wouldn't that be dangerous? 
 
-No. There are no risks if done well.   
+No. There are no risks if done correctly.   
 
 We start life physically loosen. A baby can touch its heels on the back of its skull if needed.  
 
@@ -40,15 +40,15 @@ Lets also remember that modern life has some levels of comfort that, instead of 
 
 The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important future consequences. 
 
-For a developer, this is even more important. We often have physical problems related to joints, tendons and ligaments. 
+For a developer, this is even more important. We often have physical problems related to joints, tendons and ligaments: 
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  We can develop any of these problems after some years of coding.  
 
 Is there a safe way to open and bring more flow and circulation to our joints and ligaments ? Yes. 
 
-There are techniques for that and we will see them along the book, specially Yoga. 
+There are techniques for that and we will see them along the book, specially traditional Yoga. 
 
-Some forms of Yoga act beyond the muscles. They increase flow and circulation into our deep tissues.  
+Some forms of Yoga act beyond the muscles. They increase circulation into our deep tissues.  More circulation, better joints and ligaments, better health. 
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
