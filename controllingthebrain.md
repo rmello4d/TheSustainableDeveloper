@@ -1,2 +1,2 @@
-# ControllingTheBrain
+# Brain Control
 
