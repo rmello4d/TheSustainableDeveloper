@@ -1,10 +1,10 @@
-# Brain Control
+#Brain Control
 
 Can you control your brain ?
 
 No.
 
-It is important to dismistify the frenzy around posessing that magical power. 
+It is important to dismistify the frenzy around posessing this magical power. 
 
 The brain was not meant or designed to be "controlled".
 
