@@ -74,3 +74,8 @@ Madsen PL1, Schmidt JF, Holm S, Vorstrup S, Lassen NA, Wildschiødtz G.*
 in alpha and theta rhythm during sleep onset in humans.
 Futoshi Kotajima1,2, Guy E. Meadows1, Mary J. Morrell1 and Douglas R. Corfield1,3*
 
+***
+
+This book is an ongoing project. The content and the chapters may change before the final release.
+
+Follow me on twitter at [@JSapplied](https://twitter.com/JSapplied) 
