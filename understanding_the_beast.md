@@ -25,14 +25,13 @@ At this point of the chapter, If you are a developer and I did not pass your bul
 
 Their apparently lazyness hides a deep love to automate everything around them. How to do things faster and with less effort is always in the back of their minds. Afterall, extra time is key on getting even geekier.   
 
-Developers build muscle mass in the brain for logical processing. They can step over pain, stress and hold a considerable amount of information at same time. They eat opposite ideas for breakfast.  
+Developers are bodybuilders for logical thinking. They step over pain and stress while muscling thoughts. They learn how to juggle a considerable amount of information at same time. They eat opposite ideas for breakfast.  
 
 They are mental beasts, often with a geek sweetness and fragile face. 
 
 Watch out. 
 
 In today’s world they are getting ahead as never before, making fortunes, being stars in the news. 
-
 In other words: 
 
 They are conquering the world. 
