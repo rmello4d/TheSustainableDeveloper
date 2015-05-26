@@ -1,6 +1,6 @@
 #Brain Control
 
-Can you control your brain ?
+Can we control your brain ?
 
 No.
 
@@ -8,17 +8,17 @@ It is important to dismistify the frenzy around posessing this magical power.
 
 The brain was not meant or designed to be "controlled".
 
-Our brain is like an ocean receiving all the flowing rivers from the senses and that is not part of your decisions. 
+Our brain is like an ocean receiving all the flowing rivers from the senses and that is not part of our decisions. 
 
-You can see your brain as a "super recorder" running in a forever 'on' mode.
+We can see our brain as a "super recorder" running in a forever 'on' mode.
 
-Your brain registers everything you touch, listen, see, taste, smell, eat. Even when you sleep your brain is active. 
+Uur brain registers everything we touch, listen, see, taste, smell, eat. Even when you sleep your brain is active. 
 
 Think of a black hole grabbing and absorbing everything within range of your sensory boundaries. 
 
 Nothing escapes.
 
-On top of that, the brain is wired to regulate lots of activities in your body, from hormones delivery to blood circulation.
+On top of that, the brain regulates important activities in your body, from hormones delivery to blood circulation.
 
 Bottom line: the brain is a vital organ and nature was smart enough to take the control off your hands. 
 
