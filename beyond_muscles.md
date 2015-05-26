@@ -63,3 +63,5 @@ As for now, keep vivid the importance of going beyond our muscles into our deep 
 
 *Move Your DNA: Restore Your Health Through Natural Movement,  October 15, 2014 by Katy Bowman (http://www.katysays.com/)*
 
+
+
