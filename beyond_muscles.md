@@ -14,7 +14,7 @@ Just to clarify, we use our joints, ligaments and tendons while exercising.
 
 The important question is, how far are we using them ? 
 
-Evolution kept joints and ligaments's motion between a certain security range. The reason for that is probably survival. Having a joint or ligament problem could have a devastating impact in our movement. 
+Evolution kept joints and ligaments's motion between a certain security range. The reason for that is survival. Having a joint or ligament problem could have a devastating impact in our movement. 
 
 We would be a much easier pray. 
 
