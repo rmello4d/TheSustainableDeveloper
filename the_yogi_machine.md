@@ -8,7 +8,7 @@ He can go days without much food or water. He can sit and meditate for hours. He
 
 How about the beaming part ? After all, Yogis have been depicted with radiant beams of light. 
 
-Lets have a closer look at our Yogi image:
+Lets unpuzzle our Yogi image:
 
 **In lotus position a Yogi does not move.** 
 
