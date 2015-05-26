@@ -6,7 +6,7 @@
    * [The Developer Path](understanding_the_beast.md)
    * [The Yogi Machine](the_yogi_machine.md)
    * [Beyond Muscles](beyond_muscles.md)
-   * ControllingTheBrain
+   * [ControllingTheBrain](controllingthebrain.md)
 * [Part 2 - The Sustainable Developer]
 * [Extras]
    * [For non-coders](learn_how_to_code.md)
