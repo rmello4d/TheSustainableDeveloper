@@ -69,7 +69,8 @@ As for now, keep vivid the importance of going beyond our muscles into our deep 
 
 ***
 
-This book is an ongoing project. The content and the chapters may change before the final release. 
+This book is an ongoing project. The content and the chapters may change before the final release.
+
 Follow me on twitter at [@JSapplied](https://twitter.com/JSapplied) 
 
 
