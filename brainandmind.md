@@ -1,12 +1,12 @@
+#The Mind 
 
-
-The game between brain and mind.
-
-The distinction between brain and mind is important. As previously discussed,  your brain cannot be controlled and that is probably a good thing.
+The distinction between brain and mind is important. As discussed in the last chapter, our brain cannot be controlled and that is probably a good thing.
 
 How about your mind ? Is controlling your mind different than controlling your brain ?
 
-To begin with, lets realize that brain and mind are understood in many different ways by many different cultural and religious traditions. Philosophy, psychology, religion and science will give you different answers. By consequence, trying to define with precision is counter productive, it will be out of our scope to impose a definition that can settle the different views but, it is possible to give some context that will help to create an organic way of understanding the mind and brain relation:
+To begin with, lets understand that brain and mind are understood in many different ways by many different cultural and religious traditions. 
+
+Philosophy, psychology, religion and science will give you different answers. By consequence, trying to define with precision is counter productive, it will be out of our scope to impose a definition that can settle the different views but, it is possible to give some context that will help to create an organic way of understanding the mind and brain relation:
 
 In the context of this book, the mind is the brain susceptible to some control.
 
