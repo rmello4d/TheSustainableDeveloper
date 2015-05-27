@@ -12,11 +12,11 @@ To go further, we have to reach our joints, ligaments and our deep tissue.
 
 Just to clarify, we use our joints, ligaments and tendons while exercising.  
 
-The important question is, how far are we using them ? Are we opening them enough, so we can clean up the toxins and the stress of life ?
+The important question is, how far are we using them ? Are we opening our joints and ligaments enough, so we can clean up the toxins and the stress of life ?
 
-Our body depends on our joints, ligaments and our deep tissue to move. Joints, ligaments and tendons are the connections between bones and muscles. 
+Our body depends on our joints, ligaments and our deep tissue to move. They form a connection network between bones and muscles. 
 
-To loose one of this connections could have a devastating impact in our body network.  Evolutionary speaking, we would be a much easier pray.
+To loose one of these connections could have a devastating impact in our body network flow.  Evolutionary speaking, we would be a much easier pray.
 
 The body 'architecture' limited the motion for joints and ligaments between a certain security range.
 
