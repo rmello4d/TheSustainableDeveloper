@@ -10,11 +10,20 @@ Now is time to evolve and bring this mantra a little further.
 
 To go further, we have to reach our joints, ligaments and our deep tissue.
 
-Just to clarify, we use our joints, ligaments and tendons while exercising.  
+Just to clarify, we use our joints, ligaments and tendons while exercising our muscles. 
 
-The important question is, how far are we using them ? Are we opening our joints and ligaments enough, so we can clean up the toxins and the stress of life ?
 
-Our body depends on our joints, ligaments and our deep tissue to move. They are the connections between bones and muscles. 
+
+
+
+Is that enough ? 
+
+
+
+
+Are we opening our joints and ligaments to clean up the toxins and the stress of life ?
+
+Let's understand the joints, ligaments and our deep tissue. Our body uses them to move. They are the connections between bones and muscles. 
 
 To loose one of these connections could have a devastating impact in our body.  
 
@@ -32,7 +41,7 @@ Progressively we build some body tension by growing up. As we grow older and old
 
 What is getting stiffer and curbed ? Our joints, ligaments, tendons and the deep tissue. 
 
-Ask any elderly person and they will often confirm: their  pain is on the joints, tendons and ligaments. 
+Ask any elderly person and they will often confirm: their pain is on the joints, tendons and ligaments. 
 
 The muscles? They work fine. 
 
