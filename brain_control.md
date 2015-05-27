@@ -14,7 +14,7 @@ Metaphorically speaking, we can see our brain as a "super recorder" running in a
 
 Our brain registers everything we touch, listen, see, taste, smell, eat. Even when you sleep your brain is active. 
 
-A black hole grabbing and absorbing everything within range of your sensory boundaries. 
+A black hole grabbing and absorbing everything within range of our sensory boundaries. 
 
 Nothing escapes.
 
