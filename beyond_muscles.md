@@ -42,7 +42,10 @@ There are specific techniques, specially Yoga.
 
 Some forms of Yoga act beyond the muscles. They increase circulation into our deep tissues. They open our joints and ligaments gently and securely. 
 
-Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. The muscles ? They work fine. 
+Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
+
+The muscles ? They work fine. 
+
 The Sustainable Developer is transforming her working hours into a 'health bank' for her joints and ligaments. 
 
 We will discuss the best postures and ideas to positively impact the developer's daily life in the Second Part of this book. 
