@@ -14,15 +14,15 @@ Just to clarify, we use our joints, ligaments and tendons while exercising.
 
 The important question is, how far are we using them ? Are we opening our joints and ligaments enough, so we can clean up the toxins and the stress of life ?
 
-Our body depends on our joints, ligaments and our deep tissue to move. They form a connection network between bones and muscles. 
+Our body depends on our joints, ligaments and our deep tissue to move. They are the connections between bones and muscles. 
 
-To loose one of these connections could have a devastating impact in our body network flow.  Evolutionary speaking, we would be a much easier pray.
+To loose one of these connections could have a devastating impact in our body.  
 
-The body 'architecture' limited the motion for joints and ligaments between a certain security range.
+Evolutionary speaking, we would be a much easier pray. To secure our movement, the body 'architecture'  limited the motion for joints and ligaments between a certain security range.
 
 Who is the guardian keeping joints and ligaments in a secure range ? Muscles.
 
-Among other things, muscles make sure our joints and ligaments do not bend or stretch over a certain limit, so they don't break apart. 
+Among other things, muscles try their best to protect our joints and ligaments on bending or stretching over a certain limit. 
 
 We all started life physically loosen. A baby can touch its heels on the back of its skull if needed.  
 
