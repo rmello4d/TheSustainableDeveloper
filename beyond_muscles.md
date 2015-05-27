@@ -4,36 +4,13 @@
 
 Get Strong. Build Muscles. Stay healthy. 
 
-These messages are useful. We have raised consciousness over the years about the  importance of being active and about regular exercise. 
+These messages are useful. We have raised consciousness about the  importance of being active and about regular exercise. 
 
 Now is time to evolve and bring this mantra a little further.
 
 To go further, we have to reach our joints, ligaments and our deep tissue.
 
-Just to clarify, we use our joints, ligaments and tendons while exercising our muscles. 
-
-
-
-
-
-Is that enough ? 
-
-
-
-
-Are we opening our joints and ligaments to clean up the toxins and the stress of life ?
-
-Let's understand the joints, ligaments and our deep tissue. Our body uses them to move. They are the connections between bones and muscles. 
-
-To loose one of these connections could have a devastating impact in our body.  
-
-Evolutionary speaking, we would be a much easier pray. 
-
-To secure our movement, the body limited the motion of our joints and ligaments between a certain security range.
-
-Who is the guardian keeping joints and ligaments in a secure range ? Muscles.
-
-Among other things, muscles try their best to protect our joints and ligaments on bending or stretching over a certain limit. 
+Why is this important ? Health and energy. 
 
 We all started life physically loosen. A baby can touch its heels on the back of its skull if needed.  
 
@@ -43,9 +20,7 @@ What is getting stiffer and curbed ? Our joints, ligaments, tendons and the deep
 
 Ask any elderly person and they will often confirm: their pain is on the joints, tendons and ligaments. 
 
-The muscles? They work fine. 
-
-Lets also remember that modern life has some levels of comfort that, instead of positively stress our joints and ligaments, make them worse.
+The muscles? They work fine.
 
 The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important future consequences for our health and range of motion. 
 
@@ -53,11 +28,17 @@ For a developer, this is even more important. We don't need to get older to have
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  We can develop any of these problems after some years of coding.  
 
-Is there a safe way to open further and bring more circulation to our joints and ligaments? Is there a way to keep our deep tissue healthier and juicy ? 
+Joints and ligaments are so important that our body is often trying to protect their motion. Who is the guardian keeping joints and ligaments safe? Muscles.
+
+Among other things, muscles try their best to protect our joints and ligaments from bending or stretching over a certain limit. 
+
+Just to clarify, we use our joints, ligaments and tendons while exercising our muscles. The problem is that we will keep them in a constrict range.  
+
+Is there a safe way to open our joints and ligaments further? Is there a way to keep our deep tissue healthier and juicy ? 
 
 Yes.  
 
-There are specific techniques and we will see them along the book, specially Yoga. 
+There are specific techniques, specially Yoga. 
 
 Some forms of Yoga act beyond the muscles. They increase circulation into our deep tissues. They open our joints and ligaments gently and securely. 
 
@@ -67,7 +48,6 @@ The Sustainable Developer is transforming her working hours into a 'health bank'
 We will discuss the best postures and ideas to positively impact the developer's daily life in the Second Part of this book. 
 
 As for now, keep vivid the importance of going beyond our muscles into our deep tissue. It will pay off. 
-
 
 ****
 (*) 
