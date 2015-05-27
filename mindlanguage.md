@@ -31,26 +31,17 @@ The lion roars victory.
 
 Slowly, the brutal scene fades down and the savanna returns to the superficial calmness.
 
-Later we regroup at our campsite: One friend is missing.
+Later we regroup at our campsite, one friend is missing.
 
-Unfortunately, with no structured language and without words, no  exact explanations are possible. Little can be said to the other 29 members about the savanna tragedy.
+Unfortunately, with no structured language and without words, no exact explanations are possible. Little can be said to the other 29 members about the savanna tragedy.
 
-Without a structured language we cannot say “Do you remember Jay ? the guy eaten by the lion 2 months ago ?”, “Yes! Jay, I miss him, he was a good man”.
+Also, in 2 months we cannot say “Do you remember Jay ? the guy eaten by the lion 2 months ago ?”, “Yes! Jay, I miss him, he was a good man”.
 
-Without language, even memory gets lost.  
+Without language, we were like a Lion, no past or future, a brain guided solely by instincts and emotions. If we could go back 4 billion years ago, we would be a “here and now” creature.  
 
-Not having a structured language means basic instincts and emotions rule our life. If we could go back 4 billion years ago, we would be mostly a “here and now” creature.  
+Language is fundamental and probably one of the most powerful tools in human history.  
 
-After all, we were like a Lion, no past or future, a brain guided solely by instincts and emotions.  
-
-I am exaggerating this story to folklore how language was important in our evolution. Of course, as you know there has been always some kind of communication around us: sounds, gestures, tools and cave paintings to help us understand nature or to show a past event. 
-
-But mostly, without a structured language, we were animals pretty much as any other, no real big advantages dealing with jungle law.  
-
-Yes, a structured language is fundamental and probably the most powerful tool in human history.  It changed us forever.
-
-If you can organically understand how a structured language gave us the jump from beasts to mankind, a whole new possibility to explore your mind would be possible because language became one of the key elements of your mind.
-
+It changed us forever.
 
 
 ***
