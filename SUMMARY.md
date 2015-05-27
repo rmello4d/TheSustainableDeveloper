@@ -9,6 +9,5 @@
    * [Brain Control](brain_control.md)
 * [Part 2 - The Sustainable Developer]
 * [Extras]
-   * [For non-coders](learn_how_to_code.md)
    * [About the Author](authorsnote.md)
 
