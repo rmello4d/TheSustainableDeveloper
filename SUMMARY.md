@@ -8,7 +8,8 @@
    * [Beyond Muscles](beyond_muscles.md)
    * [Brain Control](brain_control.md)
 * [Part 2 - The Sustainable Developer]
+* [Under Construction](alert.md)
 * [Extras]
    * [About the Author](authorsnote.md)
-   * [alert](alert.md)
+
 
