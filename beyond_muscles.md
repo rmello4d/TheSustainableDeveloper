@@ -18,7 +18,9 @@ Our body depends on our joints, ligaments and our deep tissue to move. They are 
 
 To loose one of these connections could have a devastating impact in our body.  
 
-Evolutionary speaking, we would be a much easier pray. To secure our movement, the body 'architecture'  limited the motion for joints and ligaments between a certain security range.
+Evolutionary speaking, we would be a much easier pray. 
+
+To secure our movement, the body limited the motion of our joints and ligaments between a certain security range.
 
 Who is the guardian keeping joints and ligaments in a secure range ? Muscles.
 
