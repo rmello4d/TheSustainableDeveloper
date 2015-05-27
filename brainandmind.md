@@ -1,4 +1,4 @@
-#The Mind 
+#Simple Mind Definition 
 
 The distinction between brain and mind is important. As discussed in the last chapter, our brain cannot be controlled and that is probably a good thing.
 
@@ -21,3 +21,10 @@ To give an opposite example, could we tell the last time we ordered a signal to 
 This simple and organic idea of the mind consisting of brain areas susceptible to some control opens a wonderful environment to work in.
 
 Lets now understand some of the key elements of our minds.
+
+
+***
+
+This book is an ongoing project. The content and the chapters may change before the final release.
+
+Follow me on twitter at [@JSapplied](https://twitter.com/JSapplied) 
