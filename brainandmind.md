@@ -2,9 +2,9 @@
 
 The distinction between brain and mind is important. As discussed in the last chapter, our brain cannot be controlled and, that is a good thing.
 
-How about our mind ? Is controlling our mind different than controlling your brain ?
+How about our mind ? Is controlling our mind different than controlling our brain ?
 
-To begin with, lets understand that brain and mind are understood in many different ways by many different cultural and religious traditions. 
+To begin with, lets understand that brain and mind are understood in different ways by different cultural and religious traditions. 
 
 Philosophy, psychology, religion and science will give you different answers. By consequence, trying to define with precision is counter productive.  
 
