@@ -4,9 +4,9 @@
 
 Get Strong. Build Muscles. Stay healthy. 
 
-Over the years, we have raised consciousness about the  importance of being active and about exercising our body. These messages are useful and we want to evolve and bring this mantra a little further.
+Over the years, we have raised consciousness about the  importance of being active and about exercising our body. These messages are useful but lets bring this mantra a little further.
 
-To go further, we have to reach our joints, ligaments, articulations and our deep tissue.
+To go further, we have to reach our joints, ligaments, articulations and our deep tissue. 
 
 Why is this important? Health and personal energy. 
 
