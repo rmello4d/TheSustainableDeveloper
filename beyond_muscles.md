@@ -4,7 +4,7 @@
 
 Get Strong. Build Muscles. Stay healthy. 
 
-These messages are useful. We have raised consciousness about the  importance of being active and about regular exercise. 
+Over the years, we have raised consciousness about the  importance of being active and about regular exercise. These messages are useful.
 
 Now is time to evolve and bring this mantra a little further.
 
