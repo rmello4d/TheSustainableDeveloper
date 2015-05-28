@@ -1,8 +1,8 @@
 #The Mind Definition 
 
-The distinction between brain and mind is important to further detail how energy is consumed in the brain. 
+The distinction between brain and mind is important to help us define how energy is consumed in the brain. 
 
-As discussed in the last chapter, our brain cannot be controlled and, that is a good thing.
+As discussed in the last chapter, our brain cannot be controlled and that, is a good thing.
 
 How about our mind ? Is controlling our mind different than controlling our brain ?
 
