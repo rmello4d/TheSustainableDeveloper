@@ -6,17 +6,17 @@ Get Strong. Build Muscles. Stay healthy.
 
 Over the years, we have raised consciousness about the  importance of being active and about exercising our body. These messages are useful and we want to evolve and bring this mantra a little further.
 
-To go further, we have to reach our joints, ligaments and our deep tissue.
+To go further, we have to reach our joints, ligaments, articulations and our deep tissue.
 
-Why is this important ? Health and personal energy. 
+Why is this important? Health and personal energy. 
 
-We all started life physically loosen. A baby can touch its heels on the back of its skull if needed.  
+We all started life extremely flexible. A baby can touch its heels on the back of its head if needed.  
 
-Progressively we build some body tension by growing up. As we grow older and older, we get stiffer and curbed by life. 
+Progressively we build some body tension by growing up. As we grow older and older, we get stiffer and bent by life. 
 
-What is getting stiffer and curbed ? Our joints, ligaments, tendons and the deep tissue. 
+What is getting stiffer? Our joints, ligaments, tendons and the deep tissue. 
 
-Ask any elderly person and they will often confirm: their pain is on the joints, tendons and ligaments. 
+Ask any elderly person and they will often confirm: their pain is on the joints, tendons, articulations and ligaments. 
 
 The muscles? They work fine.
 
