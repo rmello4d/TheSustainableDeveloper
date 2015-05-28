@@ -26,7 +26,7 @@ For a developer, this is even more important. We don't need to get older to have
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  We can develop any of these problems after some years of coding.  
 
-Joints and ligaments are so important that our body is often trying to protect them. This is probably due to our survival. Back in the savanna, to have a problem on a joint or a ligament made us an easy pray. 
+Joints and ligaments are so important that our body is often trying to protect them. This is probably due to our survival. Back in the savanna, we would be an easy pray if we had a problem on a joint or a ligament. 
 
 Who is the guardian keeping joints and ligaments safe? Muscles.
 
