@@ -20,7 +20,7 @@ Ask any elderly person and they will often confirm: their pain is on the joints,
 
 The muscles? They work fine.
 
-The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important future consequences for our health and range of motion. 
+The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important consequences for our health and our range of motion. 
 
 For a developer, this is even more important. We don't need to get older to have physical problems related to joints, tendons and ligaments: 
 
