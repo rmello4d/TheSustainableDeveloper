@@ -1,4 +1,4 @@
-#The working area, the mind
+#The Working Area. Our Mind.
 
 The distinction between brain and mind is important to help us define how energy is consumed by the brain. 
 
@@ -24,7 +24,7 @@ This simple and organic idea of the mind opens a wonderful environment to work i
 
 Lets explore 3 elements of our minds that are vital to understand how energy is consumed in our brain. 
 
-Get ready to understand 'language'.
+Get ready to understand 'language', the energy eater. 
 
 ***
 
