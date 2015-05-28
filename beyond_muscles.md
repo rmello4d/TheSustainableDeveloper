@@ -26,21 +26,20 @@ For a developer, this is even more important. We don't need to get older to have
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  We can develop any of these problems after some years of coding.  
 
-Joints and ligaments are so important that our body is often trying to protect them. This is probably due to our survival. Back in the savanna, to have a problem on a joint or a ligament could make us an easy pray. 
+Joints and ligaments are so important that our body is often trying to protect them. This is probably due to our survival. Back in the savanna, to have a problem on a joint or a ligament made us an easy pray. 
 
 Who is the guardian keeping joints and ligaments safe? Muscles.
 
 Among other things, muscles try their best to protect our joints and ligaments from bending or stretching over a certain limit. 
 
-If our body protects our joints or ligaments why do we have problems later on? 
+If our body make such effort to protect our joints or ligaments, why do we have problems later on? 
 
-The point here is that muscles will keep our deep tissue in a constrict range. If we don't challenge that, year after year the range gets shorter, toxins will accumulate and we end up stiff and curbed.  
+The point here is that muscles keep our joints and ligaments in a constrict range of motion. If we don't challenge that, year after year this range gets shorter, toxins accumulate and we end up stiff and curbed.  
 
-Is there a safe way to open our joints and ligaments further? Is there a way to keep our deep tissue healthier and juicy ? 
+Is there a safe way to open our joints and ligaments further? 
+Yes. But we need to go beyond our muscles.
 
-Yes. We need to go beyond the muscles.  
-
-There are specific techniques, specially Yoga. 
+There are specific techniques that will put our body to challenge our joints and ligaments with comfort and safety.  
 
 Some forms of Yoga are specifically target to our deep tissue. They increase circulation by opening our joints and ligaments gently and securely. 
 
@@ -52,7 +51,9 @@ The Sustainable Developer is concern on transforming her working hours into a 'h
 
 We will discuss the best postures and ideas to positively impact the developer's daily life in the Second Part of this book. 
 
-As for now, keep vivid the importance of going beyond our muscles into our deep tissue. It will pay off. 
+As for now, keep vivid the importance of going beyond our muscles into our deep tissue. 
+
+It will pay off. 
 
 ****
 (*) 
