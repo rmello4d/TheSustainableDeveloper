@@ -1,8 +1,8 @@
 #The Working Area. Our Mind.
 
-The distinction between brain and mind is important to help us define how energy is consumed by the brain. 
+The distinction between brain and mind is important to help us understand how energy is consumed by the brain. 
 
-As discussed in the last chapter, our brain cannot be controlled and that, is a good thing.
+As discussed before, our brain cannot be controlled and that, is a good thing.
 
 How about our mind ? Is controlling our mind different than controlling our brain ?
 
