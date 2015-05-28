@@ -28,25 +28,29 @@ For a developer, this is even more important. We don't need to get older to have
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  We can develop any of these problems after some years of coding.  
 
-Joints and ligaments are so important that our body is often trying to protect them. Who is the guardian keeping joints and ligaments safe? Muscles.
+Joints and ligaments are so important that our body is often trying to protect them. This is probably due to our survival. Back in the savanna, to have a problem on a joint or a ligament could make us an easy pray. 
+
+Who is the guardian keeping joints and ligaments safe? Muscles.
 
 Among other things, muscles try their best to protect our joints and ligaments from bending or stretching over a certain limit. 
 
-Just to clarify, we use our joints, ligaments and tendons while exercising our muscles. The point here is that we will keep them in a constrict range. If we don't challenge that, year after year the range gets shorter, toxins will accumulate and we end up life stiff and curbed.  
+If our body protects our joints or ligaments why do we have problems later on? 
+
+The point here is that muscles will keep our deep tissue in a constrict range. If we don't challenge that, year after year the range gets shorter, toxins will accumulate and we end up stiff and curbed.  
 
 Is there a safe way to open our joints and ligaments further? Is there a way to keep our deep tissue healthier and juicy ? 
 
-Yes.  
+Yes. We need to go beyond the muscles.  
 
 There are specific techniques, specially Yoga. 
 
-Some forms of Yoga act beyond the muscles. They increase circulation into our deep tissues. They open our joints and ligaments gently and securely. 
+Some forms of Yoga are specifically target to our deep tissue. They increase circulation by opening our joints and ligaments gently and securely. 
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
 The muscles ? They work fine. 
 
-The Sustainable Developer is transforming her working hours into a 'health bank' for her joints and ligaments. 
+The Sustainable Developer is concern on transforming her working hours into a 'health bank' for her joints, ligaments and deep tissue. 
 
 We will discuss the best postures and ideas to positively impact the developer's daily life in the Second Part of this book. 
 
