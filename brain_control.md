@@ -4,7 +4,7 @@ Can we control our brain ?
 
 No.
 
-It is important to demystify this frenzy around possessing a magical power over this organ. 
+It is important to demystify the frenzy about possessing magical power over our brain. 
 
 The brain was not meant or designed to be "controlled".
 
@@ -14,13 +14,13 @@ Metaphorically speaking, we can see our brain as a "super recorder" running in a
 
 Nothing escapes.
 
-Our brain registers everything we touch, listen, see, taste, smell, eat. Even when you sleep your brain is active. 
+Our brain registers everything we touch, listen, see, taste, smell, eat. Even at deep sleep your brain is active. 
 
-On top of that, the brain regulates important activities in our body, from hormones delivery to blood circulation.
+On top of that, the brain also regulates important activities in our body, from hormones delivery to blood circulation.
 
 Bottom line: the brain is a vital organ and nature was smart enough to take the control off our hands. 
 
-Do we control our heart ? Our liver ? No, and that is a good thing. Vital organs are self regulated and independent of our control. The brain falls in that category.
+Do we control our heart ? Our liver ? No, and that is a good thing. Vital organs are self regulated and independent of our control. 
 
 The brain is not our puppet. It is an organ too complex, powerful and designed to go beyond our control.
 
