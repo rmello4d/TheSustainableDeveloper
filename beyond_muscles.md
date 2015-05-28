@@ -10,7 +10,7 @@ Now is time to evolve and bring this mantra a little further.
 
 To go further, we have to reach our joints, ligaments and our deep tissue.
 
-Why is this important ? Health and energy. 
+Why is this important ? Health and personal energy. 
 
 We all started life physically loosen. A baby can touch its heels on the back of its skull if needed.  
 
@@ -28,11 +28,11 @@ For a developer, this is even more important. We don't need to get older to have
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  We can develop any of these problems after some years of coding.  
 
-Joints and ligaments are so important that our body is often trying to protect their motion. Who is the guardian keeping joints and ligaments safe? Muscles.
+Joints and ligaments are so important that our body is often trying to protect them. Who is the guardian keeping joints and ligaments safe? Muscles.
 
 Among other things, muscles try their best to protect our joints and ligaments from bending or stretching over a certain limit. 
 
-Just to clarify, we use our joints, ligaments and tendons while exercising our muscles. The problem is that we will keep them in a constrict range. If we don't challenge that, year after year the range gets shorter.  
+Just to clarify, we use our joints, ligaments and tendons while exercising our muscles. The point here is that we will keep them in a constrict range. If we don't challenge that, year after year the range gets shorter, toxins will accumulate and we end up life stiff and curbed.  
 
 Is there a safe way to open our joints and ligaments further? Is there a way to keep our deep tissue healthier and juicy ? 
 
