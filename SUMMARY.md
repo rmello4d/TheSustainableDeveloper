@@ -7,6 +7,8 @@
    * [The Yogi Machine](the_yogi_machine.md)
    * [Beyond Muscles](beyond_muscles.md)
    * [Brain Control](brain_control.md)
+   * [The Working Area. Our Mind](brainandmind.md)
+   * [The Roar Language](mindlanguage.md)
 * [Part 2 - The Sustainable Developer]
 * [Under Construction](alert.md)
 * [Extras]
