@@ -32,22 +32,20 @@ Who is the guardian keeping joints and ligaments safe? Muscles.
 
 Among other things, muscles try their best to protect our joints and ligaments from bending or stretching over a certain limit. 
 
-If our body make such effort to protect our joints and ligaments, why do we have problems later on? 
+If our muscles are protecting our joints and ligaments, why do we have problems later on? 
 
 The point here is that muscles keep our joints and ligaments in a limited range of motion. Safety is the main concern. If we don't challenge that, year after year this range gets shorter, toxins accumulate and we end up stiff and curbed.  
 
 Is there a safe way to open our joints and ligaments further? 
-Yes. We need to go beyond our muscles. In fact, we have to 'convince' our muscles to allow open the articulation 
+Yes. We need to go beyond our muscles. 
 
-There are specific techniques that will put our body to challenge our joints and ligaments with comfort and safety.  
-
-Some forms of Yoga are specifically target to our deep tissue. They increase circulation by opening our joints and ligaments gently and securely. 
+There are specific techniques to challenge our joints and ligaments. Some forms of Yoga are specifically target for that. They increase circulation by opening our joints and ligaments gently and safely. 
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
 The muscles ? They work fine. 
 
-The Sustainable Developer is concern on transforming her working hours into a 'health bank' for her joints, ligaments and deep tissue. 
+The Sustainable Developer is concern about transforming her working hours into a 'health bank' for her joints, ligaments and deep tissue. 
 
 We will discuss the best postures and ideas to positively impact the developer's daily life in the Second Part of this book. 
 
