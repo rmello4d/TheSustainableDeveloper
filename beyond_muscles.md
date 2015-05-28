@@ -6,25 +6,25 @@ Get Strong. Build Muscles. Stay healthy.
 
 Over the years, we have raised consciousness about the  importance of being active and about exercising our body. These messages are useful but lets bring this mantra a little further.
 
-To go further, we have to reach our joints, ligaments, articulations and our deep tissue. 
+To go further, we have to reach our joints, ligaments, tendons and cartilage. 
 
 Why is this important? Health and personal energy. 
 
-We all started life extremely flexible. A baby can touch its heels on the back of its head if needed.  
+We all started life flexible. A baby can touch its heels on the back of its head if needed.  
 
-Progressively we build some body tension by growing up. As we grow older and older, we get stiffer and bent by life. 
+Progressively we build some tension in our body. As we grow older and older, we get stiffer and bent by life. 
 
-What is getting stiffer? Our joints, ligaments, tendons and the deep tissue. 
+What is getting stiffer? 
 
-Ask any elderly person and they will often confirm: their pain is on the joints, tendons, articulations and ligaments. 
+Ask any elderly person and they will often confirm: their pain is on the joints, tendons and ligaments. 
 
 The muscles? They work fine.
 
 The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important consequences for our health and our range of motion. 
 
-For a developer, this is even more important. We don't need to get older to have physical problems related to joints, tendons and ligaments: 
+For a developer, this is even more important. Developers don't need to get older to have physical problems related to joints, tendons and ligaments: 
 
-Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  We can develop any of these problems after some years of coding.  
+Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  Developers can have any of these problems after some years of coding.  
 
 Joints and ligaments are so important that our body is often trying to protect them. This is probably due to our survival. Back in the savanna, we would be an easy pray if we had a problem on a joint or a ligament. 
 
@@ -34,24 +34,30 @@ Among other things, muscles try their best to protect our joints and ligaments f
 
 If our muscles are protecting our joints and ligaments, why do we have problems later on? 
 
-The point here is that muscles keep our joints and ligaments in a limited range of motion. Safety is the main concern. If we don't challenge that, year after year this range gets shorter, toxins accumulate and we end up stiff and curbed.  
+The point here is that muscles keep our joints and ligaments under a protected and limited range of motion. Safety is the main concern. If we don't challenge that, year after year this range gets shorter, toxins accumulate and we end up stiff and bent.  
 
 Is there a safe way to open our joints and ligaments further? 
-Yes. We need to go beyond our muscles. 
+Yes. For that, we need to go beyond our muscles. 
 
-There are specific techniques to challenge our joints and ligaments. Some forms of Yoga are specifically target for that. They increase circulation by opening our joints and ligaments gently and safely. 
+There are specific techniques to open our joints and ligaments. Some forms of Yoga specifically target that. They increase circulation by opening our joints and ligaments gently and safely. 
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
-The muscles ? They work fine. 
+We will discuss these techniques to positively impact the daily life of developers in the Second Part of the book. 
 
-The Sustainable Developer is concern about transforming her working hours into a 'health bank' for her joints, ligaments and deep tissue. 
+To become a Sustainable Developer we need to know how to transform our working hours into a 'health bank' for our joints, ligaments and deep tissue. 
 
-We will discuss the best postures and ideas to positively impact the developer's daily life in the Second Part of this book. 
+As for now, keep vivid the importance of our joints, ligaments and tendons moving forward in this book journey. 
 
-As for now, keep vivid the importance of going beyond our muscles into our deep tissue. 
+The muscles ? They will work fine. 
 
-It will pay off. 
+
+
+
+
+
+
+
 
 ****
 (*) 
