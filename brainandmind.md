@@ -1,8 +1,8 @@
-#Simple Mind Definition 
+#The Mind Definition 
 
-The distinction between brain and mind is important. As discussed in the last chapter, our brain cannot be controlled and that is probably a good thing.
+The distinction between brain and mind is important. As discussed in the last chapter, our brain cannot be controlled and, that is a good thing.
 
-How about your mind ? Is controlling your mind different than controlling your brain ?
+How about our mind ? Is controlling our mind different than controlling your brain ?
 
 To begin with, lets understand that brain and mind are understood in many different ways by many different cultural and religious traditions. 
 
