@@ -8,15 +8,13 @@ In that scene, we (you and me) are one of our descendants, a homo habilis.
 
 We just left our group of about 30 people to adventure the savanna looking for a sharp stone to make a new spear.
 
-With us, 8 other tribal members. 
-
-We use primal sounds to communicate with our hairy friends. 
+With us, 8 other tribal members. We use primal sounds to communicate among our hairy friends. 
 
 After 10 mins walking,  we reach a vast open area. All of us peacefully looking for perfect stones. 
 
-Not far from us, a salivating and hungry lion is approaching our group.
+Not far, a salivating and hungry lion is approaching our group.
 
-As it goes, one is about to die.
+As it goes, one of us is about to die.
 
 The king of the jungle charges from a long distance on pure instincts and power.
 
@@ -26,7 +24,7 @@ Panic.
 
 By chance, we know exactly how to escape. 10 mins ago we made a turn and saw a safe hidden place, certainly not accessible by the lion.
 
-Everybody could be saved if they knew precisely how to get in this place. We try to scream desperately to everybody but our friends, in panic, don’t understand our primal sounds.
+Everybody could be saved if they knew precisely how to get in this place. We try to scream desperately to everybody but our friends, in panic, don’t understand exactly our primal sounds.
 
 Seconds later, one of our friends is caught.
 
@@ -44,7 +42,7 @@ Without language, there are no past or future. Our brain would be guided solely 
 
 Language is fundamental and probably one of the most powerful tools in human history.  
 
-It changed us forever.
+It changed us forever but it has a high cost. Lets get into the bill.
 
 
 ***
