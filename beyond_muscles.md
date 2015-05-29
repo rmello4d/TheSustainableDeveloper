@@ -28,25 +28,25 @@ Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  Develope
 
 Joints and ligaments are so important that our body is often trying to overprotect them. This is probably due to our survival. Back in the savanna, we would be an easy pray if we had a broken joint or a torn ligament . 
 
-Who is the best guardian keeping joints and ligaments safe? Muscles.
+Who is the guardian keeping joints and ligaments safe? Muscles.
 
 Among other things, muscles try their best to protect our joints and ligaments from bending or stretching over a certain limit. 
 
-Here is an interesting question. If our muscles are protecting our joints and ligaments, why we often have problems later on? 
+Here is an interesting question. If our muscles are protecting our joints and ligaments, why we often have problems later on in life? 
 
 The point is that muscles keep our joints and ligaments under a protected and limited range of motion. Safety is the main concern. 
 
-If we don't challenge that, year after year this range gets shorter, toxins accumulate and we end up stiffer and stiffer. 
+If we don't challenge it, year after year this range gets shorter, toxins accumulate and we end up stiffer and stiffer. 
 Is there a safe way to open our joints and ligaments further? 
-Yes. For that, we need to go beyond our muscles and, we need to do it safely.  
+Yes. For that, we need to go beyond our muscles. We also need to do it safely.  
 
-There are specific techniques to open our joints and ligaments. They increase circulation by opening our joints and ligaments gently and safely. 
+There are specific techniques to open our joints and ligaments. These techniques challenge the muscles in a  different way, it is not about strenght, it is about release and trust. Nonetheless, these techniques increase circulation by opening our joints and ligaments gently and safely. 
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
 We will discuss these techniques to positively impact the daily life of developers in the Second Part of the book. 
 
-To become a Sustainable Developer we need to know how to transform our working hours into a 'health bank' for our joints, ligaments and deep tissue. 
+To become a Sustainable Developer,  we need to transform our working hours into a 'health bank' for our joints, ligaments and deep tissue. 
 
 As for now, keep vivid the importance of our joints, ligaments and tendons. The muscles ? They will work fine. 
 
