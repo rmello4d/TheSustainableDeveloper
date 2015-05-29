@@ -8,7 +8,7 @@ It is important to demystify the frenzy about possessing magical powers over our
 
 The brain was not meant or designed to be "controlled".
 
-Our brain is like an ocean receiving all the flowing rivers from the senses and that is not part of our decisions. 
+Our brain is like an ocean receiving all the flowing rivers from the senses. And that, is not part of our decisions. 
 
 Metaphorically speaking, we can see our brain as a "super recorder" running in a forever 'on' mode. It is a black hole grabbing and absorbing everything within range of our sensory boundaries. 
 
@@ -18,11 +18,11 @@ Our brain registers everything we touch, listen, see, taste, smell, eat. Even at
 
 On top of that, the brain also regulates important activities in our body, from hormones delivery to blood circulation.
 
-Bottom line: the brain is a vital organ and nature was smart enough to take the control off our hands. 
+The brain is a vital organ and nature was smart enough to take the control off our hands. 
 
 Do we control our heart ? Our liver ? No, and that is a good thing. Vital organs are self regulated and independent of our control. 
 
-The brain is not our puppet. It is an organ too complex, powerful and designed to go beyond our control.
+Bottom line: The brain is not our puppet. It is an organ too complex, powerful and designed to go beyond our control.
 
 Having said that, if we can't control it, what's all the fuss about it ?
 
