@@ -10,7 +10,7 @@ To begin with, lets agree that brain and mind are understood in different ways b
 
 Philosophy, psychology, religion and science will give you different answers. By consequence, trying to define them with precision is counter productive.  
 
-It will be out of our scope to impose a definition that can settle the different views. Said that, it is possible to give some context to help us. Our goal is to create an organic understand about the mind and brain relation.
+It will be out of our scope to impose a definition that can settle the different views. Said that, it is possible to give some context to help us. Our goal is to create an organic understanding about the mind and brain relation.
 
 In the context of this book, the mind is the areas of the brain susceptible to some control.
 
