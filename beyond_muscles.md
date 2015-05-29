@@ -52,12 +52,6 @@ As for now, keep vivid the importance of our joints, ligaments and tendons. The 
 
 
 
-
-
-
-
-
-
 ****
 (*) 
 
