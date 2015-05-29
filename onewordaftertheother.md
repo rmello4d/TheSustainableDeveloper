@@ -1,6 +1,6 @@
 #One Sound After The Other
 
-#####Someday someone linked a sound to a meaning. 
+#####Someday, someone linked a sound to a meaning. 
 
 Then, by repetition, others reproduced the same sound and meaning.
 
@@ -10,7 +10,7 @@ We went crazy naming everything we could. Objects, actions, places, emotions, pe
 
 This first step, to create meaningful sounds, is not unique to us, other animals are also capable of the same. 
 
-But, for us humans, a magical second step happened: we were able to say the same sound in our brain without using our vocal chords.
+But, for us humans, a magical second step happened: we were able to 'say' the same sound in our brain without using our vocal chords.
 
 What a great magical trick ! 
 
