@@ -43,6 +43,14 @@ No.
 
 Our brain is quiet limited when thinking. Just compare the brain ability to process many things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time. 
 
-For thinking, no parallelism is possible. Every sound must be sequenced, one after the other. 
+For thinking, no parallelism is possible. Every sound must be sequenced, one after the other. It requires a great deal of focus, knowledge and energy.  It is one of the most incredible evolutionary advantages we have. 
+
+But thinking has one dark side. It is addictive as sugar. 
+
+
+
+
+
+http://www.researchgate.net/profile/Lisa_Marshall2/publication/227649128_EEG_complexity_and_performance_measures_of_creative_thinking/links/5499af720cf21eb3df60dc21.pdf
 
 
