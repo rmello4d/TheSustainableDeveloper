@@ -4,19 +4,19 @@ When invented, language was a magical tool and our brain was thirsty for it. As 
 
 Everything meaningful around us got baptised.
 
-Humans may express structured languages in 3 ways: through our vocal chords, our brain or by writing. 
+Let's dive on how humans may express structured languages. To simplify there are 3 ways: through our vocal chords, our brain or by writing. 
 
-In the vocal chords we have the  birthplace of the manifested  word. Someday someone said for the first time a sound and, purposely linked that sound to a particular meaning.  
+In the vocal chords we have the  birthplace of the word. Someday someone said for the first time a sound and, purposely linked that sound to a particular meaning.  
 
 By repetition, others reproduced the same sound and meaning.
 
-This appears to be elementary and other animals are also capable of the same, to create meaningful sounds.
+To create meaningful sounds appears to be common, other animals are also capable of the same. 
 
 But, for us humans, a magical second step happened: we were able to say the same sound in our brain without using our vocal chords.
 
 What a great magical trick !
 
-The concatenation of meaningful sounds in your head created something unique: a continuous flow of images and ideas.
+The concatenation of meaningful sounds in our head created something unique: a continuous flow of images and ideas.
 
 Let’s call it thinking.  
 
