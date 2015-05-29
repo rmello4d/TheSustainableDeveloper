@@ -12,19 +12,19 @@ Philosophy, psychology, religion and science will give you different answers. By
 
 It will be out of our scope to impose a definition that can settle the different views. Said that, it is possible to give some context to help us. Our goal is to create an organic understanding about the mind and brain relation.
 
-In the context of this book, the mind is the areas of the brain susceptible to some control.
+In the context of this book, lets define the mind as the areas of the brain susceptible to some control.
 
-To be more precise, concepts such as awareness, memory, thoughts, reasoning and judgments fall in that category.  We have some control over these brain functions. Note that we did not added consciousness to the list, we will see why in a later chapter. 
+To be more precise, concepts such as focus, memory, thoughts, reasoning and judgments fall in that category.  We have some control over these brain functions. Note that we did not added consciousness to the list, we will see why later. 
 
 But let's take our memory for example. Memory is an area of our brain that we can apply some control. Can we remember some of the things happened with us yesterday? Hopefully yes.
 
-To give an opposite example, could we tell the last time we ordered a signal to our adrenal glands to produce more cortisone? No, such a thing is not our decision or susceptible to control, therefore not in our mind.
+To give an opposite example, could we tell the last time we ordered a signal to our adrenal glands to produce more cortisone? No, such a thing is not our decision or susceptible to control, therefore not in our definition of the mind.
 
 This simple and organic idea of the mind opens a wonderful environment to work with.
 
-Lets explore 3 essential elements of our minds that impact energy consuption. 
+Lets now explore 3 essential elements of our minds that impact energy consuption. 
 
-Get ready for the 'language', the energy eater. 
+First is 'language', the energy eater. 
 
 ***
 
