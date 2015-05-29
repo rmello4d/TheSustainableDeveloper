@@ -43,7 +43,7 @@ Can you say  both phrases in your head at exactly same time ?
 
 No.
 
-Our brain is quiet limited when thinking. Just compare the brain ability to process many things in parallel (right now for example we are reading, listening and probably regulating our hormonal levels at the same time). 
+Our brain is quiet limited when thinking. Just compare the brain ability to process many things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time. 
 
 For thinking, no parallelism is possible. Every sound must be sequenced, one after the other. 
 
