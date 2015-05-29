@@ -28,9 +28,9 @@ We think by putting sounds from our known language one after the other in our he
 
 Notice that this is different than imagination. With imagination we are putting images one after the other, creating a cinema effect inside our head. 
 
-To think is to tell a story inside our brain in our known language.
+To 'think' is to tell a story inside our brain in our known language.
 
-If we have no clue about the sounds of mandarin language for example, to think in mandarin is quite impossible, isn’t?
+If we have no clue about the sounds of Mandarin for example, its quiet impossible to think in Mandarin, right?
 
 Also, thinking does not accept simultaneous action: we cannot think 2 stories at the exactly same time in our head.
 
@@ -43,11 +43,8 @@ Can you say  both phrases in your head at exactly same time ?
 
 No.
 
-One of our great inventions, structured language,  has also some limits despite the fact our brain can process things in parallel (right now for example you are reading, listening and probably regulating your hormonal levels at the same time).
+Our brain is quiet limited when thinking. Just compare the brain ability to process many things in parallel (right now for example we are reading, listening and probably regulating our hormonal levels at the same time). 
 
-If the brain can process things in parallel, why it is not  capable of thinking 5 different things at the same exact time ? 
+For thinking, no parallelism is possible. Every sound must be sequenced, one after the other. 
 
-For now, keep in mind that language has the property of being dominant, dictatorial and extremely powerful inside your head. No parallelism is possible.
-
-We think by putting one sound after the other.
 
