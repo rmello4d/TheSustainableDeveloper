@@ -1,8 +1,6 @@
 #One Sound After The Other
 
-When invented, language was a magical tool and our brain was thirsty for it. As a result, we went crazy naming everything we could: objects, actions, places, emotions. 
-
-Everything meaningful around us got baptised.
+When invented, language was a magical tool and our brain was thirsty for it. We went crazy naming everything we could. Objects, actions, places, emotions, everything meaningful got baptised.
 
 Let's dive on how humans may express structured languages. To simplify there are 3 ways: through our vocal chords, our brain or by writing. 
 
