@@ -4,7 +4,7 @@ Can we control our brain ?
 
 No.
 
-It is important to demystify the frenzy about possessing magical power over our brain. 
+It is important to demystify the frenzy about possessing magical powers over our brain. 
 
 The brain was not meant or designed to be "controlled".
 
