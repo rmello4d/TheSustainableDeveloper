@@ -1,20 +1,20 @@
 #One Sound After The Other
 
-When invented, language was a magical tool and our brain was thirsty for it. We went crazy naming everything we could. Objects, actions, places, emotions, everything meaningful got baptised.
-
-Let's dive on how humans may express structured languages. To simplify there are 3 ways: through our vocal chords, our brain or by writing. 
-
-In the vocal chords we have the  birthplace of the word. Someday someone said for the first time a sound and, purposely linked that sound to a particular meaning.  
+#####Someday someone linked a sound to a meaning. 
 
 By repetition, others reproduced the same sound and meaning.
 
-To create meaningful sounds appears to be common, other animals are also capable of the same. 
+When invented, language was a magical tool and our mind was thirsty for it. 
+
+We went crazy naming everything we could. Objects, actions, places, emotions, everything meaningful got baptised.
+
+This first step, to create meaningful sounds, appears to be common since other animals are also capable of the same. 
 
 But, for us humans, a magical second step happened: we were able to say the same sound in our brain without using our vocal chords.
 
-What a great magical trick !
+What a great magical trick ! 
 
-The concatenation of meaningful sounds in our head created something unique: a continuous flow of images and ideas.
+This concatenation of meaningful sounds in our head created  a continuous flow of images and ideas.
 
 Let’s call it thinking.  
 
@@ -24,7 +24,7 @@ One sound after the other.
 
 We think by putting sounds from our known language one after the other in our head. 
 
-Notice that this is different than imagination. With imagination we are putting images one after the other, creating a cinema effect inside our head. 
+Notice that this is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. 
 
 To 'think' is to tell a story inside our brain in our known language.
 
@@ -32,12 +32,12 @@ If we have no clue about the sounds of Mandarin for example, its quiet impossibl
 
 Also, thinking does not accept simultaneous action: we cannot think 2 stories at the exactly same time in our head.
 
-Sure, we can tell and hold 2 or more stories in our head but we will be switching from one to the other really quick. Here an example, try these 2 phrases:
+Sure, we can tell and hold 2 or more stories in our head but we will be switching from one to the other. Here an example, try these 2 phrases:
 
-I am super-man
-Your head is big
+I am super-man.
+Your nose is huge.
 
-Can you say  both phrases in your head at exactly same time ?
+Can we say both phrases in our mind at exactly same time ?
 
 No.
 
