@@ -6,13 +6,13 @@ Get Strong. Build Muscles. Stay healthy.
 
 Over the years, we have raised consciousness about the  importance of being active and about exercising our body. These messages are useful. 
 
-To go further, we have to reach our joints, ligaments, tendons and cartilages. 
+To go further in this mantra, we have to reach our joints, ligaments, tendons and cartilages. 
 
 Why is this important?  
 
 We all started life flexible. A baby can touch its heels on the back of its head if needed.  
 
-Progressively we build some tension in our body. As we grow older and older, we get stiffer and stiffer, bent by life. 
+Progressively we build tension in our body. As we grow older and older we get stiffer and stiffer, bent by life. 
 
 What is getting stiffer? 
 
@@ -26,7 +26,7 @@ For a developer, this is even more important. Developers don't need to get older
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  Developers can have any of these problems after some years of coding.  
 
-Joints and ligaments are so important that our body is often trying to overprotect them. This is probably due to our survival. Back in the savanna, we would be an easy pray if we had a problem on a joint or a ligament. 
+Joints and ligaments are so important that our body is often trying to overprotect them. This is probably due to our survival. Back in the savanna, we would be an easy pray if we had a broken joint or a torn ligament . 
 
 Who is the best guardian keeping joints and ligaments safe? Muscles.
 
