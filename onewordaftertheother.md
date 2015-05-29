@@ -1,4 +1,4 @@
-#One Word After The Other
+#One Sound After The Other
 
 When invented, language was a magical tool and our brain was thirsty for it. As a result, we went crazy naming everything we could: objects, actions, places, emotions. 
 
