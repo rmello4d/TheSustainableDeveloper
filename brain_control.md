@@ -8,9 +8,7 @@ It is important to demystify the frenzy about possessing magical powers over our
 
 The brain was not meant or designed to be "controlled".
 
-Our brain is like an ocean receiving all the flowing rivers from the senses. And that, is not part of our decisions. 
-
-Metaphorically speaking, we can see our brain as a "super recorder" running in a forever 'on' mode. It is a black hole grabbing and absorbing everything within range of our sensory boundaries. 
+Metaphorically speaking, our brain is like an ocean receiving all the flowing rivers from the senses. It is a black hole grabbing and absorbing everything within range of our sensory boundaries. 
 
 Nothing escapes.
 
