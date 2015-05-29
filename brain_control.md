@@ -26,7 +26,7 @@ Bottom line: The brain is not our puppet. It is an organ too complex, powerful a
 
 Having said that, if we can't control it, what's all the fuss about it ?
 
-The use of our brain is direct related to the levels of energy we have. In that sense, energy consuption, we can detail a plan to eliminate waste and run the brain engine much leaner. 
+The use of our brain is direct related to the levels of energy we have. In that sense, energy consuption, we can detail a plan to cut waste and run the brain engine much leaner. 
 
 No magical power needed. 
 
