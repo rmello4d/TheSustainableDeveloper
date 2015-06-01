@@ -9,7 +9,7 @@
    * [Brain Control](brain_control.md)
    * [The Working Area. Our Mind](brainandmind.md)
    * [The Roar Language](mindlanguage.md)
-   * [One Sound after the other](onewordaftertheother.md)
+   * [One Sound After The Other](onewordaftertheother.md)
 * [Part 2 - The Sustainable Developer]
 * [Under Construction](alert.md)
 * [Extras]
