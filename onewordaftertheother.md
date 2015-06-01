@@ -59,9 +59,15 @@ As an adult, if you think all the time, you will be exhausted. Like a mental mar
 
 One sound after the other. 
 
+***
 
+This book is an ongoing project. The content and the chapters may change before the final release.
 
+Follow me on twitter at [@JSapplied](https://twitter.com/JSapplied) 
 
+***
+
+References
 
 file:///Users/rm/Downloads/Belin_Fecteau_Bedard_TICS04.pdf
 
