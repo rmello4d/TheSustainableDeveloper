@@ -9,7 +9,7 @@ We just left our group of about 30 people to adventure the savanna. We will be l
 
 With us, 8 other tribal members and we are using primal sounds to communicate among our hairy friends. 
 
-After 10 mins walking,  we reach a vast open area. All of us peacefully looking for perfect stones. 
+After 10 mins walking,  we reach a vast open area, peacefully looking for perfect stones. 
 
 Not far, a salivating and hungry lion is approaching our group.
 
