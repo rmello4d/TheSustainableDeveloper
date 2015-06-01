@@ -11,21 +11,23 @@ This first step, to create meaningful sounds, is not unique to us, other animals
 
 But, for us humans, a magical second step happened: we were able to 'say' the same sound in our brain without using our vocal chords.
 
-What a great magical trick ! We concatenated meaningful sounds in our head and created a continuous flow of images and ideas.
+What a great magical trick ! We concatenated meaningful sounds in our head and created a continuous flow of images and ideas. What a life changing moment. 
 
-In the context of this book, let’s call this 'thinking'. 
+In the context of this book, let’s call this moment 'thinking'. 
 
 How does thinking operates in our head ?  
 
 One sound after the other.  
 
-We think by putting sounds from our known language one after the other in our head. If we think "I am going to the supermarket", we have to say every sound (one after the other) in a mental narrative.  
+We think by putting sounds from our known language one after the other in our head. 
+
+By thinking "I am going to the supermarket", we have to say every sound (one after the other) in a mental narrative.  
 
 This concept of thinking is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. With thinking, we are concatenating one sound after the other with our known language.
 
 If we have no clue about the sounds and meaning of the Mandarin language for example, its quiet impossible to think in Mandarin, right? 
 
-Also, we learn a language over time, at slow and progressive pace, sound by sound, meaning by meaning.  
+Also, we learn a language over time. It is slow and progressive, sound by sound, meaning by meaning.  
 
 Babies learn their first words around 12 months old. With 18 months, they know between 50 and 100 words. At 24 months they accumulate a vocabulary of 200 to 300 words. They jump to a 1000 one year later. 
 
@@ -35,16 +37,16 @@ An adult may reach 40,000 words and we estimate that English speaking University
 
 As a species, this is phenomenal. 
 
-Thinking becomes the predominant mode of our mental activity as adults. We invest a lot of time accumulating all this knowledge, to a point that our minds are always thinking. 
+Thinking becomes the predominant mode of our mental activity as adults. We've have invested so much time accumulating this knowledge that our minds become addicted. Like sugar, we are always thinking. 
 
 We think so much that creates a dark side, a repetitive cycle, a forever telling a story in our heads. Have we ever stop to ask how much are we thinking or how 'expensive' that could be?
 
 Thinking is brutally expensive. So costly that it does not accept simultaneous action: we cannot think 2 stories *at the exactly same time* in our heads.
 
-Sure, we can tell and hold 2 or more stories in our heads but we will be switching from one to the other. Try these 2 phrases:
+Sure, we can hold 2 or more stories in our heads but we will be switching from one to the other to keep them alive. Just try these 2 phrases:
 
-I am super-man.
-Your nose is huge.
+"I am super-man"
+"Your nose is huge"
 
 Can we say both phrases in our mind at exactly same time ?
 
@@ -52,11 +54,11 @@ No.
 
 Just compare our brain ability to process many things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time. 
 
-For thinking, the brain limits itself, no parallelism is possible. It requires a great deal of focus, memory, logic and energy. 
+For thinking, the brain limits itself, no parallelism is possible. It requires a great deal of focus, memory, logic and energy to create the sounds and to follow them into meanings in our heads. 
 
 As an adult, if we are thinking all the time, we will get exhausted. Like a mental marathon runner. 
 
-This is not a critic, if we are thinking on how to solve a problem and we are passionate about it, this is wonderful! Keep thinking hard. 
+This is not a criticism, if we are thinking on how to solve a problem and we are passionate about it, that is wonderful! Keep thinking hard. 
 
 But, if our heads are just babbling all day long, we are wasting energy. 
 
