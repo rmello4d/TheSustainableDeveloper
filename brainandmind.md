@@ -22,7 +22,7 @@ To give an opposite example, could we tell the last time we ordered a signal to 
 
 This simple and organic idea of the mind opens a wonderful environment to work with.
 
-Lets now explore 3 essential elements of our minds that impact energy consuption. 
+Lets now explore 3 essential elements of our minds that impact energy consumption. 
 
 First is 'language', the energy eater. 
 
