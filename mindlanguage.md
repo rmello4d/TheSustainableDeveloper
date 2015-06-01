@@ -21,7 +21,7 @@ We are the first to notice the attack. We howl with all our lungs to alarm every
 
 Panic.
 
-By chance, we know exactly how to escape. 10 mins ago we made a turn and saw a safe place hidden in the savanna, certainly not accessible by the lion.
+By chance, we know exactly how to escape. 10 mins before we made a turn and saw a safe place hidden in the savanna, certainly not accessible by the lion.
 
 Everybody could be saved if they knew precisely how to get in this place. We try to tell everybody but our friends, in panic, cannot understand exactly our primal sounds.
 
