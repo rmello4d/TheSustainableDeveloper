@@ -12,40 +12,39 @@ This first step, to create meaningful sounds, is not unique to us, other animals
 
 But, for us humans, a magical second step happened: we were able to 'say' the same sound in our brain without using our vocal chords.
 
-What a great magical trick ! 
+What a great magical trick ! This concatenation of meaningful sounds in our head created  a continuous flow of images and ideas.
 
-This concatenation of meaningful sounds in our head created  a continuous flow of images and ideas.
+Let’s call it thinking. 
 
-Let’s call it thinking.  
-
-And how does thinking operates in our head ?  
+In the context of this book, how does thinking operates in our head ?  
 
 One sound after the other.  
 
 We think by putting sounds from our known language one after the other in our head. 
 
-In the context of this book, thinking is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. With thinking, we are concatenating one sound after the other with our known language.
+This concept of thinking is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. With thinking, we are concatenating one sound after the other with our known language.
 
 If we have no clue about the sounds and meaning of the Mandarin language for example, its quiet impossible to think in Mandarin, right? 
 
-We learn a language over time, at a slow and progressive pace, sound by sound with their meanings. 
+Also, we learn a language over time, at slow and progressive pace, sound by sound, meaning by meaning.  
 
-Babies learn their first words around 12 months old. With 18 months, between 50 and 100 words. At 24 months they may already accumulate a vocabulary of 200 to 300 words, quickly jumping to a 1000 one year later. 
+Babies learn their first words around 12 months old. With 18 months, they know between 50 and 100 words. At 24 months they accumulate a vocabulary of 200 to 300 words. They jump to a 1000 one year later. 
 
-Between 5 and 7 they've accumulated an expressive vocabulary of 3000 to 5000 words. 
+Between 5 and 7 they've accumulated an expressive vocabulary between 3000 to 5000 words. 
 
 An adult may reach 40,000 words and we estimate that English speaking University students tend to be around 40-60,000 words. 
 
 As a species, this is phenomenal. 
 
-How 'expensive' is thinking for us, how much energy do we consume while thinking ? Thinking is c
+Thinking is the predominant mode of our mental activity as adults. We've invested so much time to accumulate all this knowledge that, our minds are always thinking. 
 
+Thinking is "the" competitive advantage compared with other species but it has a dark side. It is addictive as sugar. 
 
+Have we ever stop to ask how 'expensive' is thinking? 
 
+Thinking is brutally expensive. So costly that it does not accept simultaneous action: we cannot think 2 stories *at the exactly same time* in our head.
 
-Also, thinking does not accept simultaneous action: we cannot think 2 stories at the exactly same time in our head.
-
-Sure, we can tell and hold 2 or more stories in our head but we will be switching from one to the other. Here an example, try these 2 phrases:
+Sure, we can tell and hold 2 or more stories in our head but we will be switching from one to the other. Try these 2 phrases:
 
 I am super-man.
 Your nose is huge.
@@ -54,13 +53,19 @@ Can we say both phrases in our mind at exactly same time ?
 
 No.
 
-Just compare the brain ability to process many things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time. 
+Just compare our brain ability to process many things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time. 
 
-For thinking, the brain is quiet limited, no parallelism is possible. Every sound must be sequenced, one after the other. 
-Also, thinking requires a great deal of focus, memory accumulation and knowledge. It is one of the most incredible evolutionary advantages we have. 
+For thinking, the brain limits itself, no parallelism is possible. Every sound must be sequenced, one after the other. It requires a great deal of focus, memory activation, logic and energy. 
 
-But thinking has a dark side. It is addictive as sugar. 
+In our modern times, with our excessive level of stimulus (media, computers, telephones),  at the end we are drained, exhausted.  
 
+
+
+
+
+
+
+file:///Users/rm/Downloads/Belin_Fecteau_Bedard_TICS04.pdf
 
 http://cdn.intechopen.com/pdfs-wm/45322.pdf
 
