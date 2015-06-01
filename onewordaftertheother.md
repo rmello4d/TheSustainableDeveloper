@@ -30,12 +30,15 @@ If we have no clue about the sounds and meaning of the Mandarin language for exa
 
 We learn a language over time, at a slow and progressive pace, sound by sound with their meanings. 
 
+Babies learn their first words around 12 months old. With 18 months, between 50 and 100 words. At 24 months they may already accumulate a vocabulary of 200 to 300 words, quickly jumping to a 1000 one year later. 
 
+Between 5 and 7 they've accumulated an expressive vocabulary of 3000 to 5000 words. 
 
+An adult may reach 40,000 words and we estimate that English speaking University students tend to be around 40-60,000 words. 
 
+As a species, this is phenomenal. 
 
-As probably happened to all of us, we learn at a slow and progressive pace, each sound carries the sound itself and the meaning of it. 
-
+How 'expensive' is thinking for us, how much energy do we consume while thinking ? Thinking is c
 
 
 
