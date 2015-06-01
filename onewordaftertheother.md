@@ -63,6 +63,8 @@ But, if your mind is just babbling all day long, you are wasting energy.
 
 One sound after the other. 
 
+Is it the same for images ? Let's meet the electric car of imagination. 
+
 ***
 
 This book is an ongoing project. The content and the chapters may change before the final release.
