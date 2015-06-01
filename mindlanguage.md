@@ -37,7 +37,7 @@ Unfortunately, with no structured language and without words, no exact explanati
 
 Also, in 2 months we will not be able to say “Do you remember Jay ? the guy killed by the lion 2 months ago ?”, “Yes! Jay, I miss him, he was a good man”.
 
-Without language, there are no viable way to represent past or future. Without language our brain is mostly instincts and emotions. If we could go back 4 billion years ago, we would be a “here and now” creature. Like the lion.   
+Without language, there are no viable way to represent past or future. Without language our brain is mostly instincts and emotions. If we could go back 2 million years ago, we would be a “here and now” creature. Like the lion.   
 
 Language is fundamental and probably one of the most powerful tools in human history.  
 
