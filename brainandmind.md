@@ -6,7 +6,7 @@ As mentioned before, controlling the brain is not possible and that, is a good t
 
 How about our mind ? Is controlling our mind different than controlling our brain ?
 
-To begin with, lets agree that brain and mind are understood in different ways by different cultural and religious traditions. 
+To begin with, lets agree that we understand the brain and mind in different ways by different cultural and religious traditions. 
 
 Philosophy, psychology, religion and science will give you different answers. By consequence, trying to define them with precision is counter productive.  
 
