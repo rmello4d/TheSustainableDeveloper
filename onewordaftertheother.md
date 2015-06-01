@@ -57,13 +57,15 @@ For thinking, the brain limits itself, no parallelism is possible. It requires a
 
 As an adult, if we are thinking all the time, we will get exhausted. Like a mental marathon runner. 
 
-This is not a critic, if you are thinking on how to solve a problem and you are passionate about it, this is wonderful! Keep thinking hard. 
+This is not a critic, if we are thinking on how to solve a problem and we are passionate about it, this is wonderful! Keep thinking hard. 
 
-But, if your mind is just babbling all day long, you are wasting energy. 
+But, if our heads are just babbling all day long, we are wasting energy. 
 
 One sound after the other. 
 
-Is it the same for images ? Let's meet the electric car of imagination. 
+Is it the same for images ? 
+
+Let's meet the electric car of imagination. 
 
 ***
 
