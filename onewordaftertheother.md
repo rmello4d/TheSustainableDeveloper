@@ -62,6 +62,8 @@ Also, thinking requires a great deal of focus, memory accumulation and knowledge
 But thinking has a dark side. It is addictive as sugar. 
 
 
+http://cdn.intechopen.com/pdfs-wm/45322.pdf
+
 http://drfredtravis.com/downloads/Travis_preprint.pdf
 
 http://www.pnas.org/content/101/46/16369.full
