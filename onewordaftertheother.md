@@ -12,9 +12,9 @@ This first step, to create meaningful sounds, is not unique to us, other animals
 
 But, for us humans, a magical second step happened: we were able to 'say' the same sound in our brain without using our vocal chords.
 
-What a great magical trick ! We concatenated meaningful sounds in our head created  a continuous flow of images and ideas.
+What a great magical trick ! We concatenated meaningful sounds in our head and created a continuous flow of images and ideas.
 
-Let’s call it thinking, in the context of this book. 
+In the context of this book, let’s call this 'thinking'. 
 
 how does thinking operates in our head ?  
 
@@ -36,13 +36,13 @@ An adult may reach 40,000 words and we estimate that English speaking University
 
 As a species, this is phenomenal. 
 
-Thinking becomes the predominant mode of our mental activity as adults. We invest a lot of time accumulating all this knowledge. To a point that our minds are always thinking. 
+Thinking becomes the predominant mode of our mental activity as adults. We invest a lot of time accumulating all this knowledge, to a point that our minds are always thinking. 
 
-We do it so much that creates a dark side. Have we ever stop to ask how much are we thinking, or how 'expensive' is?
+We think so much that creates a dark side, a repetitive cycle, a forever telling a story in our heads. Have we ever stop to ask how much are we thinking or how 'expensive' that could be?
 
-Thinking is brutally expensive. So costly that it does not accept simultaneous action: we cannot think 2 stories *at the exactly same time* in our head.
+Thinking is brutally expensive. So costly that it does not accept simultaneous action: we cannot think 2 stories *at the exactly same time* in our heads.
 
-Sure, we can tell and hold 2 or more stories in our head but we will be switching from one to the other. Try these 2 phrases:
+Sure, we can tell and hold 2 or more stories in our heads but we will be switching from one to the other. Try these 2 phrases:
 
 I am super-man.
 Your nose is huge.
@@ -53,9 +53,13 @@ No.
 
 Just compare our brain ability to process many things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time. 
 
-For thinking, the brain limits itself, no parallelism is possible. Every sound must be sequenced, one after the other. It requires a great deal of focus, memory, logic and energy. 
+For thinking, the brain limits itself, no parallelism is possible. It requires a great deal of focus, memory, logic and energy. 
 
-As an adult, if you think all the time, you will be exhausted. Like a mental marathon runner. 
+As an adult, if we are thinking all the time, we will get exhausted. Like a mental marathon runner. 
+
+This is not a critic, if you are thinking on how to solve a problem and you are passionate about it, this is wonderful! Keep thinking hard. 
+
+But, if your mind is just babbling all day long, you are wasting energy. 
 
 One sound after the other. 
 
