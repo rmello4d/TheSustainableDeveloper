@@ -2,7 +2,7 @@
 
 The distinction between brain and mind is a first step helping us understand how energy consumption affects the brain. 
 
-As mentioned before, our brain cannot be controlled and that, is a good thing.
+As mentioned before, controlling the brain is not possible and that, is a good thing.
 
 How about our mind ? Is controlling our mind different than controlling our brain ?
 
