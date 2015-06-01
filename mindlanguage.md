@@ -7,7 +7,7 @@ Visualize earth as a wild place, no buildings, no cars, no civilization. A magni
 In that scene, we are one of our descendants, a homo habilis. 
 We just left our group of about 30 people to adventure the savanna. We will be looking for sharp stones to make spears.
 
-With us, 8 other tribal members.  We use primal sounds to communicate among our hairy friends. 
+With us, 8 other tribal members and we are using primal sounds to communicate among our hairy friends. 
 
 After 10 mins walking,  we reach a vast open area. All of us peacefully looking for perfect stones. 
 
