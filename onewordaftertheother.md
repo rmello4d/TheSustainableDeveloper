@@ -60,13 +60,13 @@ As an adult, if we are thinking all the time, we will get exhausted. Like a ment
 
 This is not a criticism, if we are thinking on how to solve a problem and we are passionate about it, that is wonderful! Keep thinking hard. 
 
-But, if our heads are just babbling all day long, we are wasting energy. 
+But, if our heads are just babbling all day long, we are wasting energy. You are a gas-guzzler sucking a lot of your oxygen and energy for a very low output. 
 
 One sound after the other. 
 
 Is it the same for images ? 
 
-Let's meet the electric car of imagination. 
+Now lets check the hydrogen car. Our imagination. 
 
 ***
 
