@@ -5,7 +5,6 @@
 Then, by repetition, others reproduced the same sound and meaning.
 
 When invented, language was a magical tool and our mind was thirsty for it. 
-
 We went crazy naming everything we could. Objects, actions, places, emotions, people. 
 
 This first step, to create meaningful sounds, is not unique to us, other animals are also capable of the same. 
@@ -16,11 +15,11 @@ What a great magical trick ! We concatenated meaningful sounds in our head and c
 
 In the context of this book, let’s call this 'thinking'. 
 
-how does thinking operates in our head ?  
+How does thinking operates in our head ?  
 
 One sound after the other.  
 
-We think by putting sounds from our known language one after the other in our head. 
+We think by putting sounds from our known language one after the other in our head. If we think "I am going to the supermarket", we have to say every sound (one after the other) in a mental narrative.  
 
 This concept of thinking is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. With thinking, we are concatenating one sound after the other with our known language.
 
