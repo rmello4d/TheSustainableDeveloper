@@ -5,7 +5,7 @@
 Visualize earth as a wild place, no buildings, no cars, no civilization. A magnificent blue planet just governed by cruel jungle law.
 
 In that scene, we are one of our descendants, a homo habilis. 
-We just left our group of about 30 people to adventure the savanna looking for sharp stones to make spears.
+We just left our group of about 30 people to adventure the savanna. We will be looking for sharp stones to make spears.
 
 With us, 8 other tribal members.  We use primal sounds to communicate among our hairy friends. 
 
