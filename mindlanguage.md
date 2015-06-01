@@ -1,6 +1,6 @@
 #The Roar Language
 
-#####Lets go back 4 million years ago.
+#####Lets go back not too far, about 2 million years ago.
 
 Visualize earth as a wild place, no buildings, no cars, no civilization. A magnificent blue planet just governed by cruel jungle law.
 
