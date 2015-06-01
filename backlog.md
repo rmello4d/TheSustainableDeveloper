@@ -277,6 +277,7 @@ With 18 months, children tipically learn between 50 and 100 words. These words a
 
 At 24 months they may already accumulate a vocabulary of 200 to 300 words, quickly jumping to a 1000 one year later. 
 By 5 and 7 they have an expressive vocabulary of 3000 to 5000 words. 
+An adult may reach 40,000 words and we estimate that English speaking University students tend to be around 40-60,000 words. 
 
 
 
