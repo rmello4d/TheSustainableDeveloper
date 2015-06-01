@@ -24,11 +24,21 @@ One sound after the other.
 
 We think by putting sounds from our known language one after the other in our head. 
 
-Notice that this is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. 
+In the context of this book, thinking is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. With thinking, we are concatenating one sound after the other with our known language.
 
-To 'think' is to tell a story inside our brain in our known language.
+If we have no clue about the sounds and meaning of the Mandarin language for example, its quiet impossible to think in Mandarin, right? 
 
-If we have no clue about the sounds of the Mandarin language for example, its quiet impossible to think in Mandarin, right? 
+We learn a language over time, at a slow and progressive pace, sound by sound with their meanings. 
+
+
+
+
+
+As probably happened to all of us, we learn at a slow and progressive pace, each sound carries the sound itself and the meaning of it. 
+
+
+
+
 
 Also, thinking does not accept simultaneous action: we cannot think 2 stories at the exactly same time in our head.
 
