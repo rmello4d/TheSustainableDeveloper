@@ -12,11 +12,11 @@ This first step, to create meaningful sounds, is not unique to us, other animals
 
 But, for us humans, a magical second step happened: we were able to 'say' the same sound in our brain without using our vocal chords.
 
-What a great magical trick ! This concatenation of meaningful sounds in our head created  a continuous flow of images and ideas.
+What a great magical trick ! We concatenated meaningful sounds in our head created  a continuous flow of images and ideas.
 
-Let’s call it thinking. 
+Let’s call it thinking, in the context of this book. 
 
-In the context of this book, how does thinking operates in our head ?  
+how does thinking operates in our head ?  
 
 One sound after the other.  
 
@@ -30,17 +30,15 @@ Also, we learn a language over time, at slow and progressive pace, sound by soun
 
 Babies learn their first words around 12 months old. With 18 months, they know between 50 and 100 words. At 24 months they accumulate a vocabulary of 200 to 300 words. They jump to a 1000 one year later. 
 
-Between 5 and 7 they've accumulated an expressive vocabulary between 3000 to 5000 words. 
+Between 5 and 7 they've accumulated a vocabulary between 3000 to 5000 words. 
 
 An adult may reach 40,000 words and we estimate that English speaking University students tend to be around 40-60,000 words. 
 
 As a species, this is phenomenal. 
 
-Thinking is the predominant mode of our mental activity as adults. We've invested so much time to accumulate all this knowledge that, our minds are always thinking. 
+Thinking becomes the predominant mode of our mental activity as adults. We invest a lot of time accumulating all this knowledge. To a point that our minds are always thinking. 
 
-Thinking is "the" competitive advantage compared with other species but it has a dark side. It is addictive as sugar. 
-
-Have we ever stop to ask how 'expensive' is thinking? 
+We do it so much that creates a dark side. Have we ever stop to ask how much are we thinking, or how 'expensive' is?
 
 Thinking is brutally expensive. So costly that it does not accept simultaneous action: we cannot think 2 stories *at the exactly same time* in our head.
 
@@ -55,11 +53,11 @@ No.
 
 Just compare our brain ability to process many things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time. 
 
-For thinking, the brain limits itself, no parallelism is possible. Every sound must be sequenced, one after the other. It requires a great deal of focus, memory activation, logic and energy. 
+For thinking, the brain limits itself, no parallelism is possible. Every sound must be sequenced, one after the other. It requires a great deal of focus, memory, logic and energy. 
 
-In our modern times, with our excessive level of stimulus (media, computers, telephones),  at the end we are drained, exhausted.  
+As an adult, if you think all the time, you will be exhausted. Like a mental marathon runner. 
 
-
+One sound after the other. 
 
 
 
