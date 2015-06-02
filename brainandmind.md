@@ -1,6 +1,6 @@
 #The Working Area. Our Mind.
 
-The distinction between brain and mind is a first step helping us understand how energy consumption affects the brain. 
+The distinction between brain and mind is a first step for us to understand how energy consumption affects the brain. 
 
 As mentioned before, controlling the brain is not possible and that, is a good thing.
 
