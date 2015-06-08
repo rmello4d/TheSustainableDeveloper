@@ -28,7 +28,7 @@ The use of our brain is direct related to the levels of energy we have. In the s
 
 No magical power needed. 
 
-
+Let's now define the brain areas under our control. 
 
 
 ***
