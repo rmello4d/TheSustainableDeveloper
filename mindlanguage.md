@@ -44,7 +44,12 @@ Language is fundamental and probably one of the most powerful tools in human his
 It changed us forever but it has a high cost. Lets get into the bill.
 
 
+
+
 ***
+
+
+
 
 This book is an ongoing project. The content and the chapters may change before the final release.
 
