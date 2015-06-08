@@ -52,10 +52,16 @@ As for now, keep vivid the importance of our joints, ligaments and tendons. The 
 
 
 
+
 ****
+
+
 (*) 
 
 *Move Your DNA: Restore Your Health Through Natural Movement,  October 15, 2014 by Katy Bowman (http://www.katysays.com/)*
+
+
+
 
 ***
 
