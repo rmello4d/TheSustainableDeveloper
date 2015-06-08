@@ -45,6 +45,7 @@ Thinking is brutally expensive. So costly that it does not accept simultaneous a
 Sure, we can hold 2 or more stories in our heads but we will be switching from one to the other to keep them alive. Just try these 2 phrases:
 
 "I am super-man"
+
 "Your nose is huge"
 
 Can we say both phrases in our mind at exactly same time ?
