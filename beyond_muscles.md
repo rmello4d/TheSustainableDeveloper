@@ -6,7 +6,7 @@ Get Strong. Build Muscles. Stay healthy.
 
 Over the years, we have raised consciousness about the  importance of being active and about exercising our body. These messages are useful. 
 
-To go further in this mantra, we have to reach our joints, ligaments, tendons and cartilages. 
+Now, let's go further in this mantra, we have to reach our joints, ligaments, tendons and cartilages. 
 
 Why is this important?  
 
