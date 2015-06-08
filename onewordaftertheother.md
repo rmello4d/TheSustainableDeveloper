@@ -4,7 +4,7 @@
 
 Then, by repetition, others reproduced the same sound and meaning.
 
-When invented, language was a magical tool and our mind was thirsty for it. 
+When invented, language was a magical tool and we were thirsty for it. 
 We went crazy naming everything we could. Objects, actions, places, emotions, people. 
 
 This first step, to create meaningful sounds, is not unique to us, other animals are also capable of the same. 
