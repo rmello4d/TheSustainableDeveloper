@@ -26,7 +26,12 @@ Lets now explore 3 essential elements of our minds that impact energy consumptio
 
 First is 'language', the energy eater. 
 
+
+
 ***
+
+
+
 
 This book is an ongoing project. The content and the chapters may change before the final release.
 
