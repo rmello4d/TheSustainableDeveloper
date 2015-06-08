@@ -48,9 +48,9 @@ We will discuss these techniques to positively impact the daily life of develope
 
 To become a Sustainable Developer,  we need to transform our working hours into a 'health bank' for our joints, ligaments and deep tissue. 
 
-As for now, keep vivid the importance of our joints, ligaments and tendons. The muscles ? They will work fine. 
+As for now, keep vivid the high level of energy comsuption of our muscles and the importance of our joints, ligaments and tendons for our overall health.
 
-
+Let's now talk about our brain. 
 
 
 ****
