@@ -28,7 +28,13 @@ The use of our brain is direct related to the levels of energy we have. In the s
 
 No magical power needed. 
 
+
+
+
 ***
+
+
+
 
 This book is an ongoing project. The content and the chapters may change before the final release.
 
