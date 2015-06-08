@@ -8,7 +8,7 @@ When invented, language was a magical tool and we were thirsty for it. As result
 
 This first step, to create meaningful sounds, is not unique to us, other animals are also capable of the same. 
 
-But, for us humans, a magical second step happened: we were able to 'say' the same sound in our brain without using our vocal chords.
+But, for us humans, an incredible next step happened: we were able to 'say' the same sound in our brain without using our vocal chords.
 
 What a great magical trick ! We concatenated meaningful sounds in our head and created a continuous flow of images and ideas. What a life changing moment. 
 
