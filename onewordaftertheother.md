@@ -26,7 +26,7 @@ This concept of thinking is different than imagination and dreams. With imaginat
 
 If we have no clue about the sounds and meanings of the Mandarin language for example, its quiet impossible to think in Mandarin, right? 
 
-Also, we learn a language over time. It is slow and progressive, sound by sound, meaning by meaning.  
+Also, we learn a language over time. It is slow and progressive effort, sound by sound, meaning by meaning.  
 
 Babies learn their first words around 12 months old. With 18 months, they know between 50 and 100 words. At 24 months they accumulate a vocabulary of 200 to 300 words. They jump to a 1000 one year later. 
 
