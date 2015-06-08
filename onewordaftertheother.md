@@ -24,7 +24,7 @@ By thinking "I am going to the supermarket", we have to say every sound (one aft
 
 This concept of thinking is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. With thinking, we are concatenating one sound after the other with our known language.
 
-If we have no clue about the sounds and meaning of the Mandarin language for example, its quiet impossible to think in Mandarin, right? 
+If we have no clue about the sounds and meanings of the Mandarin language for example, its quiet impossible to think in Mandarin, right? 
 
 Also, we learn a language over time. It is slow and progressive, sound by sound, meaning by meaning.  
 
