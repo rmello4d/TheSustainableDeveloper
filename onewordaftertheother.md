@@ -19,26 +19,29 @@ One sound after the other.
 
 We think by putting sounds from our known language one after the other in our head. 
 
-By thinking "I am going to the supermarket", we have to say every sound (one after the other) in a mental narrative.  
+By thinking such as "I am going to the supermarket", we have to say every sound in a mental narrative.  
 
-This concept of thinking is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. With thinking, we are concatenating one sound after the other with our known language.
+This concept of thinking is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. Rather, with thinking, we are concatenating one sound after the other with our known language.
 
-If we have no clue about the sounds and meanings of the Mandarin language for example, its quiet impossible to think in Mandarin, right? 
+Our known language is the root of thinking. Imagine we have no clue about the sounds and meanings of the Finnish language. Is it possible to think in Finnish ? No. 
 
-Also, we learn a language over time. It is slow and progressive effort, sound by sound, meaning by meaning.  
+We learn a language over time. It is slow and progressive effort, sound by sound, meaning by meaning.  
 
 Babies learn their first words around 12 months old. With 18 months, they know between 50 and 100 words. At 24 months 200 to 300 words. They jump to a 1000 one year later. 
 
 Between 5 and 7 they've accumulated a vocabulary between 3000 to 5000 words. 
 
-An adult may reach 40,000 words and we estimate that English speaking University students tend to be around 40-60,000 words. 
+An adult may reach 40,000 words and we estimate that English speaking University students tend to be around 60,000 words. 
+
 As a species, this is phenomenal. 
 
-Thinking becomes the predominant mode of our mental activity as adults. We've invested so much time accumulating this knowledge that our minds turn addicted at thinking.  
+We've naturally invested time accumulating this knowledge. As result, thinking becomes the predominant mode of our mental activity as adults.  
 
-We think so much that creates a dark side, a repetitive cycle, a forever telling a story in our heads. Have we ever stop to ask how 'expensive' thinking is?
+Thinking is great and practical but it may create a dark side, a repetitive cycle, a forever telling a story in our heads.
 
-Thinking is brutally expensive. Every sound has to be memorized  by a series of neuron paths and repetition.  It is so costly that it does not accept simultaneous action: we cannot think 2 stories *at the exactly same time* in our heads.
+Have we ever stop to ask how expensive thinking is?
+
+Thinking is brutally expensive. Every sound has to be memorized  by a series of neuron paths activation and repetition.  Our experience tell us that it does not accept simultaneous action. We cannot think 2 stories *at the exactly same time* in our heads.
 
 Sure, we can hold 2 or more stories in our heads but we will be switching from one to the other to keep their meanings alive. Just try these 2 phrases:
 
