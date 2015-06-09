@@ -33,16 +33,15 @@ Babies learn their first words around 12 months old. With 18 months, they know b
 Between 5 and 7 they've accumulated a vocabulary between 3000 to 5000 words. 
 
 An adult may reach 40,000 words and we estimate that English speaking University students tend to be around 40-60,000 words. 
-
 As a species, this is phenomenal. 
 
-Thinking becomes the predominant mode of our mental activity as adults. We've have invested so much time accumulating this knowledge that our minds become addicted. Like sugar, we are always thinking. 
+Thinking becomes the predominant mode of our mental activity as adults. We've invested so much time accumulating this knowledge that our minds turn addicted at thinking.  
 
-We think so much that creates a dark side, a repetitive cycle, a forever telling a story in our heads. Have we ever stop to ask how much are we thinking or how 'expensive' that could be?
+We think so much that creates a dark side, a repetitive cycle, a forever telling a story in our heads. Have we ever stop to ask how 'expensive' thinking is?
 
-Thinking is brutally expensive. So costly that it does not accept simultaneous action: we cannot think 2 stories *at the exactly same time* in our heads.
+Thinking is brutally expensive. Every sound has to be memorized  by a series of neuron paths and repetition.  It is so costly that it does not accept simultaneous action: we cannot think 2 stories *at the exactly same time* in our heads.
 
-Sure, we can hold 2 or more stories in our heads but we will be switching from one to the other to keep them alive. Just try these 2 phrases:
+Sure, we can hold 2 or more stories in our heads but we will be switching from one to the other to keep their meanings alive. Just try these 2 phrases:
 
 "I am super-man"
 
@@ -52,21 +51,22 @@ Can we say both phrases in our mind at exactly same time ?
 
 No.
 
-Just compare our brain ability to process many things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time. 
+Just compare our brain ability to process things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time. 
 
-For thinking, the brain limits itself, no parallelism is possible. It requires a great deal of focus, memory, logic and energy to create the sounds and to follow them into meanings in our heads. 
+For thinking, the brain limits itself, no parallelism is possible. It requires a great deal of focus, memory, logic and energy to create the sound sequences and to follow them into meanings in our heads. 
 
 As an adult, if we are thinking all the time, we will get exhausted. Like a mental marathon runner. 
 
 This is not a criticism, if we are thinking on how to solve a problem and we are passionate about it, that is wonderful! Keep thinking hard. 
 
-But, if our heads are just babbling all day long, we are wasting energy. You are a gas-guzzler sucking a lot of your oxygen and energy for a very low output. 
+If our heads are babbling all day long, we are wasting energy. Our mind can be a gas-guzzler sucking our oxygen and energy for a low output. 
 
 One sound after the other. 
 
 Is it the same for images ? 
 
 Now lets check the hydrogen car. Our imagination. 
+
 <br />
 <br />
 <br />
