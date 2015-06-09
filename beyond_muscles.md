@@ -51,16 +51,16 @@ To become a Sustainable Developer,  we need to transform our working hours into 
 As for now, keep vivid the high level of energy comsuption of our muscles and the importance of our joints, ligaments and tendons for our overall health.
 
 Let's now talk about our brain. 
-
+<br />
+<br />
+<br />
+<br />
 
 ****
-
 
 (*) 
 
 *Move Your DNA: Restore Your Health Through Natural Movement,  October 15, 2014 by Katy Bowman (http://www.katysays.com/)*
-
-
 
 
 ***
