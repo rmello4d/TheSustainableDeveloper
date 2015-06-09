@@ -61,13 +61,13 @@ Absolutely.
 As we will see, it goes beyond just breathing without moving. It will need balance, consciousness and a developer’s mindset. 
 
 Let's understand the logic and framework of our body energy consuption. 
-
+<br />
+<br />
+<br />
+<br />
 
 
 ***
-
-
-
 
 ***References***
 
