@@ -71,10 +71,7 @@ Now lets check the hydrogen car. Our imagination.
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
 ***
 
 This book is an ongoing project. The content and the chapters may change before the final release.
