@@ -1,6 +1,6 @@
 # First Challenge
 
-Let’s get something simple such as my personal guidelines for writing this particular book. I decided to commit myself to the following rules while in front of my computer :
+Let’s get something simple such as my personal guidelines for writing this book. I decided to commit myself to the following rules while in front of my computer :
 
 1. 
 Before and while typing, I had to maintain an aligned and balanced body posture;
@@ -19,9 +19,9 @@ Lets check one by one:
 
 … to notice that “I am having doubts about my writings”, then stop and refocus on the breath was probably the trickiest of the rules. My main goal here was to remind me about the root of everything: consciousness.  Why is so important to understand consciousness from your own experience ?  Do I need to instantiate consciousness or is it a global variable ?
 
-These questions and others are the inspiration for this book. As many Developers, myself included, we abuse our bodies daily. 
+These questions and others are the inspiration for this book. As many Developers, myself included, we are not aware of how much we are draining our bodies daily while coding. 
 
-It is time for us to talk and discuss about self sustainability.
+It is time for us to talk and discuss about self sustainability and the concrete actions we can take to improve our working experience.
 
 Let it be. 
 
