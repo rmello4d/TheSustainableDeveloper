@@ -16,9 +16,9 @@ Is this book about Yoga poses ? No.
 
 Is this book showing how we can twirl our body in all directions ? No. 
 
-This book is about putting the developer as the starting point. From there, we  explore the techniques in Meditation and Yoga that are suitable for the developer. 
+This book puts the developer as the starting point. From there, we  explore the techniques in Meditation and Yoga that are suitable for the developer. 
 
-These last 25 years showed me that developers have Yogic capabilities to surprising levels. Just to be clear, the Sustainable Developer is not a guru-ninja-master of all things in the universe. 
+These last 25 years showed me that developers have yogic capabilities to surprising levels. Just to be clear, the Sustainable Developer is not a guru-ninja-master of all things in the universe. 
 
 Sorry. 
  
