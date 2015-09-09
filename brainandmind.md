@@ -1,7 +1,5 @@
 #The Working Area. Our Mind.
 
-The distinction between brain and mind is a first step to understand how energy consumption affects the brain. 
-
 As mentioned before, controlling the brain is not possible and that, is a good thing.
 
 How about our mind ? Is controlling our mind different than controlling our brain ?
@@ -20,13 +18,15 @@ But let's take our memory for example. Memory is an area of our brain that we ca
 
 To give an opposite example, could we tell the last time we ordered a signal to our adrenal glands to produce more cortisone? No, such a thing is not our decision or susceptible to control, therefore not in our definition of the mind.
 
-This simple and organic idea of the mind opens a wonderful environment to work with.
+This  distinction between brain and mind is a first step to understand how energy consumption affects the brain. 
 
 Lets now explore 3 essential elements of our minds that impact energy consumption. 
 
 First is 'language', the energy eater. 
 
 Let's understand how language works. 
+
+
 
 <br />
 <br />
