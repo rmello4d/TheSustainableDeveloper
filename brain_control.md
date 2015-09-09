@@ -28,7 +28,7 @@ Well, some activities are under our control. In the sense of energy consumption,
 
 No magical power needed. 
 
-Let's now define the brain areas under our control. 
+Let's now define these brain areas under our control. 
 <br />
 <br />
 <br />
