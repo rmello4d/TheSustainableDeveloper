@@ -8,7 +8,7 @@ It is important to demystify the frenzy about possessing magical powers over our
 
 The brain was not meant or designed to be "controlled".
 
-Metaphorically speaking, our brain is like an ocean receiving all the flowing rivers from the senses. It is a black hole grabbing and absorbing everything within range of our sensory boundaries. 
+Metaphorically speaking, our brain is an ocean receiving all the flowing rivers from the senses. It is a black hole grabbing and absorbing everything within range of our sensory boundaries. 
 
 Nothing escapes.
 
@@ -22,9 +22,9 @@ Do we control our heart ? Our liver ? No, and that is a good thing. Vital organs
 
 Bottom line: The brain is not our puppet. It is an organ too complex, powerful and designed to go beyond our control.
 
-Having said that, if we can't control it, what's all the fuss about it ?
+Having said that, if we can't fully control it, what's all the fuss about it ?
 
-The use of our brain is direct related to the levels of energy we have. In the sense of energy consumption, we should detail a plan to cut waste and run the brain engine much leaner. 
+Well, some activities are under our control. In the sense of energy consumption, for these activities we should detail a plan to cut waste and run much leaner. 
 
 No magical power needed. 
 
