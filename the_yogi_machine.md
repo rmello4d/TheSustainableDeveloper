@@ -8,7 +8,7 @@ He can go days without much food or water. He can sit and meditate for hours. He
 
 How about the beaming part ? After all, Yogis have been depicted with radiant beams of light. 
 
-Lets unpuzzle our Yogi image:
+Lets 'unpuzzle' our Yogi image:
 
 **In lotus position a Yogi does not move.** 
 
@@ -18,9 +18,7 @@ By not moving and by being at rest, a Yogi solves the first piece of our puzzle:
 
 Our muscles play a big role in all the energy we consume while awake. They use oxygen coming from our breathing to create energy. 
 
-We all know this relationship between muscle activity and breathing. If we try to sprint we will naturally increase our breathing frequency. We have to "catch our breath".  
-
-Here a wild guess why muscles consume a lot of oxygen. Imagine you have a Lion chasing you. Your body will be screaming 'please get all energy possible to my muscles !'
+We instinctively know this relationship between muscle activity and breathing. If we try to sprint or run,  we will naturally increase our breathing frequency. We have to "catch our breath".  
 
 In fact, our muscles devour oxygen when active: to move, stand, run, swim, etc. From the moment we wake up to the moment we fall asleep, muscles are active and helping with gravity. 
 
@@ -28,7 +26,7 @@ Keeping in mind this important correlation of muscles, breath and energy consump
 
 **In lotus position a Yogi meditates.** 
 
-Allow me to simplify the word meditation as the relaxing of your mind. We will go deeper into how that happens, but for now, please bare with me. 
+Allow me to simplify, just for now,  the word meditation as the relaxing of your mind. We will go deeper into how that happens, but for now, please bare with me. 
 
 A relaxed mind solves the second piece of our puzzle: the brain is another big consumer of energy and oxygen in the body. 
 
@@ -37,7 +35,6 @@ Is it possible to relax our mind and consume less oxygen ? Yes. We do that every
 What happens when we sleep? We rest. 
 
 How do we rest ? By not moving much and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep. 
-
 This brings an interesting question, if at sleep the brain and the muscles are not consuming as much oxygen, to where is all that unused breathing oxygen going ? 
 
 Everywhere else. Organs, tissues, cells...
@@ -48,13 +45,13 @@ Lets go back to our Yogi. His posture is balanced. His muscles are relaxed. His 
 
 He may decide to breathe a notch up and increase even further the recharge of his body, like a fast charging battery. 
 
-After awhile, he turns into those radiant beams of light, energy is overflowing his body. 
+After awhile, he turns into those radiant beams of light. Energy is overflowing his body. 
 
 Yogis raise their own energy to an optimal state and by a sustainable practice, keep it there.  
 
-Do we need to go in a cave for 20 years to learn that ? 
+Do we need to go in a cave for 20 years to learn that ? Maybe. 
 
-If our goal in life is to be Yogi, probably yes. Though, this is not our case. Can we take advantage of some of their techniques by applying them to our own benefit ? 
+If our goal in life is to be Yogi, probably yes. Though, this is not our case. Can we take advantage of some of their techniques by applying these techniques to our own benefit ? 
 
 Absolutely. 
 
