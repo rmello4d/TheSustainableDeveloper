@@ -1,8 +1,10 @@
 # The Sustainable Developer
 
-The act of coding demands a considerable mental and physical effort. As a result, developers often abuse their health while in front of the computer. 
+This book tackles a neglected reality in the developer's community : self-sustainability. 
 
-This book tackles the neglected issue of self-sustainability. 
+The act of coding demands a considerable mental and physical effort.  
+
+As a result, most developers strain themselves while in front of the computer. Along the years, pain and inflammation may become common.  
 
 Is it possible to establish a sustainable coding practice ? 
 
@@ -10,7 +12,9 @@ Is it possible to be engaged in 6hs coding sessions and leave them with more ene
 
 Absolutely.  
 
-Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. As we will see in the book, there is an untapped value in the crossings of these two worlds: developers and yogis. They have lots in common. 
+Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. 
+
+As we will see in the book, there is an untapped value in the crossings of these two worlds: developers and yogis. They have lots in common. 
 
 Is this book about Yoga poses ? No. 
 
@@ -22,13 +26,11 @@ These last 25 years showed me that developers have yogic capabilities to surpris
 
 Sorry. 
  
-Rather, The Sustainable Developer understands how to use his personal energy more efficiently. His body and mind get clear. Then, he can enjoy this knowledge by increasing focus on daily tasks and at work. 
+Rather, The Sustainable Developer understands how to use personal energy more efficiently. The body and mind get clear.  
 
 The Sustainable Developer is making the act of coding special to his body and mind. That alone, may transform your personal and professional life.    
 
-Also, this book is primarily meant for coders but I also invite non-coders to understand our world. Will there be any coding examples ? Yes, but do not expect coding techniques or frameworks.  
-
-Last but not least, please share your opinion about anything you believe right or wrong in this book. One way or the other, you are helping to spread and enlarge this conversation even further. 
+Also, this book is primarily meant for coders but I also invite non-coders to enjoy it. Will there be any coding examples ? Yes, but do not expect coding techniques or frameworks.  
 
 Guru-ninja-master.
 
