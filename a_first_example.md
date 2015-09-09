@@ -1,13 +1,13 @@
 # First Challenge
 
-Let’s get something simple such as my personal guidelines for writing this book. I decided to commit myself to the following rules while in front of my computer :
+Let’s get something simple such as my own personal guidelines for writing this book. I decided to commit myself to the following rules while in front of my computer :
 
 1. 
 Before and while typing, I had to maintain an aligned and balanced body posture;
 1. 
 Before touching the keyboard, I had to focus on my breath first, then start typing;
 1. 
-If I doubt my writings or if I get indecisive about what to say, first I should notice it, then stop myself, then apply rule number 2;
+If I doubt my writings or if I get indecisive about what to write, first I should notice it, then stop myself, then apply rule number 2;
 
 Looks easy right ? Not at all. 
 
