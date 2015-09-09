@@ -10,7 +10,7 @@ This first step, to create meaningful sounds, is not unique to us, other animals
 
 But, for us humans, an incredible next step happened. We were able to 'say' and to concatenate sounds in our brain without using our vocal chords.
 
-What an awesome magical trick ! It created a continuous flow of sounds and ideas in our head. A life changing moment. 
+What an awesome magical trick ! It created a continuous flow of sounds and ideas in our head. A life changing ability. 
 
 In the context of this book, let’s call this moment 'thinking'. 
 How does thinking operates in our head ?  
