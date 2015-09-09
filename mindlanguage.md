@@ -4,34 +4,33 @@
 
 Visualize earth as a wild place, no buildings, no cars, no civilization. A magnificent blue planet just governed by cruel jungle law.
 
-In that scene, we are one of our descendants, a homo habilis. 
-We just left our group of about 30 people to adventure the savanna. We will be looking for sharp stones to make spears.
+In that scene, you are one of our descendants, a homo habilis. You just left your group of about 30 people together with 8 other tribal members. 
 
-With us, 8 other tribal members. We are using primal sounds to communicate among our hairy friends. 
+We will be looking for sharp stones to make spears in the savanna. Also, there was no grammatical language available. You are using primal sounds to communicate among your hairy friends. 
 
-After 10 mins walking,  we reach a vast open area, peacefully looking for perfect stones. 
+After 10 mins walking,  the small group reach a vast open area, peacefully looking for perfect stones. 
 
-Not far, a salivating and hungry lion is approaching our group.
+Not far from there, a salivating and hungry lion is approaching the group.
 
 As it goes, one of us is about to die.
 
 The king of the jungle charges from a long distance on pure instincts and power.
 
-We are the first to notice the attack. We howl with all our lungs to alarm everybody.
+You are the first to notice the attack. You howl with all our lungs to alarm everybody.
 
 Panic.
 
-By chance, we know exactly how to escape. 10 mins before we made a turn and saw a safe place hidden in the savanna, certainly not accessible by the lion.
+By chance, you know exactly how to escape. 10 mins before you made a turn and saw a safe place hidden in the savanna, certainly not accessible by the lion.
 
-Everybody could be saved if they knew precisely how to get in this place. We try to tell everybody but our friends, in panic, cannot understand exactly our primal sounds.
+Everybody could be saved if they knew precisely how to get in this place. You try to yell everybody but your friends cannot understand precisely your primal sounds.
 
-We got to the safe place but, seconds later, one of the members is caught.
+You got to the safe place but, seconds later, one of the members is caught.
 
 The lion roars victory.
 
 Slowly, the brutal scene fades down and the savanna returns to the superficial calmness.
 
-Later, we regroup at our campsite, one friend is missing.
+Later, you regroup at your campsite, one friend is missing.
 
 Unfortunately, with no structured language and without words, no exact explanations are possible. Little can be said to the other 29 members about the savanna tragedy.
 
