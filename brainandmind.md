@@ -1,4 +1,4 @@
-#The Working Area. Our Mind.
+#The Mind.
 
 As mentioned before, controlling the brain is not possible and that, is a good thing.
 
