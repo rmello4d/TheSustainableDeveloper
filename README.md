@@ -4,7 +4,7 @@ This book tackles a neglected reality in the developer's community : self-sustai
 
 The act of coding demands a considerable mental and physical effort.  
 
-As a result, most developers strain themselves while in front of the computer. Along the years, pain and inflammation may become common.  
+As a result, most developers strain themselves while in front of the computer. Along the years, pain and inflammation may be common.  
 
 Is it possible to establish a sustainable coding practice ? 
 
@@ -28,7 +28,7 @@ Sorry.
  
 Rather, The Sustainable Developer understands how to use personal energy more efficiently. The body and mind get clear.  
 
-The Sustainable Developer is making the act of coding special to his body and mind. That alone, may transform your personal and professional life.    
+The Sustainable Developer is making the act of coding special to his body and mind as well. That alone, may transform your personal and professional life.    
 
 Also, this book is primarily meant for coders but I also invite non-coders to enjoy it. Will there be any coding examples ? Yes, but do not expect coding techniques or frameworks.  
 
