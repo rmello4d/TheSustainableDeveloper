@@ -24,7 +24,7 @@ Bottom line: The brain is not our puppet. It is an organ too complex, powerful a
 
 Having said that, if we can't fully control it, what's all the fuss about it ?
 
-Well, some activities are under our control. In the sense of energy consumption, for these activities we should detail a plan to cut waste and run much leaner. 
+Well, some activities are under our control. To understand these activities is vital to run our brain cleaner and with less energy waste. 
 
 No magical power needed. 
 
