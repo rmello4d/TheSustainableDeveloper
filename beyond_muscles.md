@@ -6,7 +6,7 @@ Get Strong. Build Muscles. Stay healthy.
 
 Over the years, we have raised consciousness about the  importance of being active and about exercising our body. These messages are useful. 
 
-Now, let's go further in this mantra, we have to reach our joints, ligaments, tendons and cartilages. 
+Now, let's go further in this mantra. To do that,  we have to reach our joints, ligaments, tendons and cartilages. 
 
 Why is this important?  
 
@@ -20,9 +20,9 @@ Ask any elderly person and they will often confirm: their pain is on the joints,
 
 The muscles? They work fine.
 
-The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important consequences for our health and our range of motion while living in our blue planet. 
+The idea of keeping our joints and ligaments healthier is a sustainable concern. It has important consequences for our health and our range of motion. 
 
-For a developer, this is even more important. Developers don't need to get older to have physical problems related to joints, tendons and ligaments: 
+For a developer, this is even more important. Why ? Developers don't need to get older to have physical problems related to joints, tendons and ligaments: 
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  Developers can have any of these problems after some years of coding.  
 
@@ -37,8 +37,8 @@ Here is an interesting question. If our muscles are protecting our joints and li
 The point is that muscles keep our joints and ligaments under a protected and limited range of motion. Safety is the main concern. 
 
 If we don't challenge it, year after year this range gets shorter, toxins accumulate and we end up stiffer and stiffer. 
-Is there a safe way to open our joints and ligaments further? 
-Yes. For that, we need to go beyond our muscles. We also need to do it safely.  
+
+Is there a safe way to open our joints and ligaments further? Yes. For that, we need to go beyond our muscles. We also need to do it safely.  
 
 There are specific techniques to open our joints and ligaments. These techniques challenge the muscles in a  different way, it is not about strenght, it is about release and trust. Nonetheless, these techniques increase circulation by opening our joints and ligaments gently and safely. 
 
