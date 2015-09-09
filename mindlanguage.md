@@ -20,11 +20,11 @@ You are the first to notice the attack. You howl with all our lungs to alarm eve
 
 Panic.
 
-By chance, you know exactly how to escape. 10 mins before you made a turn and saw a safe place hidden in the savanna, certainly not accessible by the lion.
+By chance, you know exactly how to escape because 10 mins before you made a turn and saw a safe place hidden in the savanna. This place was certainly not accessible by the lion.
 
-Everybody could be saved if they knew precisely how to get in this place. You try to yell everybody but your friends cannot understand precisely your primal sounds.
+Everybody could be saved. You try to yell but your friends cannot understand precisely your primal sounds.
 
-You got to the safe place but, seconds later, one of the members is caught.
+As it goes, you manage to escape and reach the safe place but, seconds later, one of your friends is caught.
 
 The lion roars victory.
 
@@ -32,15 +32,15 @@ Slowly, the brutal scene fades down and the savanna returns to the superficial c
 
 Later, you regroup at your campsite, one friend is missing.
 
-Unfortunately, with no structured language and without words, no exact explanations are possible. Little can be said to the other 29 members about the savanna tragedy.
+Unfortunately, with no structured language and without words, no exact explanations were possible. Little can be said to the other 29 members about the savanna tragedy.
 
-Also, in 2 months we will not be able to say “Do you remember Jay ? the guy killed by the lion 2 months ago ?”, “Yes! Jay, I miss him, he was a good man”.
+Also, in 2 months you will not be able to say “Do you remember Jay ? the guy killed by the lion 2 months ago ?”, “Yes! Jay, I miss him, he was a good man”.
 
-Without language, there are no viable way to represent past or future. Without language our brain is mostly instincts and emotions. If we could go back 2 million years ago, we would be a “here and now” creature. Like the lion.   
+Without language, there are no representation of the past or future. Without language our brain is mostly instincts and emotions. If you could go back 2 million years ago, you would be a “here and now” creature. Like the lion.   
 
 Language is fundamental and probably one of the most powerful tools in human history.  
 
-It changed us forever but it has a high cost. Lets get into the bill.
+It changed us forever but also has a high cost. Lets get into the bill.
 
 <br />
 <br />
