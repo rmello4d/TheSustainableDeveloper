@@ -6,9 +6,9 @@ A life spent mastering himself. Everything else is not important.
 
 He can go days without much food or water. He can sit and meditate for hours. He may go to extremes to test his body, mind and soul. 
 
-How about the beaming part ? After all, Yogis have been depicted with radiant beams of light. 
+How about the beaming part ? After all, Yogis have been depicted with radiant beams of light.  
 
-Lets 'unpuzzle' our Yogi image:
+Let's try to understand our Yogi image:
 
 **In lotus position a Yogi does not move.** 
 
@@ -16,13 +16,11 @@ He is balanced and relaxed.
 
 By not moving and by being at rest, a Yogi solves the first piece of our puzzle: muscles are big consumers of energy and oxygen in the body. 
 
-Our muscles play a big role in all the energy we consume while awake. They use oxygen coming from our breathing to create energy. 
+Our muscles play a big role in all the energy we consume while awake. Muscles use oxygen coming from our breathing to create energy. 
 
 We instinctively know this relationship between muscle activity and breathing. If we try to sprint or run,  we will naturally increase our breathing frequency. We have to "catch our breath".  
 
 In fact, our muscles devour oxygen when active: to move, stand, run, swim, etc. From the moment we wake up to the moment we fall asleep, muscles are active and helping with gravity. 
-
-Keeping in mind this important correlation of muscles, breath and energy consumption. 
 
 **In lotus position a Yogi meditates.** 
 
@@ -30,18 +28,21 @@ Allow me to simplify, just for now,  the word meditation as the relaxing of your
 
 A relaxed mind solves the second piece of our puzzle: the brain is another big consumer of energy and oxygen in the body. 
 
-Is it possible to relax our mind and consume less oxygen ? Yes. We do that everyday at sleep. 
+Is it possible to relax our mind and consume less energy ? Yes. We do that everyday at sleep. 
 
 What happens when we sleep? We rest. 
 
-How do we rest ? By not moving much and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep. 
-This brings an interesting question, if at sleep the brain and the muscles are not consuming as much oxygen, to where is all that unused breathing oxygen going ? 
+How do we rest ? By not moving and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep. 
+
+If at sleep the brain and the muscles are not consuming as much oxygen, to where is all that unused breathing oxygen going ? 
 
 Everywhere else. Organs, tissues, cells...
 
 After sleeping for 8 hours we feel recharged. Our whole body gets oxygenated and replenished. 
 
-Lets go back to our Yogi. His posture is balanced. His muscles are relaxed. His brain is going layer by layer to a deep state of meditation.  His energy is not being wasted by bad posture, excessive muscular activity, worries or frenetic thinking. The Yogi is oxygenating organs, cells and tissues while awake.
+Lets go back to our Yogi and summarize what is going on:
+
+His posture is balanced. His muscles are relaxed. His brain is going layer by layer to a deep state of meditation.  His energy is not being wasted by bad posture, excessive muscular activity, worries or frenetic thinking. The Yogi is oxygenating organs, cells and tissues while awake.
 
 He may decide to breathe a notch up and increase even further the recharge of his body, like a fast charging battery. 
 
@@ -51,13 +52,13 @@ Yogis raise their own energy to an optimal state and by a sustainable practice, 
 
 Do we need to go in a cave for 20 years to learn that ? Maybe. 
 
-If our goal in life is to be Yogi, probably yes. Though, this is not our case. Can we take advantage of some of their techniques by applying these techniques to our own benefit ? 
+If our goal in life is to be Yogi, probably yes. Though, this is not our case. Can we take advantage of some of their techniques by applying these techniques to our own coding practice ?
 
 Absolutely. 
 
 As we will see, it goes beyond just breathing without moving. It will need balance, consciousness and a developer’s mindset. 
 
-Let's understand the logic and framework of our body energy consuption. 
+But first, let's understand the logic and framework of our body energy consuption. 
 <br />
 <br />
 <br />
