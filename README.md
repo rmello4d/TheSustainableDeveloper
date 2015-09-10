@@ -1,7 +1,5 @@
 # The Sustainable Developer
 
-This book tackles a neglected reality in the developer's community : self-sustainability. 
-
 The act of coding demands a considerable mental and physical effort.  
 
 As a result, most developers strain themselves while in front of the computer. Along the years, pain and inflammation may be common.  
@@ -12,9 +10,11 @@ Is it possible to be engaged in 6hs coding sessions and leave them with more ene
 
 Absolutely.  
 
+This book tackles a neglected reality in the developer's community: self-sustainability. 
+
 Probably no other culture has dedicated more time in understanding the body and mind as have the Yogis. 
 
-As we will see in the book, there is an untapped value in the crossings of these two worlds: developers and yogis. They have lots in common. 
+As we will discover, there is an untapped value in the crossings of these two worlds: developers and yogis. They have lots in common. 
 
 Is this book about Yoga poses ? No. 
 
