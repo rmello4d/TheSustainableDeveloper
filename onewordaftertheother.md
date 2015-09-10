@@ -2,9 +2,9 @@
 
 #####Someday, someone linked a sound to a meaning. 
 
-Then, by repetition, others reproduced the same sound and meaning.
+Then, by repetition, others reproduced the same sound and meaning. We could eventually say that a language is born by the acceptance of sounds and meanings by a certain group of people. 
 
-When invented, language was a magical tool and we were thirsty for it. As result, we went crazy naming everything we could. Objects, actions, places, emotions, people. 
+When invented, a language is a magical tool. Humans were thirsty for it and as result, we went crazy naming everything we could. Objects, actions, places, emotions, people. 
 
 This first step, to create meaningful sounds, is not unique to us, other animals are also capable of the same. 
 
