@@ -14,29 +14,29 @@ We all started life flexible. A baby can touch its heels on the back of its head
 
 Progressively we build tension in our body. As we grow older and older we get stiffer and stiffer, bent by life. 
 
-What is getting stiffer? Joints, ligaments, tendons and cartilages
+What is getting stiffer? Joints, ligaments, tendons and cartilages. 
 
 Ask any elderly person and they will often confirm: their pain is on the joints, tendons and ligaments. 
 
 The muscles? They work fine.
 
-The practice of keeping our joints and ligaments healthier has major impacts in our health. 
-
-Developers don't need to get older to show physical problems related to joints, tendons and ligaments: 
+The bad new is that developers don't need to get older to show physical problems related to joints, tendons and ligaments: 
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  Developers can have any of these problems after some years of coding.  
 
-Joints and ligaments are so important that our body is often trying to overprotect them. Who is the guardian keeping joints and ligaments safe? Muscles.
+To get even worse, these are slow and progressive problems. We should teach about them as early as possible for students and professionals in this field. 
+
+Joints and ligaments are bloody important. Our body is often trying to overprotect them. Guess who is the guardian keeping joints and ligaments safe? Muscles.
 
 Among other things, muscles try their best to protect our joints and ligaments from bending or stretching over a certain limit. 
 
-If our muscles are protecting our joints and ligaments, why we often have problems later in life? 
+That is all good but if our muscles are protecting our joints and ligaments, why we often have problems later in life? 
 
-The important idea is that muscles keep our joints and ligaments under a protected and limited range of motion. Safety is the body main concern. 
+The key is that muscles keep our joints and ligaments under a limited range of motion. Safety is the body main concern. 
 
 If we don't challenge it, year after year this range gets shorter, toxins accumulate and we end up stiffer and stiffer. 
 
-Is there a safe way to open our joints and ligaments further? Yes. Guess what ? There is a specific branch of Yoga for that. 
+Is there a safe way to open our joints and ligaments further? Yes and sure there is a specific branch of Yoga for that. 
 
 This Yoga technique challenges the joints in a  different way. It is not about strenght, it is about release and trust. Nonetheless, these techniques increase circulation by opening our joints and ligaments gently and safely. 
 
