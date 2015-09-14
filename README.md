@@ -2,7 +2,7 @@
 
 The act of coding demands a considerable mental and physical effort.  
 
-As a result, most developers strain themselves while in front of the computer. Along the years, pain and inflammation may be common.  
+As a result, most developers strain themselves while in front of the computer. Along the years, pain and inflammation may be a common feeling in their lives.  
 
 Is it possible to establish a sustainable coding practice ? 
 
