@@ -71,7 +71,7 @@ One sound after the other.
 
 Is it the same for images ? 
 
-Now lets check something like a hydrogen car. Our imagination. 
+Now lets check something like a hydrogen car: our imagination. 
 
 <br />
 <br />
