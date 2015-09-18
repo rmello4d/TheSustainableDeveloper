@@ -4,9 +4,9 @@ As mentioned before, controlling the brain is not possible and that, is a good t
 
 How about our mind ? Is controlling our mind different than controlling our brain ?
 
-To begin with, lets agree that we understand the brain and mind in different ways by different cultural and religious traditions. 
+To begin with, the brain and mind have different meanings by different cultural and religious traditions. 
 
-Philosophy, psychology, religion and science will give you different answers. By consequence, trying to define them with precision is counter productive.  
+Philosophy, psychology, religion and science will give you different answers when trying to box these concepts. By consequence, trying to define them with precision is counter productive.  
 
 It will be out of our scope to impose a definition that can settle the different views. Said that, it is possible to give some context to help us. Our goal is to create an organic understanding about the mind and brain relation.
 
@@ -18,7 +18,7 @@ But let's take our memory for example. Memory is an area of our brain that we ca
 
 To give an opposite example, could we tell the last time we ordered a signal to our adrenal glands to produce more cortisone? No, such a thing is not our decision or susceptible to control, therefore not in our definition of the mind.
 
-This  distinction between brain and mind is a first step to understand how energy consumption affects the brain. 
+This distinction between brain and mind is a first step to understand how energy consumption affects the brain. 
 
 Lets now explore 3 essential elements of our minds that impact energy consumption. 
 
