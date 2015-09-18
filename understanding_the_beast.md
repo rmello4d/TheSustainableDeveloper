@@ -8,13 +8,13 @@ They can bypass regular sleep for months when passionate by an idea.
 
 They go layer after layer building a considerable chain of logical paths in their brains. 
 
-Yes, they dress casually. Being simple saves time. Grooming is rarely a priority. 
+Yes, they dress casually. Grooming is rarely a priority. Being simple saves time.  
 
 Like kids, they get along with each other quickly. All they need is to speak the same mother tongue. Do you know JavaScript ? Shit yes. (Smile). Let's talk !  
 
 They have bugs to fix, called “debugging”. To debug is often hell. It requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in Armageddon. 
 
-If they don't see the beauty of a concept in 5 examples or a 3 minutes video, oh boy, your technology or framework will be trashed. They will not hesitate a second to spend energy elsewhere. 
+If Developers don't see logical beauty or simplicity in a product,  oh boy, your technology or framework will be trashed without pity. They will not hesitate a second to spend energy elsewhere. 
 
 I’ve worked as a developer, project manager and project director and I can assure something else: they have an excellent sense for detecting bullshit, if being told. 
 
