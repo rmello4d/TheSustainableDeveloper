@@ -92,7 +92,6 @@ Follow me on twitter at [@JSapplied](https://twitter.com/JSapplied)
 
 References
 
-file:///Users/rm/Downloads/Belin_Fecteau_Bedard_TICS04.pdf
 
 http://cdn.intechopen.com/pdfs-wm/45322.pdf
 
