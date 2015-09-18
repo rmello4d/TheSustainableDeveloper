@@ -1,6 +1,6 @@
 # First Challenge
 
-Let’s get something simple such as my own personal guidelines for writing this book. I decided to commit myself to the following rules while in front of my computer :
+Let’s start with my personal guidelines for writing this book. I decided to commit myself to the following rules while in front of a computer :
 
 1. 
 Before and while typing, I had to maintain an aligned and balanced body posture;
@@ -10,8 +10,6 @@ Before touching the keyboard, I had to focus on my breath first, then start typi
 If I doubt my writings or if I get indecisive about what to write, first I should notice it, then stop myself, then apply rule number 2;
 
 Looks easy right ? Not at all. 
-
-Lets check one by one:
 
 … to find a body posture that is well balanced and consumes the least amount of energy is hard work. My main goal here was to stay between 4 to 6 hours in front of the computer per day and finish any session with more energy then when I started. Is it possible ? How personal energy is consumed? Is there one specific posture ? Would the same tactics apply to 2hs or 12hs of coding ? 
 
