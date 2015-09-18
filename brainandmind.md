@@ -20,7 +20,7 @@ To give an opposite example, could we tell the last time we ordered a signal to 
 
 This distinction between brain and mind is a first step to understand how energy consumption affects the brain. 
 
-Lets now explore 3 essential elements of our minds that impact energy consumption. 
+It will be important to explore the 3 essential elements of our minds that impact energy consumption. 
 
 First is 'language', the energy eater. 
 
