@@ -4,11 +4,11 @@
 
 Visualize earth as a wild place, no buildings, no cars, no civilization. A magnificent blue planet just governed by cruel jungle law.
 
-In that scene, you are one of our descendants, a homo habilis. You just left your group of about 30 people together with 8 other tribal members. 
+In that scene, you are one of our probable descendants, a homo habilis. You just left your group of about 30 people together with 8 other tribal members. 
 
-We will be looking for sharp stones to make spears in the savanna. Also, there was no grammatical language available. You are using primal sounds to communicate among your hairy friends. 
+We will be looking for sharp stones to make spears in the savanna. Also, there was no grammatical language yet. You all are using only primal sounds to communicate. 
 
-After 10 mins walking,  the small group reach a vast open area, peacefully looking for perfect stones. 
+After 10 mins walking, our small group reach an open area, we are all peacefully looking for perfect stones. 
 
 Not far from there, a salivating and hungry lion is approaching the group.
 
@@ -24,7 +24,7 @@ By chance, you know exactly how to escape because 10 mins before you made a turn
 
 Everybody could be saved. You try to yell but your friends cannot understand precisely your primal sounds.
 
-As it goes, you manage to escape and reach the safe place but, seconds later, one of your friends is caught.
+As it goes, you've managed to escape and reach the safe place but, seconds later, one of your friends is caught.
 
 The lion roars victory.
 
