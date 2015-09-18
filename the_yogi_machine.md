@@ -4,31 +4,31 @@
 
 A life spent mastering himself. Everything else is not important. 
 
-He can go days without much food or water. He can sit and meditate for hours. He may go to extremes to test his body, mind and soul. 
+He can go days without much food or water. He can sit and meditate for hours. He may go to extremes to test his body and mind. 
 
-How about the beaming part ? After all, Yogis have been depicted with radiant beams of light.  
+How about the beaming part ? After all, Yogis have been depicted with radiant beams of light. 
 
-Let's try to understand our Yogi image:
+Lets scrape their simple (not necessary easy) technique to keep energy at high levels:
 
 **In lotus position a Yogi does not move.** 
 
 He is balanced and relaxed. 
 
-By not moving and by being at rest, a Yogi solves the first piece of our puzzle: muscles are big consumers of energy and oxygen in the body. 
+By not moving and by being at rest, a Yogi solves the first piece of our energy puzzle: muscles are big consumers of energy and oxygen in the body. 
 
 Our muscles play a big role in all the energy we consume while awake. Muscles use oxygen coming from our breathing to create energy. 
 
-We instinctively know this relationship between muscle activity and breathing. If we try to sprint or run,  we will naturally increase our breathing frequency. We have to "catch our breath".  
+We instinctively know this relationship between muscle activity and breathing. If we try to sprint or run, we have to "catch our breath".  
 
 In fact, our muscles devour oxygen when active: to move, stand, run, swim, etc. From the moment we wake up to the moment we fall asleep, muscles are active and helping with gravity. 
 
 **In lotus position a Yogi meditates.** 
 
-Allow me to simplify, just for now,  the word meditation as the relaxing of your mind. We will go deeper into how that happens, but for now, please bare with me. 
+Allow me to simplify the word meditation as the relaxing of your mind. We will go deeper into how that happens, but for now, please bare with me. 
 
-A relaxed mind solves the second piece of our puzzle: the brain is another big consumer of energy and oxygen in the body. 
+A relaxed mind solves the second piece of our energy puzzle: the brain is another big consumer of energy and oxygen in the body. 
 
-Is it possible to relax our mind and consume less energy ? Yes. We do that everyday at sleep. 
+Is it true that if we relax our mind we consume less energy ? Yes. We do that everyday at sleep, for example. 
 
 What happens when we sleep? We rest. 
 
