@@ -21,7 +21,7 @@ These questions and others are the inspiration for this book. As many Developers
 
 It is time for us to talk and discuss about self sustainability and the concrete actions we can take to improve our working experience.
 
-Let it be. 
+Let's do it.  
 
 ***
 
