@@ -1,4 +1,4 @@
-# The Developer Path
+# The Developer
 
 ##### Developers are tough.
 
