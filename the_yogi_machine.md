@@ -1,4 +1,4 @@
-# The Yogi Machine
+# The Yogi
 
 ##### Imagine a traditional picture of a Yogi : A beaming figure in lotus position. 
 
