@@ -48,11 +48,11 @@ He may decide to breathe a notch up and increase even further the recharge of hi
 
 After awhile, he turns into those radiant beams of light. Energy is overflowing his body. 
 
-Yogis raise their own energy to an optimal state and by a sustainable practice, keep it there.  
+Yogis raise their own energy to an optimal state and by a sustainable practice, keep that energy ready for use. 
 
-Do we need to go in a cave for 20 years to learn that ? Maybe. 
+Do we need to go in a cave for 20 years to learn that ? If our goal in life is to be Yogi, probably yes. Though, this is not our case. 
 
-If our goal in life is to be Yogi, probably yes. Though, this is not our case. Can we take advantage of some of their techniques by applying these techniques to our own coding practice ?
+Can we take advantage of some of their techniques by applying these techniques to our own coding practice ?
 
 Absolutely. 
 
