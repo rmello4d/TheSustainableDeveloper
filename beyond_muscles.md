@@ -1,4 +1,4 @@
-# Beyond Muscles
+# The Muscles
 
 #####Physical activity is a popular mantra. 
 
@@ -22,9 +22,9 @@ The muscles? They work fine.
 
 The bad news is that developers don't need to get older to show physical problems related to joints, tendons and ligaments: 
 
-Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain and etc.  Developers can have any of these problems after some years of coding.  
+Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain, the list goes on and on. Developers can have any of these problems after some years of coding.  
 
-To get even worse, these are slow and progressive problems. We should teach about them as early as possible for students and professionals in this field. 
+To get even worse, these are slow and progressive problems. We should care as early as possible. 
 
 Joints and ligaments are vital and our body is often trying to overprotect them. Guess who is the guardian keeping joints and ligaments safe? Muscles.
 
