@@ -24,9 +24,13 @@ The bad news is that developers don't need to get older to show physical problem
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain, the list goes on and on. Developers can have any of these problems after some years of coding.  
 
-To get even worse, these are slow and progressive problems. We should care as early as possible. 
+To get even worse, these are slow and progressive problems. We should take preventive measures as early as possible.  
 
-Joints and ligaments are vital and our body is often trying to overprotect them. Guess who is the guardian keeping joints and ligaments safe? Muscles.
+-----
+
+Joints and ligaments are vital to our range of motion. A wider range of motion influences your body positively. If I can move well, physical and mental limits are easily overcome. 
+
+The joints and ligaments are so important that our body is often trying to overprotect them. Guess who is the guardian keeping joints and ligaments safe? Muscles.
 
 Among other things, muscles try their best to protect our joints and ligaments from bending or stretching over a certain limit. 
 
