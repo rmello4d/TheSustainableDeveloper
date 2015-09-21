@@ -10,13 +10,17 @@ They go layer after layer building a considerable chain of logical paths in thei
 
 Yes, they dress casually. Grooming is rarely a priority. Being simple saves time.  
 
-Like kids, they get along with each other quickly. All they need is to speak the same mother tongue. Do you know JavaScript ? Shit yes. (Smile). Let's talk !  
+Like kids, they get along with each other quickly. All they need is to speak the same mother tongue. 
+Do you know JavaScript ? 
+Shit yes. 
+(Smile). 
+Let's talk !  
 
 They have bugs to fix, called “debugging”. To debug is often hell. It requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in Armageddon. 
 
 If Developers don't see logical beauty or simplicity in a product,  oh boy, your technology or framework will be trashed without pity. They will not hesitate a second to spend energy elsewhere. 
 
-I’ve worked as a developer, project manager and project director and I can assure something else: they have an excellent sense for detecting bullshit, if being told. 
+I’ve worked as a developer, project manager and project director and I can assure you something else: they have an excellent sense for detecting bullshit, if being told. 
 
 As matter fact I know that, if this book did not pass your preliminary test, you are already moving on to another thing.  
 
