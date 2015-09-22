@@ -1,4 +1,4 @@
-# First Challenge
+# Personal Note
 
 Let’s start with my personal guidelines for writing this book. I decided to commit myself to the following rules while in front of a computer :
 
