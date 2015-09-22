@@ -1,3 +1,72 @@
+# The Muscles
+
+#####Physical activity is a popular mantra. 
+
+Get Strong. Build Muscles. Stay healthy. 
+
+Over the years, our society has raised consciousness about being active and about exercising our body. These messages are important and useful. 
+
+
+
+
+
+
+
+To an energy point of view, muscles are gas-guzzlers 
+
+
+
+
+Although exercising is important, to obtain maximum performance developers need to reach their joints, ligaments, tendons and cartilages. 
+
+Why is this crucial?  
+
+We all started life flexible. A baby can touch its heels on their head if needed.  
+
+Progressively we build tension in our body. As we grow older and older we get stiffer and stiffer, bent by life. 
+
+What is getting stiffer? Joints, ligaments, tendons and cartilages. 
+
+Ask any elderly person and they will often confirm: their pain is on the joints, tendons and ligaments. 
+
+The muscles? They work fine.
+
+The bad news is that developers don't need to get older to show physical problems related to joints, tendons and ligaments: 
+
+Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain, the list goes on and on. Developers can have any of these problems after some years of coding.  
+
+To get even worse, these are slow and progressive problems. We should take preventive measures as early as possible.  
+
+-----
+
+Joints and ligaments are vital to our range of motion. A wider range of motion influences your body positively. If I can move well, physical and mental limits are easily overcome. 
+
+The joints and ligaments are so important that our body is often trying to overprotect them. Guess who is the guardian keeping joints and ligaments safe? Muscles.
+
+Among other things, muscles try their best to protect our joints and ligaments from bending or stretching over a certain limit. 
+
+That is all good but if our muscles are protecting our joints and ligaments, why we often have problems later in life? 
+
+The key is that muscles keep our joints and ligaments under a limited range of motion. Safety is the body main concern. 
+
+If we don't challenge it, year after year this range gets shorter, toxins accumulate and we end up stiffer and stiffer. 
+
+Is there a safe way to open our joints and ligaments further? Yes and sure there is a specific branch of Yoga for that. 
+
+This Yoga technique challenges the joints in a  different way. It is not about strength, it is about release and trust. Nonetheless, this technique increases circulation by opening our joints and ligaments gently and safely. 
+
+Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
+
+To become a Sustainable Developer,  we need to transform our working hours into a 'health bank' for our joints, ligaments and deep tissue. 
+
+As for now, keep vivid the importance of our joints, ligaments and tendons for our overall health.
+
+Let's now talk about our brain. 
+<br />
+
+
+-------------
+
 Is it true that if we relax our mind we consume less energy ? Yes. We do that everyday at sleep, for example. 
 
 What happens when we sleep? We rest. 
