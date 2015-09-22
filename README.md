@@ -4,9 +4,7 @@ The act of coding demands a considerable mental and physical effort.
 
 As a result, most developers strain themselves while in front of the computer. Along the years, pain and inflammation may be a common feeling in their lives.  
 
-Is it possible to establish a sustainable coding practice ? 
-
-Is it possible to engage 6hs coding sessions and leave them with more energy than you had at the beginning ? 
+Is it possible to establish a sustainable coding practice ? Is it possible to engage 6hs coding sessions and leave them with more energy than you had at the beginning ? 
 
 Absolutely.  
 
@@ -28,7 +26,7 @@ Sorry.
  
 Rather, The Sustainable Developer understands how to use personal energy more efficiently. The body and mind get clear.  
 
-The Sustainable Developer is making the act of coding special to his body and mind as well. That alone, may transform your personal and professional life.    
+The Sustainable Developer is enhancing his body and mind during the act of coding. That alone, may transform your personal and professional life.    
 
 Also, this book is primarily meant for coders but I also invite non-coders to enjoy it.  
 
