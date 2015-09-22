@@ -17,9 +17,11 @@ Looks easy right ? Not at all.
 
 **Third Rule:** to notice that “I am having doubts about my writings”, then stop and refocus on the breath was probably the trickiest of the rules. My main goal here was to remind me about the root of everything: consciousness.  Why is so important to understand consciousness from your own experience ?  Do I need to instantiate consciousness or is it a global variable ?
 
-These questions and others are the inspiration for this book. As many Developers, myself included, we are not aware of how much we are draining our bodies daily while coding. 
+As many Developers, myself included, we are not aware of how much we are draining our bodies daily while coding. In my first 15 years of coding I developed 3 serious problems: Tendonitis, bulge disks and dupuytrens. 
 
-It is time for us to talk and discuss about self sustainability and the concrete actions we can take to improve our working experience.
+These problems almost ruined my career. In 2001 I found some relief by practicing Yoga and Meditation. I slowly re-engineer my habits and in 2007 I've started teaching and leading workshops on self-sustainability in Europe.
+
+It is time for us to talk and discuss about self sustainability and the concrete actions we can take to improve our work. 
 
 Let's do it.  
 
