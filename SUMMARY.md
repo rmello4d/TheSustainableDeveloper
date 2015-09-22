@@ -1,7 +1,7 @@
 # Summary
 
 * [introduction](README.md)
-* [First Challenge](a_first_example.md)
+* [Personal Note](a_first_example.md)
 * [Part 1 - The Basic elements](part_1_-_the_developers_path.md)
    * [The Developer](understanding_the_beast.md)
    * [The Yogi](the_yogi_machine.md)
