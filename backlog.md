@@ -1,3 +1,18 @@
+Is it true that if we relax our mind we consume less energy ? Yes. We do that everyday at sleep, for example. 
+
+What happens when we sleep? We rest. 
+
+How do we rest ? By not moving and by taking our mind to a dreamy state. Studies (*) confirm that our brain uses about 25% less oxygen while in deep sleep. 
+
+If at sleep the brain and the muscles are not consuming as much oxygen, to where is all that unused breathing oxygen going ? 
+
+Everywhere else. Organs, tissues, cells...
+
+After sleeping for 8 hours we feel recharged. Our whole body gets oxygenated and replenished. 
+
+
+
+
 Yin Yoga, one of the best current practices 
 
 ***The Complete Guide to Yin Yoga by Bernie Clark***
