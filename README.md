@@ -12,17 +12,11 @@ Absolutely.
 
 This book tackles self-sustainability. 
 
-Just to be clear, the Sustainable Developer is not a guru-ninja-master of all things in the universe. 
+Just to be clear, self-sustainability does not make you a guru-ninja-master of all things in the universe. You will probably not be transformed in a hybrid Bruce Lee, Linus Towards and Paramahansa Yogananda. 
 
 Sorry. 
  
-Rather, The Sustainable Developer understands how to use personal energy more efficiently. The body and mind get clear.  
-
-The Sustainable Developer is enhancing his body and mind during the act of coding. That alone, may transform your personal and professional life.    
-
-Also, this book is primarily meant for coders but I also invite non-coders to enjoy it.  
-
-Guru-ninja-master.
+Rather, the Sustainable Developer is enhancing his body and mind during the act of coding - that alone - may transform your personal and professional life.    
 
 
 ***
