@@ -1,3 +1,16 @@
+Probably no other culture has dedicated more time to understand the body and mind as have the Yogis. 
+
+As you will discover, there is an untapped value in the crossings of these two worlds: developers and yogis. They have lots in common. 
+
+Is this book about Yoga poses ? No. 
+
+Is this book showing how we can twirl our body in all directions ? No. 
+
+This book puts the developer as the starting point. From there, we  explore the techniques in Meditation and Yoga that are suitable for the developer. 
+
+
+
+
 # The Muscles
 
 #####Physical activity is a popular mantra. 
