@@ -14,27 +14,23 @@ Lets scrape their simple (not necessary easy) technique to keep energy at high l
 
 He is balanced and relaxed. 
 
-By not moving and by being at rest, a Yogi solves the first piece of our energy puzzle: muscles are big consumers of energy and oxygen in the body. 
-
-Our muscles play a big role in all the energy we consume while awake. Muscles use oxygen coming from our breathing to create energy. 
-
-We instinctively know this relationship between muscle activity and breathing. If we try to sprint or run, we have to "catch our breath".  
-
-In fact, our muscles devour oxygen when active: to move, stand, run, swim, etc. From the moment we wake up to the moment we fall asleep, muscles are active and helping with gravity. 
+By not moving and by being at rest, a Yogi solves the first piece of our beaming puzzle: muscles are big consumers of energy and oxygen in the body. 
 
 **In lotus position a Yogi meditates.** 
 
-Allow me to simplify the word meditation as the relaxing of your mind. We will go deeper into how that happens, but for now, please bare with me. 
+For now, lets simplify the word meditation as the relaxing of our mind. 
 
-A relaxed mind solves the second piece of our energy puzzle: the brain is another big consumer of energy and oxygen in the body. 
+A relaxed mind solves the second piece of our beaming puzzle: the brain is another big consumer of energy and oxygen in the body. 
 
 Lets go back to our Yogi and summarize what is going on:
 
-His posture is balanced. His muscles are relaxed. His brain is going layer by layer to a deep state of meditation.  His energy is not being wasted by bad posture, excessive muscular activity, worries or frenetic thinking. The Yogi is oxygenating organs, cells and tissues while awake.
+Its posture is balanced. Its muscles are relaxed. Its brain is going layer by layer to a deep state of meditation.  
 
-He may decide to breathe a notch up and increase even further the recharge of his body, like a fast charging battery. 
+The Yogis energy is not being waste by bad posture, excessive muscular activity, worries or frenetic thinking. 
 
-After awhile, he turns into those radiant beams of light. Energy is overflowing his body. 
+The Yogis may decide to breathe a notch up and increase even further the recharge of its body.
+
+After awhile, it turns into those radiant beams of light. Energy is overflowing its body. 
 
 Yogis raise their own energy to an optimal state and by a sustainable practice, keep that energy ready for use. 
 
