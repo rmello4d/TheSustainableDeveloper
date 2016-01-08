@@ -26,7 +26,7 @@ Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain, the list goes on 
 
 To get even worse, these are slow and progressive problems. We should take preventive measures as early as possible.  
 
------
+But lets understand even further.
 
 Joints and ligaments are vital to our range of motion. A wider range of motion influences your body positively. If I can move well, physical and mental limits are easily overcome. 
 
@@ -38,17 +38,17 @@ That is all good but if our muscles are protecting our joints and ligaments, why
 
 The key is that muscles keep our joints and ligaments under a limited range of motion. Safety is the body main concern. 
 
-If we don't challenge it, year after year this range gets shorter, toxins accumulate and we end up stiffer and stiffer. 
+If we don't challenge this limit, year after year the range gets shorter. Toxins slowly accumulate and we end up stiffer and stiffer. 
 
 Is there a safe way to open our joints and ligaments further? Yes and sure there is a specific branch of Yoga for that. 
 
-This Yoga technique challenges the joints in a  different way. It is not about strength, it is about release and trust. Nonetheless, this technique increases circulation by opening our joints and ligaments gently and safely. 
+Some Yoga techniques challenge the joints in a  different way. It is not about strength, it is about release and trust. Nonetheless, these techniques increases circulation by opening our joints and ligaments gently and safely. 
 
 Imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
 To become a Sustainable Developer,  we need to transform our working hours into a 'health bank' for our joints, ligaments and deep tissue. 
 
-As for now, keep vivid the importance of our joints, ligaments and tendons for our overall health.
+As for now, keep vivid the importance of our joints, ligaments and tendons. 
 
 Let's now talk about our brain. 
 <br />
