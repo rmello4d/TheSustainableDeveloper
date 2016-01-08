@@ -8,7 +8,7 @@ They can bypass regular sleep when passionate by an idea.
 
 They go layer after layer building a considerable chain of logical paths in their brains. 
 
-Yes, they dress casually,  grooming is rarely a priority and being simple saves time.  
+Yes, they dress casually, being simple saves time.  
 
 They get along with each other quickly. All they need is to speak the same mother tongue. 
 
