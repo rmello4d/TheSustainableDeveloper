@@ -12,7 +12,7 @@ Absolutely.
 
 This book tackles self-sustainability. 
 
-As result, the Sustainable Developer is enhancing his body and mind during the act of coding, like a Yogi.
+As result, the Sustainable Developer is enhancing its body and mind during the act of coding, like a Yogi.
 
 In so many ways, Yogis and Developers have similar obsessions and mindset. Lets get the best from them in this book. 
 
