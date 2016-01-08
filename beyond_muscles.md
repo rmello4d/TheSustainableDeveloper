@@ -1,4 +1,4 @@
-# The Muscles
+# The Joints
 
 #####Physical activity is a popular mantra. 
 
