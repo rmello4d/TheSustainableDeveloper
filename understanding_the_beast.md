@@ -2,7 +2,7 @@
 
 ##### Developers are tough.
 
-They can sit 12 hours in front of a computer. 
+They can sit 16 hours in front of a computer. 
 
 They can bypass regular sleep when passionate by an idea. 
 
