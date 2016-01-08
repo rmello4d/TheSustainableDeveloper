@@ -8,7 +8,7 @@ In that scene, you are one of our probable descendants, a homo habilis. You just
 
 We will be looking for sharp stones to make spears in the savanna. Also, there was no grammatical language yet. You all are using only primal sounds to communicate. 
 
-After 10 mins walking, our small group reach an open area, we are all peacefully looking for perfect stones. 
+After 10 mins walking, our small group reach an open area. We are all peacefully looking for perfect stones. 
 
 Not far from there, a salivating and hungry lion is approaching the group.
 
@@ -36,7 +36,7 @@ Unfortunately, with no structured language and without words, no exact explanati
 
 Also, in 2 months you will not be able to say “Do you remember Jay ? the guy killed by the lion 2 months ago ?”, “Yes! Jay, I miss him, he was a good man”.
 
-Without language, there are no representation of the past or future. Without language our brain is mostly instincts and emotions. If you could go back 2 million years ago, you would be a “here and now” creature. Like the lion.   
+Without language, there are no representation of the past or future. Without language our brain is mostly instincts and emotions. If you could go back 2 million years ago, you would be a “here and now” creature. Like the lion or a Yogis master.  
 
 Language is fundamental and probably one of the most powerful tools in human history.  
 
