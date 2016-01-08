@@ -22,19 +22,17 @@ For now, lets simplify the word meditation as the relaxing of our mind.
 
 A relaxed mind solves the second piece of our beaming puzzle: the brain is another big consumer of energy and oxygen in the body. 
 
-Lets go back to our Yogi and summarize what is going on:
+Lets go back to our Yogi and summarize what is going on for this beaming figure:
 
 Its posture is balanced. Its muscles are relaxed. Its brain is going layer by layer to a deep state of meditation.  
 
-The Yogis energy is not being waste by bad posture, excessive muscular activity, worries or frenetic thinking. 
+The Yogi energy is not being waste by bad posture, excessive muscular activity, worries or frenetic thinking. 
 
-The Yogis may decide to breathe a notch up and increase even further the recharge of its body.
-
-After awhile, it turns into those radiant beams of light. Energy is overflowing its body. 
+After awhile, the Yogi turns into those radiant beams of light. Energy is overflowing its body. 
 
 Yogis raise their own energy to an optimal state and by a sustainable practice, keep that energy ready for use. 
 
-Do we need to go in a cave for 20 years to learn that ? If our goal in life is to be Yogi, probably yes. Though, this is not our case. 
+Do we need to go in a cave for 20 years to learn that ? If our goal in life is to be Yogi, probably yes. Though, this is probably not our case. 
 
 Can we take advantage of some of their teachings by applying these techniques to our own coding practice ?
 
