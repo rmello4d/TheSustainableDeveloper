@@ -12,7 +12,7 @@ Absolutely.
 
 This book tackles self-sustainability. 
 
-The Sustainable Developer is enhancing his body and mind during the act of coding - that alone - may transform your personal and professional life.    
+As result, the Sustainable Developer is enhancing his body and mind during the act of coding. That alone may transform your personal and professional life. 
 
 
 ***
