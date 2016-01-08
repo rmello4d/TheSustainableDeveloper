@@ -22,9 +22,9 @@ Let's talk !
 
 They have bugs to fix, called “debugging”. To debug is often hell. It requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in Armageddon. 
 
-If Developers don't see logical beauty or simplicity out of the box,  oh dear, your technology or framework will be trashed without pity. They do not hesitate a second to spend energy elsewhere. 
+Today's developers must see logical beauty or simplicity in your technology or framework. Otherwise, they will spend energy elsewhere. 
 
-Developers have a deep love for automating everything around them. They love to do things faster and with less effort.
+Developers have a deep love for automating everything around them. They love to do things faster and with less effort. Do not confuse that with laziness.
 
 They are bodybuilders for logical thinking, stepping over pain and stress while muscling their thoughts. 
 
