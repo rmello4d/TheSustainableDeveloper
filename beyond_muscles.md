@@ -10,7 +10,7 @@ Although exercising is important, to obtain maximum performance developers need 
 
 Why is this crucial?  
 
-We all started life flexible. A baby can touch its heels on their head if needed.  
+We all started life flexible. A baby can touch its heels on its head if needed.  
 
 Progressively we build tension in our body. As we grow older and older we get stiffer and stiffer, bent by life. 
 
