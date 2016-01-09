@@ -32,9 +32,11 @@ The Yogi energy is not being waste by bad posture, excessive muscular activity, 
 
 After awhile, the Yogi turns into those radiant beams of light. Energy is overflowing its body. 
 
+Is there a moment in our day that we do the same as the beaming Yogi? Yes. When we are sleeping we do not move much and our brain goes to a deep dreamland. As result, like the Yogi, the energy from breathing is being redirect to nurture our organs and deep tissues. In the morning, after a good night of sleep, we feel recharged.
+
 Yogis raise their own energy to an optimal state and by a sustainable practice, keep that energy ready for use. 
 
-Do we need to go in a cave for 20 years to learn that ? If our goal in life is to be Yogi, probably yes. Though, this is probably not our case. 
+Do we need to go in a cave for 20 years to learn that? If our goal in life is to be Yogi, probably yes. Though, this is probably not our case. 
 
 Can we take advantage of some of their teachings by applying these techniques to our own coding practice ?
 
