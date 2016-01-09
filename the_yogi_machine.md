@@ -16,6 +16,8 @@ He is balanced and relaxed.
 
 By not moving and by being at rest, a Yogi solves the first piece of our beaming puzzle: muscles are big consumers of energy and oxygen in the body. 
 
+The Yogi is redirecting all the energy created from breathing to something else other than muscles.
+
 **In lotus position a Yogi meditates.** 
 
 For now, lets simplify the word meditation as the relaxing of our mind. 
