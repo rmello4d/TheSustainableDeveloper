@@ -10,7 +10,7 @@ When that happens, language is a magical tool.
 
 This first step, to create meaningful sounds, is not unique to us, other animals are also capable of the same. 
 
-But, for us humans, an incredible next step happened. We were able to 'say' and to concatenate sounds in our brain without using our vocal chords.
+But, we know that at least for humans, an incredible next step happened. We were able to 'say' and to concatenate sounds in our brain without using our vocal chords.
 
 What an awesome trick ! It created a continuous flow of sounds and ideas in our heads. A life changing ability. 
 
