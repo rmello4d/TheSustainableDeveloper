@@ -10,11 +10,7 @@ Is it possible to establish a sustainable coding practice ? Is it possible to en
 
 Absolutely.  
 
-This book tackles self-sustainability. 
-
-As result, the Sustainable Developer is enhancing its body and mind during the act of coding, like a Yogi.
-
-In so many ways, Yogis and Developers have similar obsessions and mindset. Lets get the best from them in this book. 
+This book tackles self-sustainability and the art of enhancing your body and mind during the act of coding.   
 
 Enjoy.
 
