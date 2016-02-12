@@ -24,10 +24,11 @@ Bottom line: The brain is not our puppet. It is an organ too complex, powerful a
 
 Having said that, if we can't fully control it, what's all the fuss about it ?
 
-The fuss is about the brain areas under our control. To understand these activities is vital if you want to run your brain cleaner and with less energy waste. 
+The fuss is about the brain activities under our control. A deeper look into these activities is crucial, if you want to run your brain cleaner and with less energy waste. 
+
 No magical power needed. 
 
-Let's now define these brain areas under our control. 
+Let's now define brain activities that are under our control. 
 <br />
 <br />
 <br />
