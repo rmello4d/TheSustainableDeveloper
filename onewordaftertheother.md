@@ -8,14 +8,17 @@ Languages are born by the acceptance of sounds and meanings by a certain group o
 
 When that happens, language is a magical tool. 
 
-This first step, to create meaningful sounds, is not unique to us, other animals are also capable of the same. 
+This first step, to create meaningful sounds, is clear not unique to us. Other animals are also capable of the same. 
 
-But, we know that at least for humans, an incredible next step happened. We were able to 'say' and to concatenate sounds in our brain without using our vocal chords.
+But for humans, as far as we know, an incredible next step happened. 
+
+We were able to 'say' and to concatenate sounds in our brain without using our vocal chords.
 
 What an awesome trick ! It created a continuous flow of sounds and ideas in our heads. A life changing ability. 
 
 In the context of this book, let’s call this moment 'thinking'. 
-How does thinking operates in our head ?  
+
+So, How does thinking operates in our head ?  
 
 One sound after the other.  
 
@@ -23,11 +26,11 @@ We think by putting sounds from our known language one after the other in our he
 
 By thinking such as "I am going to the supermarket", we have to say every sound in a mental narrative.  
 
-This concept of thinking is different than imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. Rather, with thinking, we are concatenating one sound after the other with our known language.
+This concept of thinking is different than using our imagination and dreams. With imagination we are putting images one after the other, creating a cinema effect inside our head. Rather, with thinking, we are concatenating one sound after the other with our known language.
 
-Just to emphasize, the language you know is the root of common thinking. To opposite this idea,  imagine we have no clue about the sounds and meanings of the Finnish language. Is it possible to think in Finnish ? No. 
+Just to emphasize, the language you know is the root of your thinking. To opposite this idea,  imagine you have no clue about the sounds and meanings of the Finnish language. Is it possible to think in Finnish ? No. 
 
-Also, we learn a language over time. It is slow and progressive effort, sound by sound, meaning by meaning.  
+Now lets have a jaw-dropping fact. We learn a language over time. It is a slow and progressive effort, sound by sound, meaning by meaning.  
 Babies learn their first words around 12 months old. With 18 months, they know between 50 and 100 words. At 24 months 200 to 300 words. They jump to a 1000 one year later. 
 
 Between 5 and 7 they've accumulated a vocabulary between 3000 to 5000 words. 
@@ -36,15 +39,17 @@ An adult may reach 40,000 words and we estimate that English speaking University
 
 As a species, this is phenomenal. 
 
-We've naturally invested time accumulating this knowledge. As result, thinking becomes the predominant mode of our mental activity as adults.  
+Just imagine the effort accumulating all this knowledge. As result, thinking becomes the predominant mode of our mental activity as adults.  
 
 Thinking is great and practical but it may create a dark side, a repetitive cycle, a forever telling a story in our heads.
 
-Have we ever stop to ask how expensive "thinking" is?
+Have you ever stop and ask yourself how expensive "thinking" is?
 
 Thinking is brutally expensive. Every sound has to be memorized  by a series of neuron paths activations and repetitions. 
 
-When you are "thinking", your brain is like a fireworks show. Thinking also does not accept simultaneous action. We cannot think 2 stories *at the exactly same time* in our heads.
+When you are "thinking", your brain is like a fireworks show.
+
+This high cost may be one of the reasons why thinking does not accept simultaneous action. We cannot think 2 stories *at the exactly same time* in our heads.
 
 Sure, we can hold 2 or more stories in our heads but we will be switching from one to the other to keep their meanings alive. Just try these 2 phrases:
 
@@ -56,7 +61,7 @@ Can we say both phrases in our mind at exactly same time ?
 
 No.
 
-Just compare this limitation to our ability to process things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time. 
+Just compare this limitation to our ability to process things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time and your brain is completely cool about it. 
 
 For thinking, the brain limits itself, no parallelism is possible. It requires a great deal of focus, memory, logic and energy to create the sound sequences and to follow them into meanings in our heads. 
 
@@ -74,7 +79,7 @@ One sound after the other.
 
 Is it the same for images ? 
 
-Now lets check something like a hydrogen car: our imagination. 
+Now lets check something like the electric car: our imagination. 
 
 <br />
 <br />
