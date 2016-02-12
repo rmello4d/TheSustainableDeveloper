@@ -4,17 +4,17 @@
 
 A life spent mastering himself. Everything else is not important. 
 
-He can go days without much food or water. He can sit and meditate for hours. He may go to extremes to test his body and mind. 
+He may go days without much food or water. He may sit and meditate for hours. He tests his body and mind to extremes. 
 
 How about the beaming part ? After all, Yogis have been depicted with radiant beams of light. 
 
-Lets scrape their simple (not necessary easy) technique to keep energy at high levels:
+Lets talk about their simple (not necessary easy) technique to keep energy at beams of light levels, first:
 
 **In lotus position a Yogi does not move.** 
 
 He is balanced and relaxed. 
 
-By not moving and by being at rest, a Yogi solves the first piece of our beaming puzzle: muscles are big consumers of energy and oxygen in the body. 
+By not moving and by being physically at rest, a Yogi solves the first piece of our beaming puzzle: muscles are big consumers of energy and oxygen in the body. 
 
 The Yogi is redirecting all the energy created from breathing to something else other than muscles.
 
@@ -24,17 +24,17 @@ For now, lets simplify the word meditation as the relaxing of our mind.
 
 A relaxed mind solves the second piece of our beaming puzzle: the brain is another big consumer of energy and oxygen in the body. 
 
-Lets go back to our Yogi and summarize what is going on for this beaming figure:
-
-Its posture is balanced. Its muscles are relaxed. Its brain is going layer by layer to a deep state of meditation.  
+These 2 simple actions summarize what is going on. In other words: 
 
 The Yogi energy is not being waste by bad posture, excessive muscular activity, worries or frenetic thinking. 
 
-After awhile, the Yogi turns into those radiant beams of light. Energy is overflowing its body. 
+The Yogi energy is being redirected to tissues and organs. After awhile, energy is overflowing its body. 
 
-Is there a moment in our day that we do the same as the beaming Yogi? Yes. When we are sleeping we do not move much and our brain goes to a deep dreamland. As result, like the Yogi, the energy from breathing is being redirect to nurture our organs and deep tissues. In the morning, after a good night of sleep, we feel recharged.
+Is there a moment in our day that we do something similar? Yes. When we are sleeping we do not move much and our brain goes to a deep state. 
 
-Yogis raise their own energy to an optimal state and by a sustainable practice, keep that energy ready for use. 
+As result, after a good night of sleep, we feel recharged. The energy produced by breathing was being used to nurture our organs and deep tissues.
+
+Yogis center their lifes around sustainable ways to spend and produce self-energy. They raise self-energy to an optimal state and by a sustainable practice, keep that energy ready for use. 
 
 Do we need to go in a cave for 20 years to learn that? If our goal in life is to be Yogi, probably yes. Though, this is probably not our case. 
 
