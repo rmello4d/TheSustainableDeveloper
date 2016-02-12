@@ -20,11 +20,11 @@ Shit yes.
 
 Let's talk !  
 
-They have bugs to fix, called “debugging”. To debug is often hell. It requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in Armageddon. 
+Developers have bugs to fix, which is called “debugging”. To debug is often hell. It requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in Armageddon. 
 
-Today's developers must see logical beauty or simplicity in your technology or framework. Otherwise, they will spend energy elsewhere. 
+They also appreciate simplicity to higher levels. If they do not see logical beauty in some technology or framework,  they will spend energy elsewhere. 
 
-Developers have a deep love for automating everything around them. They love to do things faster and with less effort. Do not confuse that with laziness.
+Developers have a deep love for automating everything around them. They need to do things faster and with less effort otherwise their work becomes unbearable. Do not confuse that with laziness.
 
 They are bodybuilders for logical thinking, stepping over pain and stress while muscling their thoughts. 
 
