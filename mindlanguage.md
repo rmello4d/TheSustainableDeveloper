@@ -4,11 +4,13 @@
 
 Visualize earth as a wild place, no buildings, no cars, no civilization. A magnificent blue planet just governed by cruel jungle law.
 
-In that scene, you are one of our probable descendants, a homo habilis. You just left your group of about 30 people together with 8 other tribal members. 
+In that scene, you are one of our descendants, a homo habilis. You just left your group of about 30 people.  
 
-We will be looking for sharp stones to make spears in the savanna. Also, there was no grammatical language yet. You all are using only primal sounds to communicate. 
+Together with 8 other tribal members, you will be looking for sharp stones to make spears in the savanna. 
 
-After 10 mins walking, our small group reach an open area. We are all peacefully looking for perfect stones. 
+Very important, there was no grammatical language yet. You and your friends are using primal sounds to communicate. 
+
+After 10 mins walking, our small group reach an open area in the savana. We are all peacefully looking for perfect stones. 
 
 Not far from there, a salivating and hungry lion is approaching the group.
 
@@ -20,7 +22,7 @@ You are the first to notice the attack. You howl with all our lungs to alarm eve
 
 Panic.
 
-By chance, you know exactly how to escape because 10 mins before you made a turn and saw a safe place hidden in the savanna. This place was certainly not accessible by the lion.
+By chance, you know exactly how to escape because 5 mins before you made a turn and saw a safe place, hidden in the savana. 
 
 Everybody could be saved. You try to yell but your friends cannot understand precisely your primal sounds.
 
@@ -36,7 +38,7 @@ Unfortunately, with no structured language and without words, no exact explanati
 
 Also, in 2 months you will not be able to say “Do you remember Jay ? the guy killed by the lion 2 months ago ?”, “Yes! Jay, I miss him, he was a good man”.
 
-Without language, there are no representation of the past or future. Without language our brain is mostly instincts and emotions. If you could go back 2 million years ago, you would be a “here and now” creature. Like the lion or a Yogis master.  
+Without language, there are no clear representation of the past or future. Without language our brain is mostly instincts and emotions. If you could go back 2 million years ago, you would be a “here and now” creature. Like the lion or a Yogis master.  
 
 Language is fundamental and probably one of the most powerful tools in human history.  
 
