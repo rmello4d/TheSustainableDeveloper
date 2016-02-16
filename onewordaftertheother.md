@@ -45,7 +45,7 @@ Thinking is great and practical but it may create a dark side, a repetitive cycl
 
 Have you ever stop and ask yourself how expensive "thinking" is?
 
-Thinking is brutally expensive. Every sound has to be memorized  by a series of neuron paths activations and repetitions. 
+Thinking is brutally expensive. Every sound was memorized  by activating, usually by repetition, a series of neuron paths. 
 
 When you are "thinking", your brain is like a fireworks show.
 
@@ -61,11 +61,11 @@ Can we say both phrases in our mind at exactly same time ?
 
 No.
 
-Just compare this limitation to our ability to process things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time and your brain is completely cool about it. 
+Just compare this mental limitation to our ability to process things in parallel. Right now we are reading, listening and probably regulating our hormonal levels at the same time and your brain is cool about it. 
 
 For thinking, the brain limits itself, no parallelism is possible. It requires a great deal of focus, memory, logic and energy to create the sound sequences and to follow them into meanings in our heads. 
 
-As an adult, if we are thinking all the time, we will get exhausted. Like a mental marathon runner. 
+As an adult, if we are thinking all the time, we get exhausted. Like a mental marathon runner. 
 
 This is not a criticism. It is just a fact about understanding the energy consumption or our thoughts.
 
@@ -73,7 +73,7 @@ If we are thinking on how to solve a problem and we are passionate about it, tha
 
 If we are just  babbling all day long in our heads, then we are probably wasting energy. 
 
-Our babbling mind is like a gas-guzzler sucking our oxygen and energy for a low output. 
+Our babbling mind is like a gas-guzzler sucking our energy for a low output. 
 
 One sound after the other. 
 
