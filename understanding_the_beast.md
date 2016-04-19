@@ -10,17 +10,15 @@ They go layer after layer building a considerable chain of logical paths in thei
 
 Yes, they dress casually, being simple saves time.  
 
-Developers get along with each other quickly. All they need is to speak the same mother tongue. 
+Developers get along with each other quick. All they need is to speak the same mother tongue: 
 
-Do you know JavaScript ? 
+Developer: Do you know JavaScript ? 
 
-Shit yes. 
+Strange : Shit. Yes! 
 
-(Smile). 
+Developer : (Smile). Whaaaats up!?!
 
-Let's talk !  
-
-Developers have bugs to fix, which requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to a few days in Armageddon. 
+Developers have bugs to fix, which requires to step into someone else’s shoes and understand their logic. It can take from 5 mins to days in complete Armageddon. 
 
 They also appreciate simplicity to higher levels. If they do not see logical beauty in some technology or framework,  they will spend energy elsewhere. 
 
