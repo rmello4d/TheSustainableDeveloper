@@ -11,7 +11,7 @@ If I doubt my writings or if I get indecisive about what to write, first I shoul
 
 Looks easy right ? Not at all. 
 
-**First Rule:** to find a body posture that is well balanced and consumes the least amount of energy is hard work. My main goal here was to stay between 4 to 6 hours in front of the computer per day and finish any session with more energy then when I started. Is it possible ? How personal energy is consumed? Is there one specific posture ? Would the same tactics apply to 2hs or 12hs of coding ? 
+**First Rule:** to find a body posture that is well balanced and consumes the least amount of energy is hard work. My main goal here was to stay between 4 to 6 hours in front of the computer per day and finish any session with more energy then when I started. Is it possible ? How do I consume my own energy? Is there one specific posture ? Would the same tactics apply to 2hs or 12hs of coding ? 
 
 **Second Rule:** to focus on my breath before touching the keyboard seemed easy but respecting this rule at all times required a Confucius determination. My main goal here was to connect with my body before “Total Thought Immersion”. Why is this relevant ? How Total Thought Immersion works ? Can I call breath.init() before any action ??
 
