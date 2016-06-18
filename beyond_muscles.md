@@ -24,7 +24,7 @@ The bad news is that developers don't need to get older to show physical problem
 
 Tendonitis, Dupuytrens, Carpal Tunnel, Bulge Disks, back pain, the list goes on and on. Developers can have any of these problems after some years of coding.  
 
-To get even worse, these are slow and progressive problems. We should take preventive measures as early as possible.  
+To get even worse, these are slow and progressive problems. It talk some years to feel pain and we should take preventive measures as early as possible.  
 
 But lets understand even further.
 
@@ -38,14 +38,15 @@ That is all good but if our muscles are protecting our joints and ligaments, why
 
 The key is that muscles keep our joints and ligaments under a limited range of motion. Safety is the body main concern. 
 
-If we don't challenge this limit, year after year the range gets shorter. Toxins slowly accumulate in the joints and ligaments, and we end up stiffer and stiffer. 
+If we don't challenge this safety limit, year after year the range gets shorter. Toxins slowly accumulate in the joints and ligaments, and we end up stiffer and stiffer. 
 
-Is there a safe way to open our joints and ligaments further? Yes, which will cover in details in the second part of this book. 
+Is there a safe way to open our joints and ligaments further and safely ? Yes, which will cover in details in the second part of this book. 
+
 For now, imagine yourself as a developer *Homo erectus* at 90 years old. No joints, discs, tendons or ligaments problems. 
 
-To become a Sustainable Developer,  we need to transform our working hours into a 'health bank' for our joints, ligaments and deep tissue. 
+In the path to become a Sustainable Developer, we must transform our working hours into a 'health bank' for our joints, ligaments and deep tissue. 
 
-Let's now move to another key are for developers,  talk about energy consumption at the brain level. 
+Let's now move to another key area for developers, let's talk about energy consumption at the brain level. 
 <br />
 <br />
 <br />
