@@ -18,13 +18,13 @@ On top of that, the brain also regulates important activities in our body, from 
 
 The brain is a vital organ and nature was smart enough to take the control off our hands. 
 
-Do we control our heart ? Our liver ? No, and that is a good thing. Vital organs are self regulated and independent of our control. 
+Do we control our heart ? Our liver ? Not really, and that is a good thing. Vital organs are self regulated and independent of our control. 
 
 Bottom line: The brain is not our puppet. It is an organ too complex, powerful and designed to go beyond our control.
 
 Having said that, if we can't fully control it, what's all the fuss about it ?
 
-The fuss is about the brain activities under our control. A deeper look into these activities is crucial, if you want to run your brain cleaner and with less energy waste. 
+The fuss is about the brain activities under our control. A deeper look into these activities is crucial, if you want to run our brain cleaner and with less energy waste. 
 
 No magical power needed. 
 
