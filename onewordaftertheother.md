@@ -4,7 +4,7 @@
 
 Then, by repetition, others reproduced the same sound and meaning. 
 
-Languages are born by the acceptance of sounds and meanings by a certain group of people. 
+Languages are born by the growing acceptance of sounds and meanings by a certain group of people.
 
 When that happens, language is a magical tool. 
 
@@ -14,7 +14,7 @@ But for humans, as far as we know, an incredible next step happened.
 
 We were able to 'say' and to concatenate sounds in our brain without using our vocal chords.
 
-What an awesome trick ! It created a continuous flow of sounds and ideas in our heads. A life changing ability. 
+What an awesome trick ! It created a continuous flow of sounds and ideas in our heads. Just stop in amusement with such beautiful and simple thing. Certainly, a life changing ability. 
 
 In the context of this book, let’s call this moment 'thinking'. 
 
@@ -31,7 +31,7 @@ This concept of thinking is different than using our imagination and dreams. Wit
 Just to emphasize, the language you know is the root of your thinking. To opposite this idea,  imagine you have no clue about the sounds and meanings of the Finnish language. Is it possible to think in Finnish ? No. 
 
 Now lets have a jaw-dropping fact. We learn a language over time. It is a slow and progressive effort, sound by sound, meaning by meaning.  
-Babies learn their first words around 12 months old. With 18 months, they know between 50 and 100 words. At 24 months 200 to 300 words. They jump to a 1000 one year later. 
+Babies learn their first words around 12 months old. With 18 months, they know between 50 to 100 words. At 24 months 200 to 300 words. They jump to a 1000 one year later. 
 
 Between 5 and 7 they've accumulated a vocabulary between 3000 to 5000 words. 
 
@@ -45,11 +45,11 @@ Thinking is great and practical but it may create a dark side, a repetitive cycl
 
 Have you ever stop and ask yourself how expensive "thinking" is?
 
-Thinking is brutally expensive. Every sound was memorized  by activating, usually by repetition, a series of neuron paths. 
+Thinking is brutally expensive. Every sound must be memorized first,  usually by repetition.  Then, a series of neuron paths will be activated and, over time and effort that knowledge becomes graved in our brain. 
 
-When you are "thinking", your brain is like a fireworks show.
+When you are thinking, your brain is like a fireworks show. Every sound must be recover, activated, linked and released. 
 
-This high cost may be one of the reasons why thinking does not accept simultaneous action. We cannot think 2 stories *at the exactly same time* in our heads.
+Thinking also does not accept simultaneous action. We cannot think 2 stories *at the exactly same time* in our heads.
 
 Sure, we can hold 2 or more stories in our heads but we will be switching from one to the other to keep their meanings alive. Just try these 2 phrases:
 
@@ -65,26 +65,22 @@ Just compare this mental limitation to our ability to process things in parallel
 
 For thinking, the brain limits itself, no parallelism is possible. It requires a great deal of focus, memory, logic and energy to create the sound sequences and to follow them into meanings in our heads. 
 
-As an adult, if we are thinking all the time, we get exhausted. Like a mental marathon runner. 
+As an adult, since we are thinking all the time, we get exhausted. Like a mental marathon runner. 
 
-This is not a criticism. It is just a fact about understanding the energy consumption or our thoughts.
+This is not a criticism. It is just our experience and we should understanding the energy consumption or our thoughts.
 
 If we are thinking on how to solve a problem and we are passionate about it, that is wonderful! Keep thinking hard. 
 
 If we are just  babbling all day long in our heads, then we are probably wasting energy. 
 
-Our babbling mind is like a gas-guzzler sucking our energy for a low output. 
+This distinction is very important. 
 
-One sound after the other. 
+In sustainability you try to avoid spend energy for a low output. For the mind, it could be the same, one sound after the other. 
 
 Is it the same for images ? 
 
-Now lets check something like the electric car: our imagination. 
+Now lets check something like the electric car. Our imagination. 
 
-<br />
-<br />
-<br />
-<br />
 
 ***
 
