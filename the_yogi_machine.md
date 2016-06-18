@@ -43,10 +43,7 @@ Absolutely.
 As we will see, it goes beyond just breathing without moving. It will need balance, consciousness and a developer’s mindset. 
 
 But first, let's understand the logic and framework of our body energy comsuption. 
-<br />
-<br />
-<br />
-<br />
+
 
 
 ***
