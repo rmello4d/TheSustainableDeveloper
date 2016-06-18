@@ -16,7 +16,7 @@ He is balanced and relaxed.
 
 By not moving and by being physically at rest, a Yogi solves the first piece of our beaming puzzle: muscles are big consumers of energy and oxygen in the body. 
 
-If you don't move, energy created from breathing to something else other than muscles. But to Where ? 
+If you don't move, energy created from breathing is going somewhere else other than muscles. But to Where ? 
 
 **In lotus position a Yogi meditates.** 
 
