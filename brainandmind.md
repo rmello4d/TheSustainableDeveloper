@@ -12,7 +12,7 @@ It will be out of our scope to impose a definition that can settle the different
 
 In the context of this book, lets define mind as the areas of the brain susceptible to some control.
 
-To be more precise, concepts such as focus, memory, thoughts, reasoning and judgments fall in that category.  We have some control over these brain activities. Note that we did not added consciousness to the list, we will see why later. 
+To be more precise, concepts such as focus, memory, thoughts, reasoning and judgments fall in that category.  We have some control over these brain activities. Note that I have not added consciousness to the list, we will see why later. 
 
 Let's take our memory for example. Memory is an area of our brain that we can apply some control. Can we remember some of the things happened with us yesterday? Hopefully yes.
 
@@ -22,7 +22,7 @@ This distinction between brain and mind is a first step to understand how energy
 
 Next step is to explore some essential elements of our minds that impact energy consumption. 
 
-First is 'language', the energy eater, the gas-guzzler.  
+First is 'language',  the gas-guzzler.  
 
 
 
