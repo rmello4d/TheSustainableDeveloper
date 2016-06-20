@@ -1,4 +1,4 @@
-#Brain Control
+#The Brain
 
 Can we control our brain ?
 
