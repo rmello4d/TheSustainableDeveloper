@@ -10,9 +10,9 @@
    * [The Mind](brainandmind.md)
    * [The Language](mindlanguage.md)
    * [Thinking](onewordaftertheother.md)
+   * The imagination
 * [Part 2 - The Sustainable Developer]
 * [Under Construction](alert.md)
 * [Extras]
    * [About the Author](authorsnote.md)
-
 
