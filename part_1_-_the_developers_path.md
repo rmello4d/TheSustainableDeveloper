@@ -32,5 +32,5 @@ trough of developer"
 
 &nbsp;
 
-***The first part of this book tackles some of the main ideas to understand why sustainability should also be aplied to the self. ***
+***The first part of this book pledge that sustainability should also be aplied to the self. ***
 
