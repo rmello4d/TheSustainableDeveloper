@@ -1,4 +1,4 @@
-# Part 1 - The Developer's path
+# Part 1 - The Basic Elements
 
 *developer dɪˈvɛləpə(r)*
 *
@@ -29,4 +29,8 @@ trough of developer"
 ```
 
 ##### *google.com*
+
+&nbsp;
+
+***The first part of this book tackles some of the main ideas to understand why sustainability should also be aplied to the self. ***
 
