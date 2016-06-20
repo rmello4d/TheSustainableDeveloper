@@ -1,2 +1,2 @@
-# The imagination
+# The Imagination
 
