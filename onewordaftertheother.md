@@ -10,11 +10,11 @@ When that happens, language is a magical tool.
 
 This first step, to create meaningful sounds, is clear not unique to us. Other animals are also capable of the same. 
 
-But for humans, as far as we know, an incredible next step happened. 
+But for humans, an incredible next step happened:
 
-We were able to 'say' and to concatenate sounds in our brain without using our vocal chords.
+We were able to 'say' sounds in our brain without using our vocal chords.
 
-What an awesome trick ! It created a continuous flow of sounds and ideas in our heads. Just stop in amusement with such beautiful and simple thing. Certainly, a life changing ability. 
+What an awesome trick ! It created a continuous flow of sounds and ideas in our heads.  Certainly, a life changing ability supported by the language learning. 
 
 In the context of this book, let’s call this moment 'thinking'. 
 
@@ -39,17 +39,17 @@ An adult may reach 40,000 words and we estimate that English speaking University
 
 As a species, this is phenomenal. 
 
-Just imagine the effort accumulating all this knowledge. As result, thinking becomes the predominant mode of our mental activity as adults.  
+Just imagine the effort and time accumulating all this knowledge. As result, thinking becomes the predominant mode of our mental activity as adults.  
 
 Thinking is great and practical but it may create a dark side, a repetitive cycle, a forever telling a story in our heads.
 
 Have you ever stop and ask yourself how expensive "thinking" is?
 
-Thinking is brutally expensive. Every sound must be memorized first,  usually by repetition.  Then, a series of neuron paths will be activated and, over time and effort that knowledge becomes graved in our brain. 
+Thinking is brutally expensive. Every sound must be memorized first,  usually by repetition.  Then, a series of neuron paths are activated and, over time and effort that knowledge becomes graved in our brain. 
 
 When you are thinking, your brain is like a fireworks show. Every sound must be recover, activated, linked and released. 
 
-Thinking also does not accept simultaneous action. We cannot think 2 stories *at the exactly same time* in our heads.
+Thinking is so intense for the brain that we could argue that also does not accept simultaneous action. We cannot think 2 stories *at the exactly same time* in our heads.
 
 Sure, we can hold 2 or more stories in our heads but we will be switching from one to the other to keep their meanings alive. Just try these 2 phrases:
 
@@ -65,9 +65,9 @@ Just compare this mental limitation to our ability to process things in parallel
 
 For thinking, the brain limits itself, no parallelism is possible. It requires a great deal of focus, memory, logic and energy to create the sound sequences and to follow them into meanings in our heads. 
 
-As an adult, since we are thinking all the time, we get exhausted. Like a mental marathon runner. 
+As an adult, if we are thinking all the time, we get exhausted. Like a mental marathon runner. 
 
-This is not a criticism. It is just our experience and we should understanding the energy consumption or our thoughts.
+This is not a criticism. It is just our experience and we should understand the energy consumption or our thoughts.
 
 If we are thinking on how to solve a problem and we are passionate about it, that is wonderful! Keep thinking hard. 
 
@@ -75,11 +75,11 @@ If we are just  babbling all day long in our heads, then we are probably wasting
 
 This distinction is very important. 
 
-In sustainability you try to avoid spend energy for a low output. For the mind, it could be the same, one sound after the other. 
+In sustainability you try to avoid spending energy for a low output. For the mind, it could be the same, one sound after the other. 
 
 Is it the same for images ? 
 
-Now lets check something like the electric car. Our imagination. 
+Now lets check the electric car: Our imagination. 
 
 
 ***
