@@ -10,7 +10,7 @@
    * [The Mind](brainandmind.md)
    * [The Language](mindlanguage.md)
    * [Thinking](onewordaftertheother.md)
-   * The imagination
+   * [The imagination](the_imagination.md)
 * [Part 2 - The Sustainable Developer]
 * [Under Construction](alert.md)
 * [Extras]
